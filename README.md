@@ -732,8 +732,11 @@ is a way of creating websites that can adapt to different screen sizes and devic
 - 🌱 I’m currently learning ...
   [Microsoft Learning Path](https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn) 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... kyle@heartofstoneclothing.com
-  [facebook](https://facebook.com/heartofstoneclothing)
+- 📫 How to reach me ...
+---
+  - kyle@heartofstoneclothing.com
+  - [facebook](https://facebook.com/heartofstoneclothing)
+  - [instagram](https://smart.bio/heart_of_stone_clothing_online)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -758,7 +761,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 </div>  
 </body>
 </html>
-
 
 
 
