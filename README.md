@@ -4,7 +4,7 @@
 
 Hello, and welcome to the Heart of Stone Clothing! We would like to share with you the story of how our non-profit clothing company came to be.
 
-Heart of Stone Clothing was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
+[Heart of Stone Clothing](https://heartofstoneclothing.com) was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
 
 The name Heart of Stone comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our logo is a heart-shaped stone that symbolizes our values and mission.
 
