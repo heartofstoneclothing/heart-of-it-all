@@ -676,7 +676,7 @@ CSS
   }
 ```
 ---
-8. [Nutrition Label]([https://www.facebook.com/reel/1068527471247567](https://sites.google.com/view/heartofstoneclothes/nutrition-label))
+8. [Nutrition Label](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
 
 html
 ```
