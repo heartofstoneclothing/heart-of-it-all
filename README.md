@@ -20,6 +20,7 @@ Thank you for reading and stay tuned for more updates from Heart of Stone Clothi
 
 - Our mission📕
 - Our staff🦸
+  -[Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
 - Our catalogue📇
 - Our activities▶️
 - Our collaborations🤝
