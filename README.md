@@ -15,13 +15,29 @@ We hope you enjoyed learning more about our history and vision. If you want to s
 
 Thank you for reading and *stay tuned* for more **updates** from Heart of Stone Clothing!
 
-> <!DOCTYPE html>
-> <html lang="en">
-> <head> 
-> <meta charset="UTF-8">
-> </head>
-> <body>a</body>
-> </html>
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+</head>
+<body>
+<div>
+<div>a</div>
+<div>b</div>  
+<div>c</div> 
+</div>
+<div>
+<div>d</div>
+<div>e</div>
+<div>f</div>
+</div>  
+<div>
+<div>g</div>
+<div>h</div>
+<div>i</div>
+</div>  
+</body>
+</html>
 
 ## Projects
 ---
@@ -102,7 +118,8 @@ Thank you for reading and *stay tuned* for more **updates** from Heart of Stone 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cafe Menu</title>
     <link href="style.css" rel="stylesheet"/>
-<style>body {
+<style>
+body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
     padding: 20px;
