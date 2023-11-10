@@ -1,7 +1,6 @@
 # HEARTOFSTONECLOTHING
-## a fashionable code sense
-
-- Our company🌐
+![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
+## Our company🌐
 
 Hello, and welcome to the Heart of Stone Clothing! We would like to share with you the story of how our non-profit clothing company came to be.
 
@@ -16,6 +15,8 @@ Our goal is to create clothing that is not only stylish and comfortable, but als
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website at **heartofstoneclothing.com** and browse our collections. You can also follow us on social media and join our community of like-minded people.
 
 Thank you for reading and stay tuned for more updates from Heart of Stone Clothing!
+
+
 
 - Our mission📕
 - Our staff🦸
