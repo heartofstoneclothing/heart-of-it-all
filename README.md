@@ -1,6 +1,10 @@
 # HEARTOFSTONECLOTHING
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 ## Our company🌐
+---
+### How to navigate:
+ 
+---
 
 Hello, and welcome to the [Heart of Stone Clothing!](https://heartofstoneclothing.com/) We would like to share with you the story of how our non-profit clothing company came to be.
 
@@ -710,22 +714,22 @@ is a way of creating websites that can adapt to different screen sizes and devic
 ## Our collaborations🤝
 ---
 ## Badges
-### This is how to make a checklist by using badges I've earned as an example:
-- [x] [Office mate](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
-- [ ] [DOS boss](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
-- [ ] [Audiofile](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K)
-- [ ] [Local hero](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_98052)
-- [ ] [Founder](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_441975)
-- [ ] [7-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_7)
-- [ ] [30-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_30)
-- [ ] [180-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_180)
-- [ ] [365-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_365)
-- [ ] [999-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_999)
-- [x] [$1 donation towards charity](https://rewards.bing.com/status/badgedetails?badgeId=Badge_Donation_1K)
-- [ ] [Ace of hearts](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K)
-- [ ] [Heart of hearts](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K)
-- [ ] [Heart of gold](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
-- [ ] [World of thanks](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
+#### This is how to make a checklist by using badges I've earned as an example:
+- [x] [**_Office mate_**](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
+- [ ] [**_DOS boss_**](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
+- [ ] [**_Audiofile_**](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K)
+- [ ] [**_Local hero_**](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_98052)
+- [ ] [**_Founder_**](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_441975)
+- [ ] [**_7-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_7)
+- [ ] [**_30-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_30)
+- [ ] [**_180-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_180)
+- [ ] [**_365-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_365)
+- [ ] [**_999-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_999)
+- [x] [**_$1 donation towards charity_**](https://rewards.bing.com/status/badgedetails?badgeId=Badge_Donation_1K)
+- [ ] [**_Ace of hearts_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K)
+- [ ] [**_Heart of hearts_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K)
+- [ ] [**_Heart of gold_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
+- [ ] [**_World of thanks_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
 ---
 - 👀 I’m interested in ...
   
@@ -734,9 +738,8 @@ is a way of creating websites that can adapt to different screen sizes and devic
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 ---
-  - kyle@heartofstoneclothing.com
-  - [facebook](https://facebook.com/heartofstoneclothing)
-  - [instagram](https://smart.bio/heart_of_stone_clothing_online)
+  kyle@heartofstoneclothing.com | [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) | 
+  [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
 
 <!DOCTYPE html>
 <html lang="en">
