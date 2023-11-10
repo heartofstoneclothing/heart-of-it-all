@@ -244,7 +244,7 @@ body {
   </body>
 </html>
 ```
-3. [CSS Colored Markers](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
+3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
 ```
 <!DOCTYPE html>
 <html lang="en">
