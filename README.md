@@ -21,7 +21,6 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
   ```
 <!DOCTYPE html>
-
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -84,8 +83,11 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
       </p>
     </footer>
   </body>
-</html>  ``` 
+</html>
+``` 
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
+
+html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -247,6 +249,7 @@ body {
     color: brown;
   }
 ```
+
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
 
 html
@@ -278,6 +281,7 @@ html
   </body>
 </html>
 ```
+
 CSS
 ```
 h1 {
@@ -325,7 +329,6 @@ h1 {
   background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
   box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
 }
-
 ```
 4. [Registration Form](https://sites.google.com/view/heartofstoneclothes/registration-form)
 
