@@ -733,6 +733,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
   [Microsoft Learning Path](https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn) 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... kyle@heartofstoneclothing.com
+  [facebook](https://facebook.com/heartofstoneclothing)
 
 <!DOCTYPE html>
 <html lang="en">
