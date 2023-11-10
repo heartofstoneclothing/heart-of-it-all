@@ -681,8 +681,8 @@ CSS
 ## 📇Our catalogue📇
 ---
 ## ▶️Our activities▶️
----
 [My first game; inspired by Google Chrome's dino game](https://gist.github.com/heartofstoneclothing/e622da1e3dd4d5152db9e2aa9a4b9739)
+---
 ## 🎓Certifications🎓
 ---
 [Data Visualisation ](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
@@ -710,7 +710,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
 ## Our collaborations🤝
 ---
 ## Badges
-### this is to learn how to make a checklist
+### This is how to make a checklist by using badges I've earned as an example:
 - [x] [Office mate](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
 - [ ] [DOS boss](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
 - [ ] [Audiofile](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K)
