@@ -14,6 +14,15 @@ Our goal is to create clothing that is not only stylish and comfortable, but als
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website at [**_heartofstoneclothing.com_**](https://heartofstoneclothing.com) and browse our collections. You can also follow us on social media and join our community of like-minded people.
 
 Thank you for reading and *stay tuned* for more **updates** from Heart of Stone Clothing!
+
+> <!DOCTYPE html>
+> <html lang="en">
+> <head> 
+> <meta charset="UTF-8">
+> </head>
+> <body>a</body>
+> </html>
+
 ## Projects
 ---
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
