@@ -13,7 +13,7 @@ Our products are made from organic and recycled materials, and we donate 50% of 
 Our goal is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website at [**_heartofstoneclothing.com_**](https://heartofstoneclothing.com) and browse our collections. You can also follow us on social media and join our community of like-minded people.
 
-Thank you for reading and *stay tuned* for more **updates** from Heart of Stone Clothing!
+Thank you for reading and ***stay tuned*** for more **updates** from Heart of Stone Clothing!
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,20 +21,20 @@ Thank you for reading and *stay tuned* for more **updates** from Heart of Stone 
 <meta charset="UTF-8">
 </head>
 <body>
-<div>
-<div>a</div>
-<div>b</div>  
-<div>c</div> 
+<div class="1">
+<div class="a">a</div>
+<div class="b">b</div>  
+<div class="c">c</div> 
 </div>
-<div>
-<div>d</div>
-<div>e</div>
-<div>f</div>
+<div class="2">
+<div class="d">d</div>
+<div class="e">e</div>
+<div class="f">f</div>
 </div>  
-<div>
-<div>g</div>
-<div>h</div>
-<div>i</div>
+<div class="3">
+<div class="g">g</div>
+<div class="h">h</div>
+<div class="i">i</div>
 </div>  
 </body>
 </html>
@@ -44,68 +44,66 @@ Thank you for reading and *stay tuned* for more **updates** from Heart of Stone 
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
   ```
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>CatPhotoApp</title>
-  </head>
-  <body>
-    <main>
-      <h1>CatPhotoApp</h1>
-      <section>
-        <h2>Cat Photos</h2>
-        <!-- TODO: Add link to cat photos -->
-        <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
-      </section>
-      <section>
-        <h2>Cat Lists</h2>
-        <h3>Things cats love:</h3>
-        <ul>
-          <li>cat nip</li>
-          <li>laser pointers</li>
-          <li>lasagna</li>
-        </ul>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
-        </figure>
-        <h3>Top 3 things cats hate:</h3>
-        <ol>
-          <li>flea treatment</li>
-          <li>thunder</li>
-          <li>other cats</li>
-        </ol>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
-          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
-        </figure>
-      </section>
-      <section>
-        <h2>Cat Form</h2>
-        <form action="https://freecatphotoapp.com/submit-cat-photo">
-          <fieldset>
-            <legend>Is your cat an indoor or outdoor cat?</legend>
-            <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
-            <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
-          </fieldset>
-          <fieldset>
-            <legend>What's your cat's personality?</legend>
-            <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
-            <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
-            <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
-          </fieldset>
-          <input type="text" name="catphotourl" placeholder="cat photo URL" required>
-          <button type="submit">Submit</button>
-        </form>
-      </section>
-    </main>
-    <footer>
-      <p>
-        No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
-      </p>
-    </footer>
-  </body>
+ <html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CatPhotoApp</title>
+</head>
+<body>
+<main>
+<h1>CatPhotoApp</h1>
+<section>
+<h2>Cat Photos</h2>
+<!-- TODO: Add link to cat photos -->
+<p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
+<a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+</section>
+<section>
+<h2>Cat Lists</h2>
+<h3>Things cats love:</h3>
+<ul>
+<li>cat nip</li>
+<li>laser pointers</li>
+<li>lasagna</li>
+</ul>
+<figure>
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+<figcaption>Cats <em>love</em> lasagna.</figcaption>  
+</figure>
+<h3>Top 3 things cats hate:</h3>
+<ol>
+<li>flea treatment</li>
+<li>thunder</li>
+<li>other cats</li>
+</ol>
+<figure>
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+<figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
+</figure>
+</section>
+<section>
+<h2>Cat Form</h2>
+<form action="https://freecatphotoapp.com/submit-cat-photo">
+<fieldset>
+<legend>Is your cat an indoor or outdoor cat?</legend>
+<label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+<label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+</fieldset>
+<fieldset>
+<legend>What's your cat's personality?</legend>
+<input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
+<input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+<input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+</fieldset>
+<input type="text" name="catphotourl" placeholder="cat photo URL" required>
+<button type="submit">Submit</button>
+</form>
+</section>
+</main>
+<footer>
+  <p>No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></p>
+  </footer>
+ </body>
 </html>
   ``` 
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
