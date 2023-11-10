@@ -516,34 +516,39 @@ CSS
 ```
 
 ## Our mission📕
-
-
+---
 ## 🦸Our staff🦸
   ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
   [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+---
 ## 📇Our catalogue📇
+---
 ## ▶️Our activities▶️
-## 🎓Certifications🎓 
-##### [Data Visualisation](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
-Data visualisation is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
-
+---
+## 🎓Certifications🎓
+---
+[Data Visualisation ](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
+is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
 - Exploring and analysing data to discover new insights and generate hypotheses.
 - Communicating and presenting data to inform, persuade, or educate an audience.
 - Monitoring and evaluating data to track progress, performance, or outcomes.
-
 Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
-##### [Front End Development Libraries](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
-Front-end libraries are pre-written collections of standardized HTML, CSS, and JavaScript code that developers can use to build web applications or websites more efficiently. They provide a set of tools, libraries, and conventions for building user interfaces, handling events, managing application states, and interacting with APIs. Some examples of popular front-end libraries are: 
+
+[Front End Development Libraries ](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
+are pre-written collections of standardized HTML, CSS, and JavaScript code that developers can use to build web applications or websites more efficiently. They provide a set of tools, libraries, and conventions for building user interfaces, handling events, managing application states, and interacting with APIs. Some examples of popular front-end libraries are: 
 - **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
 - **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
 - **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
-##### [Javascript Algorithms And Data Structures](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
-- JavaScript algorithms and data structures are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem. 
-- Data structures are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms. 
-- For example, a binary tree can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews. You can find many resources online to learn more about JavaScript algorithms and data structures, such as:
 
-##### [Responsive Web Design](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
-Responsive web design is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
+[Javascript Algorithms And Data Structures ](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
+are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem. 
+- Data structures are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms. 
+- For example, a binary tree can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews. You can find many resources online to learn more about JavaScript algorithms and data structures, such as
+
+[Responsive Web Design ](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
+
+---
 - Our collaborations🤝
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... 
