@@ -19,7 +19,9 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 ## Projects
 ---
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
-  ```
+
+html
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -457,6 +459,62 @@ body {
     color: #dfdfe2;
   }
 ```
+5. [Survey Form](https://sites.google.com/view/heartofstoneclothes/survey-form)
+
+html
+```
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1 id="title">Survey Form</h1>
+  <p id="description"><center>Hello, we are heartofstoneclothing.com, a leading provider of quality services. We are conducting this survey to understand how satisfied you are with our services and how we can improve it to meet your needs and expectations. This survey will take approximately 10 minutes to complete. Your responses are completely anonymous and will only be used for research purposes. Please answer all the questions honestly and to the best of your ability. At the end of the survey, you will have a chance to enter a draw to win a prize. Thank you for taking part in our survey. Your feedback is very valuable to us and will help us improve our products.</center></p>
+
+  <form id="survey-form">
+    <label id="name-label">Name
+      <input placeholder="Enter your name" required id="name" type="text"></input>
+    </label>
+    </br>
+    <label id="email-label">Email
+    <input placeholder="Enter your email" required id="email" type="email"></input>
+    </label>
+    </br>
+    <label id="number-label">Age
+    <input placeholder="Age" id="number" type='number' min="0" max="10">number</input>
+    </label>
+    </br>
+    <select id="dropdown">
+      <option>Option 1</option>
+      <option>Option 2</option>
+      <option>Option 3</option>
+    </select>
+    </br>
+     <select id="dropdown">
+        <input value="test1" name='test' type='radio'>
+        <input value="test2" name='test' type='radio'>
+        <input value="test3" name='test' type='radio'>
+      </select>
+      </br>
+      <input type="checkbox" value="checkbox1"/>
+      </br>
+      <input type="checkbox" value="checkbox2"/>
+      </br>
+      <input type="checkbox" value="checkbox3"/>
+      </br>
+      <textarea type="textarea"/></textarea>
+      <button id="submit">Submit</button>
+  </form>
+</body>
+</html>
+```
+CSS
+```
+* {
+  background-color: #00beef;
+}
+```
+
 ## Our mission📕
 
 
