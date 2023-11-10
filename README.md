@@ -625,7 +625,26 @@ are the building blocks of programming in JavaScript. Algorithms are a set of in
 is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
 
 ---
-- Our collaborations🤝
+## Our collaborations🤝
+---
+## Badges
+### this is to learn how to make a checklist
+- [x] [Office mate](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
+- [ ] [DOS boss](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
+- [ ] [Audiofile](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K)
+- [ ] [Local hero](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_98052)
+- [ ] [Founder](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_441975)
+- [ ] [7-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_7)
+- [ ] [30-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_30)
+- [ ] [180-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_180)
+- [ ] [365-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_365)
+- [ ] [999-day set](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_999)
+- [x] [$1 donation towards charity](https://rewards.bing.com/status/badgedetails?badgeId=Badge_Donation_1K)
+- [ ] [Ace of hearts](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K)
+- [ ] [Heart of hearts](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K)
+- [ ] [Heart of gold](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
+- [ ] [World of thanks](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
+---
 - 👀 I’m interested in ...
   
 - 🌱 I’m currently learning ...
@@ -656,6 +675,8 @@ is a way of creating websites that can adapt to different screen sizes and devic
 </div>  
 </body>
 </html>
+
+
 
 
 <!---
