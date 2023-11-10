@@ -86,7 +86,8 @@ html
     </footer>
   </body>
 </html>
-``` 
+```
+---
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 
 html
@@ -251,7 +252,7 @@ body {
     color: brown;
   }
 ```
-
+---
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
 
 html
@@ -332,6 +333,7 @@ h1 {
   box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
 }
 ```
+---
 4. [Registration Form](https://sites.google.com/view/heartofstoneclothes/registration-form)
 
 html
@@ -459,6 +461,7 @@ body {
     color: #dfdfe2;
   }
 ```
+---
 5. [Survey Form](https://sites.google.com/view/heartofstoneclothes/survey-form)
 
 html
@@ -514,7 +517,7 @@ CSS
   background-color: #00beef;
 }
 ```
-
+---
 6. [Rothko Painting](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
 
 html
@@ -590,6 +593,85 @@ CSS
   transform: rotate(-0.2deg);
   }
 ```
+---
+7. [Photo Gallery](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
+
+html
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <header class="header">
+      <h1>css flexbox photo gallery</h1>
+    </header>
+    <div class="gallery">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg" alt="a cute, sleeping kitten">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/2.jpg" alt="this way up kitten">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/3.jpg" alt="why so serious cat">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/4.jpg" alt="i'm tired kitty">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/5.jpg" alt="bitch said what? kitten">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/6.jpg" alt="another one, just like the other kitten">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/7.jpg" alt="in the shadows cat">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/8.jpg" alt="danger's my middle name cat">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/9.jpg" alt="yin yang cats">
+    </div>
+  </body>
+</html>
+```
+CSS
+```
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #f5f6f7;
+  }
+  
+  .header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #0a0a23;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+  }
+  
+  .gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;
+  }
+  
+  .gallery img {
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .gallery::after {
+    content: "";
+    width: 350px;
+  }
+```
+---
 ## Our mission📕
 ---
 ## 🦸Our staff🦸
