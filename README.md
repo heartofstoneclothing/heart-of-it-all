@@ -1,9 +1,10 @@
 # HEARTOFSTONECLOTHING
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
+
 ## Our company🌐
 ---
 ### How to navigate:
- 
+
 ---
 
 Hello, and welcome to the [Heart of Stone Clothing!](https://heartofstoneclothing.com/) We would like to share with you the story of how our non-profit clothing company came to be.
@@ -879,6 +880,8 @@ is a way of creating websites that can adapt to different screen sizes and devic
 
 ---
 ## Our collaborations🤝
+---
+- [Wix](https://www.santowskikr.wixsite.com/heartofstoneclothing)
 ---
 ## Badges
 #### This is how to make a checklist by using badges I've earned as an example:
