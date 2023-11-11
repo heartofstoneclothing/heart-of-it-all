@@ -881,7 +881,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
 ---
 ## Our collaborations🤝
 ---
-- [Wix](https://www.santowskikr.wixsite.com/heartofstoneclothing)
+- [Wix](https://santowskikr.wixsite.com/heartofstoneclothing)
 ---
 ## Badges
 #### This is how to make a checklist by using badges I've earned as an example:
