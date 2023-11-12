@@ -2,11 +2,11 @@
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 
 ## Our company🌐
+
 ---
 ### How to navigate:
 
 ---
-
 Hello, and welcome to the [Heart of Stone Clothing!](https://heartofstoneclothing.com/) We would like to share with you the story of how our non-profit clothing company came to be.
 
 [Heart of Stone Clothing](https://heartofstoneclothing.com/) was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
