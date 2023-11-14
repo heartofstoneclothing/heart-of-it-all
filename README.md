@@ -1,5 +1,6 @@
 # HEARTOFSTONECLOTHING
 
+---
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 
 ## Our company🌐
@@ -28,10 +29,9 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 <img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=50" width="auto" height="150" /></span>
 
 ## Projects
+
 ---
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
-
-html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -97,12 +97,12 @@ html
     </footer>
   </body>
 </html>
-```
+
 ---
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 
 html
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -163,9 +163,9 @@ html
     </div>
   </body>
 </html>
-```
+
 CSS
-```
+
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
@@ -262,7 +262,8 @@ body {
   a:active {
     color: brown;
   }
-```
+
+
 ---
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
 
