@@ -25,8 +25,8 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 
 ---
 
-<span><img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=50" width="auto" height="150" />
-<img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=50" width="auto" height="150" /></span>
+<span><img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256" width="auto" height="256" />
+<img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256" width="auto" height="256" /></span>
 
 ## Projects
 
