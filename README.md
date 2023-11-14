@@ -1,4 +1,5 @@
 # HEARTOFSTONECLOTHING
+
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 
 ## Our company🌐
@@ -20,14 +21,18 @@ Our goal is to create clothing that is not only stylish and comfortable, but als
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website at [**_heartofstoneclothing.com_**](https://heartofstoneclothing.com) and browse our collections. You can also follow us on social media and join our community of like-minded people.
 
 Thank you for reading and ***stay tuned*** for more **updates** from Heart of Stone Clothing!
-<img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256" width="auto" height="256" />
+
+---
+
+<span><img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=50" width="auto" height="150" />
+<img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=50" width="auto" height="150" /></span>
 
 ## Projects
 ---
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
 html
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
