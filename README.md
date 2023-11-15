@@ -30,8 +30,9 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 ## Projects
 
 ---
-1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
+1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -96,7 +97,7 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
     </footer>
   </body>
 </html>
-
+```
 ---
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 
