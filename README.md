@@ -907,7 +907,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
 - [ ] [**_365-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_365)
 - [ ] [**_999-day set_**](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_999)
 - [x] [**_$1 donation towards charity_**](https://rewards.bing.com/status/badgedetails?badgeId=Badge_Donation_1K)
-- [ ] [**_Ace of hearts_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K)
+- [x] [**_Ace of hearts_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K)
 - [ ] [**_Heart of hearts_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K)
 - [ ] [**_Heart of gold_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
 - [ ] [**_World of thanks_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
