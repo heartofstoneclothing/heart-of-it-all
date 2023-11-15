@@ -98,6 +98,7 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
   </body>
 </html>
 ```
+
 ---
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 
@@ -164,7 +165,10 @@ html
   </body>
 </html>
 ```
+
+---
 CSS
+
 ```
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
@@ -262,7 +266,7 @@ body {
   a:active {
     color: brown;
   }
-
+```
 
 ---
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
