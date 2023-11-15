@@ -102,7 +102,7 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 
 html
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -163,9 +163,9 @@ html
     </div>
   </body>
 </html>
-
+```
 CSS
-
+```
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
