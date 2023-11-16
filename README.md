@@ -22,6 +22,7 @@ We hope you enjoyed learning more about our history and vision. If you want to s
 
 Thank you for reading and ***stay tuned*** for more **updates** from Heart of Stone Clothing!
 
+
 ---
 
 <span><img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256" width="auto" height="256" />
