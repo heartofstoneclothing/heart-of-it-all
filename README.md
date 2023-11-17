@@ -21,7 +21,7 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 Any donations would be greatly appreciated, here is a link to my [PayPal.](
 https://www.paypal.me/kylosanta)
 
-
+[InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
 ---
 <span><img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256" width="auto" height="256" />
 <img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256" width="auto" height="256" /></span>
