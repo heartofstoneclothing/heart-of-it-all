@@ -14,7 +14,7 @@ Hello, and welcome to the [Heart of Stone Clothing!](https://heartofstoneclothin
 
 The name Heart of Stone comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [logo](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
 
-Our products are made from organic and recycled materials, and we donate 50% of our profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more. We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.
+Our [products](https://heartofstoneclothing.com/products) are made from organic and recycled materials, and we donate 50% of our profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more. We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.
 
 Our goal is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website at [**_heartofstoneclothing.com_**](https://heartofstoneclothing.com) and browse our collections. You can also follow us on social media and join our community of like-minded people.
