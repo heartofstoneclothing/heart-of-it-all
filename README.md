@@ -6,7 +6,7 @@
 
 ---
 ### How to navigate:
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](heartofstone.go.studio)
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio)
 ---
 Hello, and welcome to the [Heart of Stone Clothing!](https://heartofstoneclothing.com/) We would like to share with you the story of how our non-profit clothing company came to be.
 
