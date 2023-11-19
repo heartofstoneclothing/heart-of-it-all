@@ -1,6 +1,6 @@
-![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
+# [<sub>🌐</sub>ur company](https://heartofstoneclothing.com).
 
-# [🌐ur company](https://heartofstoneclothing.com). 
+![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2) 
 
 ---
 <dl>
