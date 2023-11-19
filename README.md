@@ -25,16 +25,16 @@ Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstonecloth
 
 <blockquote>We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.</blockquote>
 
-## [***Our goal***]() is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
+## [***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
 
-We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [**_heartofstoneclothing.com_**](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
+We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com8**](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
 
 You can also follow us on social media and join our community of like-minded people.
 
 Thank you for reading and ***stay tuned*** for _regular_ **updates** and ***exciting promotions*** from the heart.
 
 ===
-_Any donations would be greatly appreciated, here is a link to my [_blank](https://heartofstoneclothing.com/_blank)._
+Any donations would be greatly appreciated, here is a link to my [_blank](https://heartofstoneclothing.com/_blank).
 
 ---
 ## How to navigate:
