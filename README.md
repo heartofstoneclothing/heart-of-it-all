@@ -13,7 +13,7 @@
 </dl>
 
 ---
-Hello, and welcome to [heartofstoneclothing.com] (https://heartofstoneclothing.com/). We would like to share with you the story of how our non-profit charity organization came to be.
+Hello, and welcome to [heartofstoneclothing.com](https://heartofstoneclothing.com/). We would like to share with you the story of how our non-profit charity organization came to be.
 
 Our brand [heartofstoneclothing.com](https://heartofstoneclothing.com) was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
 
