@@ -32,9 +32,7 @@ https://www.paypal.me/kylosanta)
   <option value="audi">Audi</option>
 </select>
 
-<label for="episodes">pick an episode:</label>
-<select name="season-1" id="season-1"></select>
-  
+<label for="episodes">pick an episode:</label>  
 <select name="episode-1" id="episodes-1>
 <option value="S1E1">
 1. [S1E1 Das Mouse](https://drive.google.com/file/d/1jiFLZ2QZ26_zScsSIBvjLd6IJMlK9RMd/view?usp=sharing)
