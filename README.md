@@ -1,5 +1,15 @@
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 
+
+<dl>
+  <dt><a href="#chapter1">Chapter 1</a></dt>
+  <dd>Description of Chapter 1</dd>
+  <dt><a href="#chapter2">Chapter 2</a></dt>
+  <dd>Description of Chapter 2</dd>
+  <dt><a href="#chapter3">Chapter 3</a></dt>
+  <dd>Description of Chapter 3</dd>
+</dl>
+
 # Our company[🌐](https://heartofstoneclothing.com)
 
 ---
