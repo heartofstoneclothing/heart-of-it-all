@@ -19,8 +19,7 @@ Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstonecloth
 
 >They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
 
-## [Our name; 
-_heart-of-stone_]() comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [***logo***](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
+## [Our name](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [***logo***](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
 
 ## [***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
 
