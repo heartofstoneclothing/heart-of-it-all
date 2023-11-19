@@ -5,18 +5,19 @@
 ---
 <dl>
   <dt><a href="#">Chapter 1</a></dt>
-  <dd>Description of Chapter 1</dd>
+  <dd>description of our past.</dd>
   <dt><a href="#chapter2">Chapter 2</a></dt>
-  <dd>Description of Chapter 2</dd>
+  <dd>description of our presence.</dd>
   <dt><a href="#chapter3">Chapter 3</a></dt>
-  <dd>Description of Chapter 3</dd>
+  <dd>description of our promising future.</dd>
 </dl>
 
 ---
 ### How to navigate:
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio)
+
 ---
-Hello, and welcome to the [Heart of Stone Clothing!](https://heartofstoneclothing.com/) We would like to share with you the story of how our non-profit clothing company came to be.
+Hello, and welcome to [heartofstoneclothing] (https://heartofstoneclothing.com/) We would like to share with you the story of how our non-profit charity organization came to be.
 
 [Heart of Stone Clothing](https://heartofstoneclothing.com/) was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
 
