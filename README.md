@@ -24,17 +24,9 @@ https://www.paypal.me/kylosanta)
 
 # Pinky & The Brain S1
 
-<label for="cars">Choose a car:</label>
-<select name="cars" id="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="mercedes">Mercedes</option>
-  <option value="audi">Audi</option>
-</select>
-
-<label for="episodes">pick an episode:</label>  
-<select name="episode-1" id="episodes-1">
-<option value="S1E1">
+<label for="Pinky & The Brain S1">pick an episode:</label>  
+<select name="episodes" id="episodes">
+<option value="episodes" id="S1E1 Das Mouse">
 1. [S1E1 Das Mouse](https://drive.google.com/file/d/1jiFLZ2QZ26_zScsSIBvjLd6IJMlK9RMd/view?usp=sharing)
 </option>
 </select>
