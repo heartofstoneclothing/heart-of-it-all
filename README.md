@@ -13,31 +13,27 @@
 </dl>
 
 ---
-Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstoneclothing.com/). We would like to share with you the story of how our non-profit charity organization came to be.
+## Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstoneclothing.com/_blank). We would like to share with you the story of how our non-profit charity organization came to be.
 
-## Our brand [***heartofstoneclothing.com***](https://heartofstoneclothing.com) was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives. 
-
->They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
-
-## [Our name](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [***logo***](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
-
-## [***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
-
-<blockquote>We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.</blockquote>
-
-## [***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
+---
+> [our brand](https://heartofstoneclothing.com/_blank) was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives. 
+> They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
+> [Our name](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [***logo***](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
+> [***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
+> [***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
 
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com8**](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
 
+<blockquote>We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.</blockquote>
+
 You can also follow us on social media and join our community of like-minded people.
 
-Thank you for reading and ***stay tuned*** for _regular_ **updates** and ***exciting promotions*** from the heart.
-
-===
+Thank you for reading and ***stay tuned*** for _regular_ **updates** and ***exciting promotions*** from the heart-of-it-all.
 Any donations would be greatly appreciated, here is a link to my [_blank](https://heartofstoneclothing.com/_blank).
 
 ---
 ## How to navigate:
+<canvas height="200px", width="200px"></canvas>
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>pay</sup><sub>pal](https://www.paypal.me/kylosanta) 
 
 ---
