@@ -29,7 +29,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 
 ---
 ## How to navigate:
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>p</sup>a<sub>y<sup>p</sup>a<sub></sub>](https://www.paypal.me/kylosanta) 
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>p</sup>a<sub>y<sup>p</sup>a<sub>l</sub>](https://www.paypal.me/kylosanta) 
 
 <select>
 <option>one</option>
