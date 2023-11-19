@@ -13,13 +13,13 @@
 </dl>
 
 ---
-Hello, and welcome to [heartofstoneclothing.com](https://heartofstoneclothing.com/). We would like to share with you the story of how our non-profit charity organization came to be.
+Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstoneclothing.com/). We would like to share with you the story of how our non-profit charity organization came to be.
 
-Our brand [heartofstoneclothing.com](https://heartofstoneclothing.com) was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
+Our brand ["" "heartofstoneclothing.com***](https://heartofstoneclothing.com) was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
 
-The name Heart of Stone comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [logo](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
+The name Heart of Stone comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [***logo***](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
 
-Our [products](https://heartofstoneclothing.com/products) are made from organic and recycled materials, and we donate 50% of our profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more. We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.
+Our [***products***](https://heartofstoneclothing.com/products) are made from organic and recycled materials, and we donate 50% of our profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more. We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.
 
 Our goal is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
 We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website at [**_heartofstoneclothing.com_**](https://heartofstoneclothing.com) and browse our collections. You can also follow us on social media and join our community of like-minded people.
@@ -39,7 +39,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 </select>
 
 ---
-# Pinky & The Brain S1
+# **Pinky & The Brain S1**
 
 1. [S1E1 Das Mouse](https://drive.google.com/file/d/1jiFLZ2QZ26_zScsSIBvjLd6IJMlK9RMd/view?usp=sharing)
 
@@ -50,13 +50,20 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 4. [S1E4 Pinky And The Fog - Where No Mouse Has Gone Before - Cheese Roll Call](https://drive.google.com/file/d/1MndILlYXRKGTTDQLJ3wPUygefs6K0_Lw/view?usp=sharing)
 
 5. [S1E5 Brainania](https://drive.google.com/file/d/1eQlMahbZXwn2KYsj0mB9AVZEPraUlYHT/view?usp=sharing)
+
 6. [S1E6 TV Or Not TV](https://drive.google.com/file/d/1Herm-KNcxz4Z8huurpgmwMuk5GBOcuaN/view?usp=sharing)
+
 7. [S1E7 Napoleon Brainaparte](https://drive.google.com/file/d/1B_cagM7CdQfUWHqmLXCR_m_P_xtanu32/view?usp=sharing)
+
 8. [S1E8 A Pinky And The Brain Christmas](https://drive.google.com/file/d/1DiNAO33wmQF8oJKI8k_YiMXiAqquyOOg/view?usp=sharing)
+
 9. [S1E9 Snowball](https://drive.google.com/file/d/1k3PcYnGEuh2wQxciv2gwR7uG70RDsy6j/view?usp=sharing)
 10. [S1E10 Around The World In 80 Narfs](https://drive.google.com/file/d/11Z_YQimVeZB7iotyAaOnKZ45ueoNFXcd/view?usp=sharing)
+
 11. [S1E11 Fly](https://drive.google.com/file/d/1ka_QyEANg4ge3IR-w_0VFTPOCWiOLcgl/view?usp=sharing)
+
 12. [S1E12 Ambulatory Abe - Mouse of La Mancha](https://drive.google.com/file/d/1nsGcC5n9Dnl_RcLIZJn2GZXvwJp6cVzj/view?usp=sharing)
+
 13. [S1E13 The Third Mouse](https://drive.google.com/file/d/1NEkc_kmC6d5AzipRDlbF1HnHQ7eHcUvU/view?usp=sharing)
 
 
