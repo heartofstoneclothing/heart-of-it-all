@@ -21,13 +21,16 @@ Thank you for reading and ***stay tuned*** for more **updates** from Heart of St
 Any donations would be greatly appreciated, here is a link to my [PayPal.](
 https://www.paypal.me/kylosanta)
 
+<select>
+<option>one<option>
+<option>two<option>
+<option>three<option>
+<option>four<option>
+</select>
 
 # Pinky & The Brain S1
 
-<select name="season" id="episode">
-<option value="S1E1 Das Mouse" id="S1E1 Das Mouse"
-src="https://drive.google.com/file/d/1jiFLZ2QZ26_zScsSIBvjLd6IJMlK9RMd/view?usp=sharing)
-</option>
+1. [S1E1 Das Mouse] (https://drive.google.com/file/d/1jiFLZ2QZ26_zScsSIBvjLd6IJMlK9RMd/view?usp=sharing)
 
 2. [S1E2 Of Mouse And Man](https://drive.google.com/file/d/1spX4Sjtr8v8n1n2UT_ikckd53aGkkWBd/view?usp=sharing) 
 
