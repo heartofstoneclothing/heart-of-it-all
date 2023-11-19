@@ -33,8 +33,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 
 ---
 ## How to navigate:
-<canvas height="200px", width="200px"></canvas>
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>pay</sup><sub>pal](https://www.paypal.me/kylosanta) 
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>pay</sup><sub>pal](https://www.paypal.me/kylosanta)  |
 
 ---
 <form>
@@ -46,11 +45,20 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
   <label for="other">Other</label>
 </form>
 
+  <div class="radio-container">
+        <input type="radio" id="radio1" name="radiogroup">
+        <label for="radio1">Option 1</label>
+        <input type="radio" id="radio2" name="radiogroup">
+        <label for="radio2">Option 2</label>
+        <input type="radio" id="radio3" name="radiogroup">
+        <label for="radio3">Option 3</label>
+  </div>
+
 <select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-<option>four</option>
+<option>one</option></br>
+<option>two</option></br>
+<option>three</option></br>
+<option>four</option></br>
 </select>
 
 ---
