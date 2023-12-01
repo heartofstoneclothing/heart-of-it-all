@@ -166,11 +166,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 <html lang="en">
 <head> 
 <meta charset="UTF-8">
-<style>
-  body {
-    background-color: red;
-  }
-</style>
 </head>
 <body>
 <div class="1">
