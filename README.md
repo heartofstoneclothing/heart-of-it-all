@@ -33,7 +33,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 
 ---
 ## How to navigate:
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>pay</sup><sub>pal](https://www.paypal.me/kylosanta)  |
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>pay</sup><sub>pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
 
 ---
 <form>
