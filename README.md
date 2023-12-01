@@ -62,32 +62,6 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 </select>
 
 ---
-# **Pinky & The Brain S1**
-
-1. [S1E1 Das Mouse](https://drive.google.com/file/d/1jiFLZ2QZ26_zScsSIBvjLd6IJMlK9RMd/view?usp=sharing)
-
-2. [S1E2 Of Mouse And Man](https://drive.google.com/file/d/1spX4Sjtr8v8n1n2UT_ikckd53aGkkWBd/view?usp=sharing) 
-
-3. [S1E3 Tokyo Grows - That Smarts - Brainstem](https://drive.google.com/file/d/16ixcrVo3pFRktWaxSex7M4s73s-o6NUD/view?usp=sharing)
-
-4. [S1E4 Pinky And The Fog - Where No Mouse Has Gone Before - Cheese Roll Call](https://drive.google.com/file/d/1MndILlYXRKGTTDQLJ3wPUygefs6K0_Lw/view?usp=sharing)
-
-5. [S1E5 Brainania](https://drive.google.com/file/d/1eQlMahbZXwn2KYsj0mB9AVZEPraUlYHT/view?usp=sharing)
-
-6. [S1E6 TV Or Not TV](https://drive.google.com/file/d/1Herm-KNcxz4Z8huurpgmwMuk5GBOcuaN/view?usp=sharing)
-
-7. [S1E7 Napoleon Brainaparte](https://drive.google.com/file/d/1B_cagM7CdQfUWHqmLXCR_m_P_xtanu32/view?usp=sharing)
-
-8. [S1E8 A Pinky And The Brain Christmas](https://drive.google.com/file/d/1DiNAO33wmQF8oJKI8k_YiMXiAqquyOOg/view?usp=sharing)
-
-9. [S1E9 Snowball](https://drive.google.com/file/d/1k3PcYnGEuh2wQxciv2gwR7uG70RDsy6j/view?usp=sharing)
-10. [S1E10 Around The World In 80 Narfs](https://drive.google.com/file/d/11Z_YQimVeZB7iotyAaOnKZ45ueoNFXcd/view?usp=sharing)
-
-11. [S1E11 Fly](https://drive.google.com/file/d/1ka_QyEANg4ge3IR-w_0VFTPOCWiOLcgl/view?usp=sharing)
-
-12. [S1E12 Ambulatory Abe - Mouse of La Mancha](https://drive.google.com/file/d/1nsGcC5n9Dnl_RcLIZJn2GZXvwJp6cVzj/view?usp=sharing)
-
-13. [S1E13 The Third Mouse](https://drive.google.com/file/d/1NEkc_kmC6d5AzipRDlbF1HnHQ7eHcUvU/view?usp=sharing)
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
 ---
@@ -97,20 +71,18 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 ## Projects
 
 ---
-
-
-
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
-4. [Registration Form](https://sites.google.com/view/heartofstoneclothes/registration-form)
-5. [Survey Form](https://sites.google.com/view/heartofstoneclothes/survey-form)
-6. [Rothko Painting](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
-7. [Photo Gallery](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
-8. [Nutrition Label](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
+4. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
+5. [**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
+6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
+7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
+8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
 
 ---
 ## Our mission📕
+
 ---
 
 ## 🦸Our staff🦸
