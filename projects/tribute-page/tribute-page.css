@@ -1,0 +1,12 @@
+/* Apply styles to the image */
+#image {
+    display: block; /* Make the image a block element */
+    max-width: 100%; /* Resize the image responsively */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+/* Apply styles to the caption */
+#img-caption {
+    text-align: center; /* Center the caption text */
+}

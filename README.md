@@ -22,7 +22,7 @@
 > [***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
 > [***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
 
-We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com8**](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
+We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com***](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
 
 <blockquote>We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.</blockquote>
 
@@ -68,6 +68,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 <span><img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256" width="auto" height="256" />
 <img src="https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256" width="auto" height="256" /></span>
 
+---
 ## Projects
 
 ---
@@ -84,15 +85,17 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 ## Our mission📕
 
 ---
-
 ## 🦸Our staff🦸
   ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
   [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+
 ---
 ## 📇Our catalogue📇
+
 ---
 ## ▶️Our activities▶️
 [My first game; inspired by Google Chrome's dino game](https://gist.github.com/heartofstoneclothing/e622da1e3dd4d5152db9e2aa9a4b9739)
+
 ---
 ## 🎓Certifications🎓
 ---
@@ -119,11 +122,12 @@ is a way of creating websites that can adapt to different screen sizes and devic
 
 ---
 ## Our collaborations🤝
+
 ---
 - [Wix](https://santowskikr.wixsite.com/heartofstoneclothing)
 ---
 ## Badges
-#### This is how to make a checklist by using badges I've earned as an example:
+### This is how to make a checklist by using badges I've earned as an example:
 - [x] [**_Office mate_**](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
 - [ ] [**_DOS boss_**](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
 - [ ] [**_Audiofile_**](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K)
@@ -140,20 +144,33 @@ is a way of creating websites that can adapt to different screen sizes and devic
 - [ ] [**_Heart of gold_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
 - [ ] [**_World of thanks_**](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
 ---
+
+
 - 👀 I’m interested in ...
   
 - 🌱 I’m currently learning ...
   [Microsoft Learning Path](https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn) 
+
 - 💞️ I’m looking to collaborate on ... 
+
+
 - 📫 How to reach me ...
+
+
 ---
   kyle@heartofstoneclothing.com | [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) | 
   [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head> 
 <meta charset="UTF-8">
+<style>
+  body {
+    background-color: red;
+  }
+</style>
 </head>
 <body>
 <div class="1">
