@@ -1,0 +1,67 @@
+/* Basic styles for header and navigation */
+#header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+#header-img {
+    width: 100px; /* Adjust the logo size */
+}
+
+#nav-bar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; /* Remove default margin */
+}
+
+#nav-bar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Sticky navigation bar */
+#nav-bar {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    z-index: 1000;
+}
+
+/* Media query for responsive design */
+@media (max-width: 768px) {
+    /* Add responsive styles here */
+}
+
+/* Additional styles for sections, video, and form can be added as needed */
+/* Basic styles for the section */
+#section1 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Flexbox container and items */
+.flex-container {
+    display: flex;
+    justify-content: space-around; /* Distribute items evenly */
+    align-items: center; /* Center items vertically */
+}
+
+.flex-item {
+    flex: 1; /* Each item takes equal space */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}

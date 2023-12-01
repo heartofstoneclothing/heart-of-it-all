@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="technical-documentation-page.css">
+  <title>Technical Documentation</title>
+</head>
+
+<body>
+  <nav id="navbar" href="Hello_World">
+    <header>Documentation Navigation</header>
+      <ul>
+        <li>
+          <a class="nav-link" href="#Getting_Started_With_Java">Getting Started With Java</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#Java_Entry_Point">Java Entry Point</a>
+        </li>
+                <li>
+          <a class="nav-link" href="#Printing_to_the_Console">Printing to the Console</a>
+        </li>
+       <li>
+          <a class="nav-link" href="#Declaring_Functions">Declaring Functions</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#Object_Orientated_Programming">Object Orientated Programming</a>
+        </li>
+       </ul> 
+     </nav>
+     <main id="main-doc">
+         <section class="main-section" id="Getting_Started_With_Java">
+             <header>Getting Started With Java</header>
+             <p>Steps in getting started</p>
+             <ol>
+                 <li>Download Java</li>
+                 <li>Download Java SDK</li>
+                 <li>Get an Intergrated Development Environment (IDE)</li>
+                 <li>Start a project within the IDE</li>
+                 <li>Code up "Hello World" and run the code</li>
+             </ol>    
+         </section>
+         <section class="main-section" id="Java_Entry_Point">
+             <header>Java Entry Point</header>
+             <p>The entry point toa java application is the main function</p>
+             <p>It is categorised by its (String[] arg) as a parameter to the function</p>
+            <pre>
+                <code>
+                    public class MyMainFunction {
+                        /* Java main function example */
+                        public static void main(String[] args) {
+                          System.out.println("Hello World");
+                        }
+                    }
+                </code>  
+              </pre>   
+              <p>
+                  As you can see the main function is wrapped within a class which is part of the object oriented structure of Java Projects.
+               </p>
+               <p>The name of the project is therefore "MyMainFunction"</p>    
+         </section>
+         <section class="main-section" id="Printing_to_the_Console">
+             <header>Printing to the Console</header>
+             <p>In order to print to the console, we use System.out.println.</p>
+             <p>I know it is very cumbersome, but this is the only way it is done</p> 
+              <code>
+    public static void anotherExampleMethod() {
+      // Another example method code
+    }
+  </code>
+         </section>
+         <section class="main-section" id="Declaring_Functions">
+             <header>Declaring Functions</header>
+             <p>Functions are actually called methods in Java, here is an example of how to declare a Java method.</p>
+             <img src="https://static.javatpoint.com/core/images/method-in-java.png" alt="Java-method-img" class="image" />
+             <p>Some copiable code:</p>
+             <pre>
+                 <code>
+                     Public static void myFunction(String name, int age )
+                     {
+                         // function code
+                     }
+                 </code>    
+             </pre>    
+         </section>
+         <section class="main-section" id="Object_Orientated_Programming">
+             <header>Object Orientated Programming</header>
+             <p>Java is known as an object oriented programming language</p>
+             <p>This means that it is easy to represent entities as objects by using classes and encapsulation.</p>
+             <p>An example of this might be a student class to represent a student</p>
+             <pre>
+                 <code>
+                   public class Student {
+
+                       /* Student properties */
+                       private String name;
+                       private int age
+
+                       /* Constructor */
+                       public student(String name, int age){
+                           this.name = name;
+                           this.age = age;
+                       }
+
+                       /* Getter method */
+                       public String getName() {
+                           return name;
+                       }
+
+                       /* Setter method */
+                       public void setName(string name) {
+                           this.name = name;
+                       }
+                   </code>
+                 </pre>
+                 <p>We use this by doing the following:</p>
+                 <pre>
+                     <code>
+                         Student student1 = new Student("Kyle" 30);
+                         String kyleName = student1.getName();
+                         student1.setName("Robert");
+                         String robertName = student1.getName();
+                     </code>
+                   </pre>
+         </section>
+         <footer>
+           <p>Documentation brought to you by Kyle Santowski.</p>
+           </footer>
+       </main>
+       <script>
+    // JavaScript to set the IDs of sections based on their headers
+    document.addEventListener("DOMContentLoaded", function () {
+      const sections = document.querySelectorAll(".main-section");
+      sections.forEach((section) => {
+        const header = section.querySelector("header");
+        if (header) {
+          const id = header.textContent.trim().replace(/\s+/g, "_");
+          section.id = id;
+        }
+      });
+    });
+  </script>      
+   </body>
+
+   </html>     
