@@ -1,0 +1,18 @@
+.editor {
+    display: flex;
+    flex-direction: row;
+  }
+
+  #editor {
+    flex: 1;
+    height: 100vh;
+    padding: 10px;
+  }
+
+  #preview {
+    flex: 1;
+    height: 100vh;
+    padding: 10px;
+    background-color: #f5f5f5;
+    overflow-y: scroll;
+  }

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markdown Previewer</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.0.3/marked.min.js"></script>
+</head>
+<body>
+  <div class="editor">
+    <textarea id="editor" oninput="updatePreview()">
+
+# Heading 1
+      
+## Subheading
+      
+[link](https://heartofstoneclothing.com)
+      
+`Inline code`
+      
+```
+function example() {
+  console.log("Hello, World!");
+}
+```
+      
+> blockquote line one
+>> blockquote line two
+      
+// a comment
+      
+![img](https://avatars.githubusercontent.com/u/124478163?v=4)
+
+1. a list
+2. **bold text**
+
+    </textarea>
+    <div id="preview"></div>
+  </div>
+
+</body>
+</html>
+
