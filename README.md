@@ -1,4 +1,4 @@
-# Our Company(https://heartofstoneclothing.com).
+# [Our Company](https://heartofstoneclothing.com).
 
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2) 
 
@@ -83,6 +83,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 
 ---
 ## Our mission📕
+
 
 ---
 ## 🦸Our staff🦸
