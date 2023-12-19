@@ -120,6 +120,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 ---
 
 - [Data Visualisation](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
+
 is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
 
 - Exploring and analysing data to discover new insights and generate hypotheses.
@@ -143,7 +144,8 @@ are the building blocks of programming in JavaScript. Algorithms are a set of in
 - Data structures are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms.
 - For example, a binary tree can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews. You can find many resources online to learn more about JavaScript algorithms and data structures, such as
 
-[Responsive Web Design](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+
 is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
 
 ---
@@ -189,7 +191,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
 
 ---
 
-  [**email**](kyle@heartofstoneclothing.com)| [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) |
+  [**email**](kyle@heartofstoneclothing.com) | [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) |
   [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
 
 ```html
