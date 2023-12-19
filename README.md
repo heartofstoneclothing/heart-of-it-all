@@ -279,6 +279,6 @@ H<sub>2</sub>0
 X<sup>^</sup>2<sup>^</sup>
 
 <!---
-heartofstoneclothing/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
