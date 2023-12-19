@@ -122,9 +122,9 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 - [Data Visualisation](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
 is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
 
-1. Exploring and analysing data to discover new insights and generate hypotheses.
-2. Communicating and presenting data to inform, persuade, or educate an audience.
-3. Monitoring and evaluating data to track progress, performance, or outcomes.
+- Exploring and analysing data to discover new insights and generate hypotheses.
+- Communicating and presenting data to inform, persuade, or educate an audience.
+- Monitoring and evaluating data to track progress, performance, or outcomes.
 
 Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
 
@@ -132,9 +132,9 @@ Data visualisation can take many forms, such as charts, graphs, maps, dashboards
 
 are pre-written collections of standardized HTML, CSS, and JavaScript code that developers can use to build web applications or websites more efficiently. They provide a set of tools, libraries, and conventions for building user interfaces, handling events, managing application states, and interacting with APIs. Some examples of popular front-end libraries are:
 
-1. **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
-2. **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
-3. **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
+- **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
+- **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
+- **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
 
 - [Javascript Algorithms And Data Structures](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
 
