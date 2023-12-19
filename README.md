@@ -273,13 +273,11 @@ term 2
 
 That was so funny! :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
-```html
 I need to highlight these <mark>very important words.</mark>
 
 H<sub>2</sub>0
 
 X<sup>^</sup>2<sup>^</sup>
-```
 
 <!---
 heartofstoneclothing/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
