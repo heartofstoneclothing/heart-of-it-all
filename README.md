@@ -262,6 +262,9 @@ is a way of creating websites that can adapt to different screen sizes and devic
 "age": 25
 }
 
+Here is a sentence with a footnote. [^1]
+[^1]: This is the footnote.
+
 {#custom-id}
 
 term  
@@ -288,8 +291,7 @@ X<sup>^</sup>2<sup>^</sup>
 ```
 
 ```python
-Here is a sentence with a footnote. [^1]
-[^1]: This is the footnote.
+
 ```
 
 <!---
