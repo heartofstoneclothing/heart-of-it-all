@@ -263,7 +263,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 }
 
 Here is a sentence with a footnote. [^1]
-[^1]: This is the footnote.
 
 {#custom-id}
 
@@ -288,6 +287,7 @@ H<sub>2</sub>0
 
 X<sup>^</sup>2<sup>^</sup>
 
+**[^1]: This is the footnote.**
 ```
 
 <!---
