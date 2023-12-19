@@ -279,9 +279,11 @@ H<sub>2</sub>0
 
 X<sup>^</sup>2<sup>^</sup>
 
-[codepen_embed height="300" default_tab="html,result" slug_hash="vYPBYMa" user="heartofstoneclothing"]See the Pen <a href="https://codepen.io/heartofstoneclothing/pen/vYPBYMa">
+<iframe height="300" style="width: 100%;" scrolling="no" title="markdown-feature?" src="https://codepen.io/heartofstoneclothing/embed/vYPBYMa?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/heartofstoneclothing/pen/vYPBYMa">
   markdown-feature?</a> by heartofstoneclothing.com (<a href="https://codepen.io/heartofstoneclothing">@heartofstoneclothing</a>)
-  on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 <!---
 heartofstoneclothing/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
