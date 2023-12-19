@@ -220,7 +220,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
 </html>
 ```
 
-```html
+```markdown
 # Basic Syntax
 
 ## H2
