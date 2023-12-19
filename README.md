@@ -136,7 +136,7 @@ are pre-written collections of standardized HTML, CSS, and JavaScript code that 
 2. **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
 3. **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
 
-[Javascript Algorithms And Data Structures](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
+- [Javascript Algorithms And Data Structures](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
 
 are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem.
 
