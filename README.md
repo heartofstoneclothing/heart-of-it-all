@@ -273,7 +273,7 @@ term 2
 
 That was so funny! :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
-I need to highlight these `<mark>`very important words.`</mark>`
+I need to highlight these <mark>very important words.</mark>
 
 H<sub>2</sub>0
 
