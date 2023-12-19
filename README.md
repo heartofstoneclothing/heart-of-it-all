@@ -220,6 +220,11 @@ is a way of creating websites that can adapt to different screen sizes and devic
 </html>
 ```
 
+```markdown
+# This is a heading
+## This is a subheading
+```
+
 <!---
 heartofstoneclothing/heartofstoneclothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
