@@ -223,6 +223,75 @@ is a way of creating websites that can adapt to different screen sizes and devic
 ```markdown
 # This is a heading
 ## This is a subheading
+### 
+
+
+# Basic Syntax
+
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+**bold text**
+
+*italicized text*
+
+> blockquote
+
+1. Ordered
+2. List
+
+- Unordered
+- List
+
+`code`
+
+[link]()
+
+![image]()
+
+# Extended Syntax
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
+}
+
+Here is a sentence with a footnote. [^1]
+[^1]: This is the footnote.
+
+### My Great Heading 
+{#custom-id}
+
+term  
+: definition
+
+term 2  
+: another  
+: definition  
+
+~~STRIKETHROUGH~~
+
+- [x] completed task.
+- [ ] uncompleted task.
+- [ ] another uncompleted task.
+
+That was so funny! :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
+
+I need to highlight these <mark>very important words.</mark>
+
+H<sub>2</sub>0
+
+X<sup>^</sup>2<sup>^</sup>
+
 ```
 
 <!---
