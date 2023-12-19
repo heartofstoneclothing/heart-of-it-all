@@ -245,11 +245,13 @@ is a way of creating websites that can adapt to different screen sizes and devic
 | Header | Title |
 | Paragraph | Text |
 
+`
 {
 "firstName": "John",
 "lastName": "Smith",
 "age": 25
 }
+`
 
 Here is a sentence with a footnote. [^1]
 [^1]: This is the footnote.
