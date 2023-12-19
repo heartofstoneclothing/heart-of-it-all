@@ -38,8 +38,7 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 
 ## How to navigate
 
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [<sup>pay</sup><sub>pal</sub>
-](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
 ---
 
@@ -278,8 +277,6 @@ I need to highlight these `very important words.`
 H<sub>2</sub>0
 
 X<sup>^</sup>2<sup>^</sup>
-
-</iframe>
 
 <!---
 heartofstoneclothing/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
