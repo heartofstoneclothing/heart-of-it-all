@@ -221,17 +221,16 @@ is a way of creating websites that can adapt to different screen sizes and devic
 ```
 
 ```markdown
-# This is a heading
-## This is a subheading
-### 
-
-
 # Basic Syntax
 
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 **bold text**
