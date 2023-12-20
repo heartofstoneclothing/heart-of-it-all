@@ -34,7 +34,7 @@ We also partner with local artisans and communities to create unique and ethical
 You can also follow us on social media and join our community of like-minded people.
 
 Thank you for reading and ***stay tuned*** for *regular* **updates** and ***exciting promotions*** from the heart-of-it-all.
-Any donations would be greatly appreciated, here is a link to my [:joy:](https://heartofstoneclothing.com/_blank).
+Any donations would be greatly appreciated, here is a link to my [🤢](https://heartofstoneclothing.com/_blank)
 
 ---
 
