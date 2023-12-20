@@ -90,6 +90,10 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
 7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
 8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
+9. [**placeholder1**](https://example.com)
+10.[**placeholder2**](https://example.com)
+11.[**placeholder3**](https://example.com)
+12.[**placeholder4**](https://example.com)
 
 ---
 
