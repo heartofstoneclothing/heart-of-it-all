@@ -42,6 +42,14 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
+|IP|128|64|32|16|8|4|2|1|binary|
+|---|---|---|---|---|---|---|---|---|---|
+|76.223.105.230||||||||||
+|76|o|x|o|o|x|x|o|o|01001100|
+|223|x|x|o|x|x|x|x|x|11011111|
+|105|o|x|x|o|x|o|o|x|01101001|
+|230|x|x|x|o|o|x|x|o|11100110|
+
 ---
 
 ```html
