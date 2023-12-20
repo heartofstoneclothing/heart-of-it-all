@@ -248,16 +248,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 </html>
 ```
 
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
 > blockquote
 
 1. Ordered
@@ -293,10 +283,6 @@ term 2
 : definition  
 
 ~~STRIKETHROUGH~~
-
-- [x] completed task.
-- [ ] uncompleted task.
-- [ ] another uncompleted task.
 
 That was so funny!
 :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
