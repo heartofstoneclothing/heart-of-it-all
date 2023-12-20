@@ -57,7 +57,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 ||-00-|-1E-|-EC-|-87-|-64-|-ES-|--|--|--|--|
 || {{0100} | {1100}} | {{1101} | {1111}} | {{0110} | {0001}} | {{1110} | {0110}} |
 |||||||||||
-||||||||||_something like this..._|
+|||||||||| ***something like this...*** |
 
 ---
 
