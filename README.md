@@ -142,11 +142,151 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## ▶️Our activities▶️
 
+```html
+<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="yLZZxLG" data-preview="true" data-user="heartofstoneclothing"  data-prefill='{"title":"markdown previewer-xxx","tags":[],"scripts":["https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"],"stylesheets":[]}'>
+  <pre data-lang="html">&lt;html lang="en">
+&lt;head>
+  &lt;meta charset="UTF-8">
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+  &lt;title>Markdown Previewer&lt;/title>
+  &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.0.3/marked.min.js">&lt;/script>
+  &lt;style>
+  &lt;/style>
+&lt;/head>
+&lt;body>
+  &lt;button onclick="togglePreviewGradient()">Toggle Preview Gradient&lt;/button>
+  &lt;button onclick="toggleBodyGradient()">Toggle Body Gradient&lt;/button>
+
+  &lt;div class="editor-container">
+    &lt;textarea id="editor" oninput="updatePreview()">
+# This is an H1 header
+
+## This is an H2 subheader
+
+[This is a link](https://www.example.com)
+
+`This is inline code`
+      
+this is a code block
+` ```
+- This is a list item
+``` `
+> This is a blockquote
+
+![This is an image](https://placekitten.com/200/300)
+
+**This is bolded text**
+    
+    &lt;/textarea>
+
+    &lt;div id="preview-container" class="gradient-background">
+      &lt;div class="star-icon">
+        &lt;p>&lt;/p>
+      &lt;/div>
+      &lt;h2 id="quirkysubheading">Embracing the Coding Realm as the Upcoming Wizard! ✨&lt;/h2>
+      &lt;div id="preview">&lt;/div>
+    &lt;/div>
+  &lt;/div>
+&lt;/body>
+</pre>
+  <pre data-lang="css">    /* Global Styles */
+
+    .editor-container {
+      display: flex;
+      flex-direction: row;
+    }
+
+    #editor {
+      flex: 1;
+      height: 50vh;
+      padding: 20px;
+      margin: 20px;
+      box-shadow: px 5px 5px 5px;
+    }
+
+    #preview-container {
+      flex: 1;
+      height: 75vh;
+      padding: 25px;
+      background-color: #f5f5f5;
+      overflow-y: scroll;
+    }
+
+    .gradient-background {
+      background: radial-gradient(violet, transparent);
+    }
+
+    /* Unique Styles */
+
+    #quirkysubheading {
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      color: red;
+    }
+
+    .div {
+      text-indent: 5em;
+      box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .star-icon {
+      display: flex;
+      align-items: center;
+      font-size: 1.8em;
+      margin-bottom: 15px; /* Adjust as needed */
+    }
+
+    .star-icon p {
+      margin: 0; /* Corrected the margin value */
+    }
+
+    .star-icon::before {
+      content: '🌟 New member alert 🌟';
+      margin-right: 5px; /* Adjust as needed */
+      color: gold;
+    }</pre>
+  <pre data-lang="babel">  // Function to generate a random RGB color
+    function getRandomColor() {
+      const r = Math.floor(Math.random() * 256);
+      const g = Math.floor(Math.random() * 256);
+      const b = Math.floor(Math.random() * 256);
+      return `rgb(${r}, ${g}, ${b})`;
+    }
+
+    // Function to update the preview based on the input in the editor
+    function updatePreview() {
+      const editor = document.getElementById('editor');
+      const preview = document.getElementById('preview');
+      const markdown = editor.value;
+      const html = marked(markdown, { breaks: true });
+      preview.innerHTML = html;
+    }
+
+    // Function to toggle the gradient for the preview container
+    function togglePreviewGradient() {
+      const previewContainer = document.getElementById('preview-container');
+      const randomColor = getRandomColor();
+      previewContainer.className = ''; // Reset the class
+      previewContainer.style.background = `radial-gradient(${randomColor}, transparent)`;
+    }
+
+    // Function to toggle the gradient for the body
+    function toggleBodyGradient() {
+      const body = document.body;
+      const randomColor = getRandomColor();
+      body.className = ''; // Reset the class
+      body.style.background = `radial-gradient(${randomColor}, transparent)`;
+    }
+
+    // Initial update of the preview on window load
+    window.onload = updatePreview;
+  </pre></div>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+```
+
 ---
 
 ## 🎓Certifications🎓
-
----
 
 - [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
 
