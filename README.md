@@ -368,23 +368,23 @@ is a way of creating websites that can adapt to different screen sizes and devic
     <meta charset="UTF-8">
     <style><!-- body {background-color: azure;} --></style>
   </head>
-    <body> 
-      <div class="1">
-        <div class="a">a</div>
-        <div class="b">b</div>  
-        <div class="c">c</div> 
-      </div>
-      <div class="2">
-        <div class="d">d</div>
-        <div class="e">e</div>
-        <div class="f">f</div>
-      </div>  
-      <div class="3">
-        <div class="g">g</div>
-        <div class="h">h</div>
-        <div class="i">i</div>
-      </div>  
-    </body>
+  <body> 
+    <div class="1">
+      <div class="a">a</div>
+      <div class="b">b</div>  
+      <div class="c">c</div> 
+    </div>
+    <div class="2">
+      <div class="d">d</div>
+      <div class="e">e</div>
+      <div class="f">f</div>
+    </div>  
+    <div class="3">
+      <div class="g">g</div>
+      <div class="h">h</div>
+      <div class="i">i</div>
+    </div>  
+  </body>
 </html>
 ```
 
@@ -397,11 +397,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 - List
 
 `code`
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 `
 {
