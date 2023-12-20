@@ -45,7 +45,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 |IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
 [**76.223.105.230**](https://heartofstoneclothing.com)
-|76||x|||x|x|||01001100|
+|[76](01001100)|x|||x|x|||01001100|
 |223|x|x||x|x|x|x|x|11011111|
 |105||x|x||x|||x|01101001|
 |230|x|x|x|||x|x||11100110|
