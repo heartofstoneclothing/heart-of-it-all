@@ -50,11 +50,14 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 |105||x|x||x|||x|01101001|
 |230|x|x|x|||x|x||11100110|
 
----
+**3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
 
 |00 1E EC 87 64 E5|1234567890ABCDEF||||||||hex|
 |---|---|---|---|---|---|---|---|---|---|
+||| {{0100} | {1100}} ||
+||| {{0100} | {1100}} |:|11011111:|:01101001:|:11100110|||
 |||||||||||
+||||||||||_something like this..._|
 
 ---
 
