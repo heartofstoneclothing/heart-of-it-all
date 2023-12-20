@@ -52,10 +52,10 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 **3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
 
-|00 1E EC 87 64 E5|1234567890ABCDEF||||||||hex|
+|1234567890|[A](10)|[B](11)|[C](12)|[D](13)|[E](14)|[F](15)|||hex|
 |---|---|---|---|---|---|---|---|---|---|
-||| {{0100} | {1100}} ||
-||| {{0100} | {1100}} |:|11011111:|:01101001:|:11100110|||
+||-00-|-1E-|-EC-|-87-|-64-|-ES-|--|--|--|--|
+|| {{0100} | {1100}} | {{1101} | {1111}} | {{0110} | {0001}} | {{1110} | {0110}} |
 |||||||||||
 ||||||||||_something like this..._|
 
