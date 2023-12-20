@@ -243,7 +243,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
     </body>
 </html>
 ```
-
+</details>
 
 ## H2
 
