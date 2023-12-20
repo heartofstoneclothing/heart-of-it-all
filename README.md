@@ -42,7 +42,7 @@ Any donations would be greatly appreciated, here is a link to my [:joy:](https:/
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
 
-|IP|128|64|32|16|8|4|2|1|binary|
+|IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
 |76.223.105.230||||||||||
 |76|o|x|o|o|x|x|o|o|01001100|
