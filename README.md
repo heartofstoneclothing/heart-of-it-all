@@ -5,7 +5,9 @@
 ---
 
 - Chapter 1  
-  description of our past.
+  - description of our past.
+  - description of our purpose.
+  - description of the outcome.
 - Chapter 2  
   description of our presence.
 - Chapter 3  
@@ -90,10 +92,19 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
 7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
 8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
-9. [**placeholder1**](https://example.com)
-10.[**placeholder2**](https://example.com)
-11.[**placeholder3**](https://example.com)
-12.[**placeholder4**](https://example.com)
+9. [**placeholder**](https://example.com)
+10. [**placeholder**](https://example.com)
+11. [**placeholder**](https://example.com)
+12. [**placeholder**](https://example.com)
+13. [**placeholder**](https://example.com)
+14. [**placeholder**](https://example.com)
+15. [**placeholder**](https://example.com)
+16. [**placeholder**](https://example.com)
+17. [**placeholder**](https://example.com)
+18. [**placeholder**](https://example.com)
+19. [**placeholder**](https://example.com)
+20. [**placeholder**](https://example.com)
+21. [**placeholder**](https://example.com)
 
 ---
 
