@@ -34,7 +34,7 @@ We also partner with local artisans and communities to create unique and ethical
 You can also follow us on social media and join our community of like-minded people.
 
 Thank you for reading and ***stay tuned*** for *regular* **updates** and ***exciting promotions*** from the heart-of-it-all.
-Any donations would be greatly appreciated, here is a link to my [_blank](https://heartofstoneclothing.com/_blank).
+Any donations would be greatly appreciated, here is a link to my [:joy:](https://heartofstoneclothing.com/_blank).
 
 ---
 
@@ -49,6 +49,10 @@ Any donations would be greatly appreciated, here is a link to my [_blank](https:
 |223|x|x|o|x|x|x|x|x|11011111|
 |105|o|x|x|o|x|o|o|x|01101001|
 |230|x|x|x|o|o|x|x|o|11100110|
+
+|00 1E EC 87 64 E5|1234567890ABCDEF||||||||hex|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
 
 ---
 
@@ -276,7 +280,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 `
 
 Here is a sentence with a footnote. [^1]
-[^1]: This is the footnote.
 
 {#custom-id}
 
@@ -293,13 +296,16 @@ term 2
 - [ ] uncompleted task.
 - [ ] another uncompleted task.
 
-That was so funny! :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
+That was so funny!
+:joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
 I need to highlight these `very important words.`
 
 H<sub>2</sub>0
 
-X<sup>^</sup>2<sup>^</sup>
+X<sup>2</sup>
+
+[^1]: This is the footnote
 
 <!---
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
