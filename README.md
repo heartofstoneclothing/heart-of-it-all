@@ -216,7 +216,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
   [**email**](kyle@heartofstoneclothing.com) | [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) |
   [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
 
-<details>
 ```html
 <!DOCTYPE html>
 <html lang="en-US">
@@ -243,7 +242,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
     </body>
 </html>
 ```
-</details>
 
 ## H2
 
