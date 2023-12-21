@@ -156,7 +156,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 &lt;body>
   &lt;button onclick="togglePreviewGradient()">Toggle Preview Gradient&lt;/button>
   &lt;button onclick="toggleBodyGradient()">Toggle Body Gradient&lt;/button>
-
   &lt;div class="editor-container">
     &lt;textarea id="editor" oninput="updatePreview()">
 # This is an H1 header
