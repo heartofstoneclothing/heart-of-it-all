@@ -40,8 +40,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## How to navigate
 
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
-
 |IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
 [**76.223.105.230**](https://heartofstoneclothing.com)
@@ -58,35 +56,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 || {{0100} | {1100}} | {{1101} | {1111}} | {{0110} | {0001}} | {{1110} | {0110}} |
 |||||||||||
 |||||||||| ***something like this...*** |
-
----
-
-```html
-<form>
-  <input type="radio" name="gender" value="male">
-  <label for="male">Male</label><br>
-  <input type="radio" name="gender" value="female">
-  <label for="female">Female</label><br>
-  <input type="radio" name="gender" value="other">
-  <label for="other">Other</label>
-</form>
-
-  <div class="radio-container">
-        <input type="radio" id="radio1" name="radiogroup">
-        <label for="radio1">Option 1</label>
-        <input type="radio" id="radio2" name="radiogroup">
-        <label for="radio2">Option 2</label>
-        <input type="radio" id="radio3" name="radiogroup">
-        <label for="radio3">Option 3</label>
-  </div>
-
-<select>
-<option>one</option></br>
-<option>two</option></br>
-<option>three</option></br>
-<option>four</option></br>
-</select>
-```
 
 ---
 
@@ -289,13 +258,14 @@ this is a code block
 
 - [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
 
-is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
+ is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
 
 - Exploring and analysing data to discover new insights and generate hypotheses.
 - Communicating and presenting data to inform, persuade, or educate an audience.
 - Monitoring and evaluating data to track progress, performance, or outcomes.
 
 Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
+</details>
 
 - [**Front End Development Libraries**](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
 
@@ -415,6 +385,8 @@ That was so funny!
 :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
 I need to highlight these `very important words.`
+
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
 
 [^1]: This is the footnote
 
