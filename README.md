@@ -19,7 +19,7 @@
 
 ---
 
-We would like to share with you the story of how our non-profit charity organization came to be.
+We would like to share with you the story of how our non-profit charity organization came to be. [^1]
 
 [our brand](https://heartofstoneclothing.com/_blank) was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives.
 
@@ -367,8 +367,6 @@ is a way of creating websites that can adapt to different screen sizes and devic
 "age": 25
 }
 `
-
-Here is a sentence with a footnote. [^1]
 
 {#custom-id}
 
