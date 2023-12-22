@@ -57,24 +57,26 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 |||||||||||
 |||||||||| ***something like this...*** |
 
-| 1 | 2 | 3 |
-|---|---|---|
-|heading|subheading|sub-subheading|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|heading|subheading|sub-subheading|bi-heading|bi-subheading|
+| `&asymp;` | `&prod;`| `&nsub;` | `&larr;` | `&lsquo;` | `&divide;` | `&ETH;` | `&Agrave;` | `&deg;` | `&nbsp;` |
+| `&ne;` | `&sum;`| `&sub;` | `&uarr;` | `&rsquo;` | `&yuml;` | `&Ntilde;` | `&Aacute;` | `&plusmn;` | `&iexcl;` |
+| `&equiv;` | `&minus;`| `&sube;` | `&rarr;` | `&sbquo;` | `&OElig;` | `&Ograve;` | `&Acirc;` | `&sup2;` | `&cent;` |
+| `&isin;` | `&lowast;`| `&supe;` | `&darr;` | `&ldquo;` | `&Scaron;` | `&Oacute;` | `&Atilde;` | `&sup3;` | `&pound;` |
+| `&radic;`| `&oplus;` | `&harr;` | `&rdquo;` | `&fnof;` | `&Ocirc;` | `&Auml;` | `&acute;` | `&curren;` |.|
+| `&prop;`| `&otimes;` | `&crarr;` | `&bdquo;` | `&circ;` | `&Otilde;` | `&Aring;` | `&micro;` | `&yen;` |.|
+| `&infin;`| `&perp;` | `&lceil;` | `&dagger;` | `&tilde;` | `&Ouml;` | `&AElig;` | `&para;` | `&brvbar;` |.|
+| `&ang;`| `&sdot;` | `&rceil;` | `&bull;` | `&ensp;` | `&times;` | `&Ccedil;` | `&middot;` | `&sect;` |.|
+| `&and;`| `&lang;` | `&lfloor;` | `&hellip;` | `&emsp;` | `&Oslash;` | `&Egrave;` | `&cedil;` | `&uml;` |.|
+| `&or;`| `&rang;` | `&rfloor;` | `&permil;` | `&thinsp;` | `&Ugrave;` | `&Eacute;` | `&sup1;` | `&copy;` |.|
+| `&cap;`| `&lt;` | `&loz;` | `&prime;` | `&zwnj;` | `&Uacute;` | `&Ecirc;` | `&ordm;` | `&ordf;` |.|
+| `&cup;`| `&gt;` | `&spades;` | `&lsaquo;` | `&zwj;` | `&Ucirc;` | `&Euml;` | `&raquo;` | `&laquo;` |.|
+| `&int;`| `&le;` | `&clubs;` | `&rsaquo;` | `&lrm;` | `&Uuml;` | `&Igrave;` | `&frac14;` | `&not;` |.|
+| `&there4;`| `&ge;` | `&hearts;` | `&oline;` | `&rlm;` | `&Yacute;` | `&Iacute;` | `&frac12;` | `&shy;` |.|
+| `&sim;`| `&notin;` | `&diams;` | `&euro;` | `&ndash;` | `&THORN;` | `&Icirc;` | `&frac34;` | `&reg;` |.|
+| `&cong;`| `&ni;` | `&sup;` | `&trade;` | `&mdash;` | `&szlig;` | `&Iuml;` | `&iquest;` | `&macr;` |.|
+
 ---
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
