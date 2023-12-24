@@ -6,12 +6,10 @@
 
 - Chapter 1  
   - description of our past.
-  - description of our purpose.
-  - description of the outcome.
-- Chapter 2  
-  description of our presence.
-- Chapter 3  
-  description of our promising future.
+    - present and future
+- Chapter 2 
+  - description of the outcome.  
+    - description of our presence.
 
 ---
 
@@ -40,42 +38,36 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## How to navigate
 
-|IPv4|128|64|32|16|8|4|2|1|binary|
-|---|---|---|---|---|---|---|---|---|---|
-[**76.223.105.230**](https://heartofstoneclothing.com)
-|[76](01001100)||x||x|x|| ||01001100|
-|223|x|x||x|x|x|x|x|11011111|
-|105||x|x||x|||x|01101001|
-|230|x|x|x|||x|x||11100110|
+[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
-**3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
+---
 
-|1234567890|[A](10)|[B](11)|[C](12)|[D](13)|[E](14)|[F](15)|||hex|
-|---|---|---|---|---|---|---|---|---|---|
-||-00-|-1E-|-EC-|-87-|-64-|-ES-|--|--|--|--|
-|| {{0100} | {1100}} | {{1101} | {1111}} | {{0110} | {0001}} | {{1110} | {0110}} |
-|||||||||||
-|||||||||| ***something like this...*** |
+```html
+<form>
+  <input type="radio" name="gender" value="male">
+  <label for="male">Male</label><br>
+  <input type="radio" name="gender" value="female">
+  <label for="female">Female</label><br>
+  <input type="radio" name="gender" value="other">
+  <label for="other">Other</label>
+</form>
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|heading|subheading|sub-subheading|bi-heading|bi-subheading|
-| `&asymp;` | `&prod;`| `&nsub;` | `&larr;` | `&lsquo;` | `&divide;` | `&ETH;` | `&Agrave;` | `&deg;` | `&nbsp;` |
-| `&ne;` | `&sum;`| `&sub;` | `&uarr;` | `&rsquo;` | `&yuml;` | `&Ntilde;` | `&Aacute;` | `&plusmn;` | `&iexcl;` |
-| `&equiv;` | `&minus;`| `&sube;` | `&rarr;` | `&sbquo;` | `&OElig;` | `&Ograve;` | `&Acirc;` | `&sup2;` | `&cent;` |
-| `&isin;` | `&lowast;`| `&supe;` | `&darr;` | `&ldquo;` | `&Scaron;` | `&Oacute;` | `&Atilde;` | `&sup3;` | `&pound;` |
-| `&radic;`| `&oplus;` | `&harr;` | `&rdquo;` | `&fnof;` | `&Ocirc;` | `&Auml;` | `&acute;` | `&curren;` |.|
-| `&prop;`| `&otimes;` | `&crarr;` | `&bdquo;` | `&circ;` | `&Otilde;` | `&Aring;` | `&micro;` | `&yen;` |.|
-| `&infin;`| `&perp;` | `&lceil;` | `&dagger;` | `&tilde;` | `&Ouml;` | `&AElig;` | `&para;` | `&brvbar;` |.|
-| `&ang;`| `&sdot;` | `&rceil;` | `&bull;` | `&ensp;` | `&times;` | `&Ccedil;` | `&middot;` | `&sect;` |.|
-| `&and;`| `&lang;` | `&lfloor;` | `&hellip;` | `&emsp;` | `&Oslash;` | `&Egrave;` | `&cedil;` | `&uml;` |.|
-| `&or;`| `&rang;` | `&rfloor;` | `&permil;` | `&thinsp;` | `&Ugrave;` | `&Eacute;` | `&sup1;` | `&copy;` |.|
-| `&cap;`| `&lt;` | `&loz;` | `&prime;` | `&zwnj;` | `&Uacute;` | `&Ecirc;` | `&ordm;` | `&ordf;` |.|
-| `&cup;`| `&gt;` | `&spades;` | `&lsaquo;` | `&zwj;` | `&Ucirc;` | `&Euml;` | `&raquo;` | `&laquo;` |.|
-| `&int;`| `&le;` | `&clubs;` | `&rsaquo;` | `&lrm;` | `&Uuml;` | `&Igrave;` | `&frac14;` | `&not;` |.|
-| `&there4;`| `&ge;` | `&hearts;` | `&oline;` | `&rlm;` | `&Yacute;` | `&Iacute;` | `&frac12;` | `&shy;` |.|
-| `&sim;`| `&notin;` | `&diams;` | `&euro;` | `&ndash;` | `&THORN;` | `&Icirc;` | `&frac34;` | `&reg;` |.|
-| `&cong;`| `&ni;` | `&sup;` | `&trade;` | `&mdash;` | `&szlig;` | `&Iuml;` | `&iquest;` | `&macr;` |.|
+  <div class="radio-container">
+        <input type="radio" id="radio1" name="radiogroup">
+        <label for="radio1">Option 1</label>
+        <input type="radio" id="radio2" name="radiogroup">
+        <label for="radio2">Option 2</label>
+        <input type="radio" id="radio3" name="radiogroup">
+        <label for="radio3">Option 3</label>
+  </div>
+
+<select>
+<option>one</option></br>
+<option>two</option></br>
+<option>three</option></br>
+<option>four</option></br>
+</select>
+```
 
 ---
 
@@ -98,19 +90,19 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
 7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
 8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
-9. [**placeholder**](https://example.com)
-10. [**placeholder**](https://example.com)
-11. [**placeholder**](https://example.com)
-12. [**placeholder**](https://example.com)
-13. [**placeholder**](https://example.com)
-14. [**placeholder**](https://example.com)
-15. [**placeholder**](https://example.com)
-16. [**placeholder**](https://example.com)
-17. [**placeholder**](https://example.com)
-18. [**placeholder**](https://example.com)
-19. [**placeholder**](https://example.com)
-20. [**placeholder**](https://example.com)
-21. [**placeholder**](https://example.com)
+9. [**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
+10. [**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)
+11. [**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)
+12. [**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)
+13. [**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)
+14. [**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)
+15. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
+16. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
+17. [**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)
+18. [**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
+19. [**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
+20. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
+21. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
 
 ---
 
@@ -131,146 +123,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## ▶️Our activities▶️
 
-```html
-<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="yLZZxLG" data-preview="true" data-user="heartofstoneclothing"  data-prefill='{"title":"markdown previewer-xxx","tags":[],"scripts":["https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"],"stylesheets":[]}'>
-  <pre data-lang="html">&lt;html lang="en">
-&lt;head>
-  &lt;meta charset="UTF-8">
-  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
-  &lt;title>Markdown Previewer&lt;/title>
-  &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.0.3/marked.min.js">&lt;/script>
-  &lt;style>
-  &lt;/style>
-&lt;/head>
-&lt;body>
-  &lt;button onclick="togglePreviewGradient()">Toggle Preview Gradient&lt;/button>
-  &lt;button onclick="toggleBodyGradient()">Toggle Body Gradient&lt;/button>
-  &lt;div class="editor-container">
-    &lt;textarea id="editor" oninput="updatePreview()">
-# This is an H1 header
-
-## This is an H2 subheader
-
-[This is a link](https://www.example.com)
-
-`This is inline code`
-      
-this is a code block
-` ```
-- This is a list item
-``` `
-> This is a blockquote
-
-![This is an image](https://placekitten.com/200/300)
-
-**This is bolded text**
-    
-    &lt;/textarea>
-
-    &lt;div id="preview-container" class="gradient-background">
-      &lt;div class="star-icon">
-        &lt;p>&lt;/p>
-      &lt;/div>
-      &lt;h2 id="quirkysubheading">Embracing the Coding Realm as the Upcoming Wizard! ✨&lt;/h2>
-      &lt;div id="preview">&lt;/div>
-    &lt;/div>
-  &lt;/div>
-&lt;/body>
-</pre>
-  <pre data-lang="css">    /* Global Styles */
-
-    .editor-container {
-      display: flex;
-      flex-direction: row;
-    }
-
-    #editor {
-      flex: 1;
-      height: 50vh;
-      padding: 20px;
-      margin: 20px;
-      box-shadow: px 5px 5px 5px;
-    }
-
-    #preview-container {
-      flex: 1;
-      height: 75vh;
-      padding: 25px;
-      background-color: #f5f5f5;
-      overflow-y: scroll;
-    }
-
-    .gradient-background {
-      background: radial-gradient(violet, transparent);
-    }
-
-    /* Unique Styles */
-
-    #quirkysubheading {
-      font-family: 'Arial', sans-serif;
-      text-align: center;
-      color: red;
-    }
-
-    .div {
-      text-indent: 5em;
-      box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
-    }
-
-    .star-icon {
-      display: flex;
-      align-items: center;
-      font-size: 1.8em;
-      margin-bottom: 15px; /* Adjust as needed */
-    }
-
-    .star-icon p {
-      margin: 0; /* Corrected the margin value */
-    }
-
-    .star-icon::before {
-      content: '🌟 New member alert 🌟';
-      margin-right: 5px; /* Adjust as needed */
-      color: gold;
-    }</pre>
-  <pre data-lang="babel">  // Function to generate a random RGB color
-    function getRandomColor() {
-      const r = Math.floor(Math.random() * 256);
-      const g = Math.floor(Math.random() * 256);
-      const b = Math.floor(Math.random() * 256);
-      return `rgb(${r}, ${g}, ${b})`;
-    }
-
-    // Function to update the preview based on the input in the editor
-    function updatePreview() {
-      const editor = document.getElementById('editor');
-      const preview = document.getElementById('preview');
-      const markdown = editor.value;
-      const html = marked(markdown, { breaks: true });
-      preview.innerHTML = html;
-    }
-
-    // Function to toggle the gradient for the preview container
-    function togglePreviewGradient() {
-      const previewContainer = document.getElementById('preview-container');
-      const randomColor = getRandomColor();
-      previewContainer.className = ''; // Reset the class
-      previewContainer.style.background = `radial-gradient(${randomColor}, transparent)`;
-    }
-
-    // Function to toggle the gradient for the body
-    function toggleBodyGradient() {
-      const body = document.body;
-      const randomColor = getRandomColor();
-      body.className = ''; // Reset the class
-      body.style.background = `radial-gradient(${randomColor}, transparent)`;
-    }
-
-    // Initial update of the preview on window load
-    window.onload = updatePreview;
-  </pre></div>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-```
+[My first game; inspired by Google Chrome's dino game](https://gist.github.com/heartofstoneclothing/e622da1e3dd4d5152db9e2aa9a4b9739)
 
 ---
 
@@ -341,7 +194,7 @@ is a way of creating websites that can adapt to different screen sizes and devic
 - 🌱 I’m currently learning ...
   [Microsoft Learning Path](https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn)
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... the other projects I've built, but you've misplaced them. fool!
 
 - 📫 How to reach me ...
 
@@ -353,20 +206,26 @@ is a way of creating websites that can adapt to different screen sizes and devic
 ```html
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <style></style> <!-- body {background-color: azure;} -->
-  </head>
-  <body> 
-    <div class="1">
-      <div class="a">
-        H<sub>2</sub>0
-        X<sup>2</sup>
-      </div>  
-      <div class="b">b</div>  
-      <div class="c">c</div> 
-    </div>
-  </body>  
+<head> 
+<meta charset="UTF-8">
+</head>
+<body>
+<div class="1">
+<div class="a">a</div>
+<div class="b">b</div>  
+<div class="c">c</div> 
+</div>
+<div class="2">
+<div class="d">d</div>
+<div class="e">e</div>
+<div class="f">f</div>
+</div>  
+<div class="3">
+<div class="g">g</div>
+<div class="h">h</div>
+<div class="i">i</div>
+</div>  
+</body>
 </html>
 ```
 
@@ -388,27 +247,33 @@ is a way of creating websites that can adapt to different screen sizes and devic
 }
 `
 
+Here is a sentence with a footnote. [^1]
+[^1]: This is the footnote.
+
 {#custom-id}
 
-term  
-: definition
-
-term 2  
-: another  
-: definition  
+terms  
+: terms
+: conditions  
 
 ~~STRIKETHROUGH~~
 
-That was so funny!
-:joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
+- [x] completed task.
+- [ ] uncompleted task.
+- [ ] another uncompleted task.
+
+That was so funny! :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
 I need to highlight these `very important words.`
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
 
-[^1]: This is the footnote
+X<sup>2</sup>
 
 <!---
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+#
+
 --->

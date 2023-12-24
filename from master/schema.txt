@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>MMC</TITLE>
+<META content="text/html; charset=UTF-8" http-equiv=Content-Type 
+xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11" 
+xmlns:xlink="http://www.w3.org/1999/xlink"><LINK rel=stylesheet type=text/css 
+href="../local/style.css" 
+xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11" 
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<SCRIPT language=JavaScript type=text/javascript src="../local/script.js" 
+xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11" 
+xmlns:xlink="http://www.w3.org/1999/xlink">;</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<BODY onload=loadAll() 
+xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11" 
+xmlns:xlink="http://www.w3.org/1999/xlink"><INPUT id=userDataCache 
+class=userDataStyle type=hidden></INPUT> 
+<DIV id=header>
+<DIV id=nsrTitle>MMC</DIV></DIV>
+<DIV id=errors></DIV>
+<DIV id=mainSection>
+<DIV id=mainBody>
+<DIV class=h2Section expanded="true">
+<H2>Access help for Microsoft operating systems</H2><A 
+name=Access-help-for-Microsoft-operating-systems></A></DIV>
+<P>Need help? All help for Windows 10 and Windows Server products is available 
+online.</P>
+<P>If you're looking for general help with Windows, the main <A 
+href="https://go.microsoft.com/fwlink/?linkid=861993" target=_blank 
+alt="">Windows</A> site is the best resource.</P>
+<P>Are you an administrator for Windows 10 devices? Find content especially for 
+IT Pros, developers, and more at the <A 
+href="https://go.microsoft.com/fwlink/?linkid=861991" target=_blank 
+alt="">Windows 10</A> site.</P>
+<P>Do you manage servers? All of the Windows Server products are documented at 
+<A href="https://go.microsoft.com/fwlink/?linkid=861992" target=_blank 
+alt="">Windows Server</A>.</P></DIV>
+<DIV id=footer></DIV></DIV></BODY></HTML>
