@@ -84,8 +84,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## 📕Our mission📕
 
-## Our mission📕
-
 ---
 
 ## 🦸Our staff🦸
