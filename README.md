@@ -42,6 +42,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
+<details>
 ```html
 <form>
   <input type="radio" name="gender" value="male">
@@ -68,7 +69,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 <option>four</option></br>
 </select>
 ```
-
+</details>
 ---
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
