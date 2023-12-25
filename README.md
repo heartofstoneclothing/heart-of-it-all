@@ -80,6 +80,28 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 ![extract](https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256)
 ![extract](https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256)
 
+
+---
+
+## Our mission📕
+
+---
+
+## 🦸Our staff🦸
+
+  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
+  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+
+---
+
+## 📇Our catalogue📇
+
+---
+
+## ▶️Our activities▶️
+
+---
+
 ## Projects
 
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
@@ -104,28 +126,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 20. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
 21. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
 
----
-
-## Our mission📕
-
----
-
-## 🦸Our staff🦸
-
-  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
-  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
-
----
-
-## 📇Our catalogue📇
-
----
-
-## ▶️Our activities▶️
-
-[My first game; inspired by Google Chrome's dino game](https://gist.github.com/heartofstoneclothing/e622da1e3dd4d5152db9e2aa9a4b9739)
-
----
 
 ## 🎓Certifications🎓
 
