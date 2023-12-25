@@ -7,7 +7,7 @@
 - Chapter 1  
   - description of our past.
     - present and future
-- Chapter 2 
+- Chapter 2
   - description of the outcome.  
     - description of our presence.
 
@@ -84,6 +84,8 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## 📕Our mission📕
 
+## Our mission📕
+
 ---
 
 ## 🦸Our staff🦸
@@ -99,12 +101,9 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## ▶️Our activities▶️
 
----
-
 ## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
 
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
-
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
 4. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
@@ -125,6 +124,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 19. [**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
 20. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
 21. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
+
 ## 🎓Certifications🎓
 
 - [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
