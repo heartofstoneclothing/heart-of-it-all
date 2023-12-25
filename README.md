@@ -100,26 +100,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## ▶️Our activities▶️
 
---
----
-
-## Our mission📕
-
----
-
-## 🦸Our staff🦸
-
-  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
-  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
-
----
-
-## 📇Our catalogue📇
-
----
-
-## ▶️Our activities▶️
-
 ---
 
 ## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
