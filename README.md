@@ -81,6 +81,10 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
 
+[codepen_embed height="300" default_tab="html,result" slug_hash="jOJOdwm" editable="true" user="heartofstoneclothing"]See the Pen <a href="https://codepen.io/heartofstoneclothing/pen/jOJOdwm">
+  SVG helper</a> by heartofstoneclothing.com (<a href="https://codepen.io/heartofstoneclothing">@heartofstoneclothing</a>)
+  on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
+
 ---
 
 ## Growing Trees
