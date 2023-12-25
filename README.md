@@ -94,6 +94,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 **3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
 
+---
 
 | Aspect                     | IPv4                                      | IPv6                                      |
 |----------------------------|-------------------------------------------|-------------------------------------------|
@@ -106,6 +107,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 | **Security Features**      | Optional, additional protocols (e.g., IPSec) | Built-in support for IPsec                |
 | **Multicast and Anycast**  | Separate protocols (IGMP) for multicast   | Integrated support for multicast and anycast |
 
+---
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
