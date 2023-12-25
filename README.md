@@ -84,6 +84,10 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## 📕Our mission📕
 
+---
+
+## IPv4 vs IPv6
+
 |IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
 [**76.223.105.230**](https://heartofstoneclothing.com)
@@ -93,8 +97,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 |230|x|x|x|||x|x||11100110|
 
 **3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
-
----
 
 | Aspect                     | IPv4                                      | IPv6                                      |
 |----------------------------|-------------------------------------------|-------------------------------------------|
@@ -109,9 +111,8 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
+| These | are | for | my | world's | longest | keyboard |  |  |  |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|heading|subheading|sub-subheading|bi-heading|bi-subheading|
 | `&asymp;` | `&prod;`| `&nsub;` | `&larr;` | `&lsquo;` | `&divide;` | `&ETH;` | `&Agrave;` | `&deg;` | `&nbsp;` |
 | `&ne;` | `&sum;`| `&sub;` | `&uarr;` | `&rsquo;` | `&yuml;` | `&Ntilde;` | `&Aacute;` | `&plusmn;` | `&iexcl;` |
 | `&equiv;` | `&minus;`| `&sube;` | `&rarr;` | `&sbquo;` | `&OElig;` | `&Ograve;` | `&Acirc;` | `&sup2;` | `&cent;` |
