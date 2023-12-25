@@ -49,7 +49,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
   <input type="radio" name="gender" value="other">
   <label for="other">Other</label>
 </form>
-
   <div class="radio-container">
         <input type="radio" id="radio1" name="radiogroup">
         <label for="radio1">Option 1</label>
@@ -58,7 +57,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
         <input type="radio" id="radio3" name="radiogroup">
         <label for="radio3">Option 3</label>
   </div>
-
 <select>
 <option>one</option></br>
 <option>two</option></br>
