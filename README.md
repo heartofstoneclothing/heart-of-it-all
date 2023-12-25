@@ -94,12 +94,18 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 **3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
 
-|1234567890|[A](10)|[B](11)|[C](12)|[D](13)|[E](14)|[F](15)|||hex|
-|---|---|---|---|---|---|---|---|---|---|
-||-00-|-1E-|-EC-|-87-|-64-|-ES-|--|--|--|--|
-|| {{0100} | {1100}} | {{1101} | {1111}} | {{0110} | {0001}} | {{1110} | {0110}} |
-|||||||||||
-|||||||||| ***something like this...*** |
+
+| Aspect                     | IPv4                                      | IPv6                                      |
+|----------------------------|-------------------------------------------|-------------------------------------------|
+| **Address Length**         | 32 bits                                   | 128 bits                                  |
+| **Representation**         | Decimal (e.g., 192.168.1.1)               | Hexadecimal (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334) |
+| **Total Addresses**         | Approximately 4.3 billion                 | Virtually unlimited                       |
+| **Address Configuration**  | Manual, DHCP                              | Stateless Address Autoconfiguration (SLAAC), DHCPv6 |
+| **NAT (Network Address Translation)** | Commonly used to address IPv4 address scarcity | Reduced reliance due to larger address space |
+| **Header Simplification**  | More complex header                        | Simplified header                         |
+| **Security Features**      | Optional, additional protocols (e.g., IPSec) | Built-in support for IPsec                |
+| **Multicast and Anycast**  | Separate protocols (IGMP) for multicast   | Integrated support for multicast and anycast |
+
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
