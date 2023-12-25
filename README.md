@@ -80,7 +80,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 ![extract](https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256)
 ![extract](https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256)
 
-
 ---
 
 ## 📕Our mission📕
