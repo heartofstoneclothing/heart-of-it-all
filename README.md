@@ -84,6 +84,41 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## 📕Our mission📕
 
+|IPv4|128|64|32|16|8|4|2|1|binary|
+|---|---|---|---|---|---|---|---|---|---|
+[**76.223.105.230**](https://heartofstoneclothing.com)
+|[76](01001100)||x||x|x|| ||01001100|
+|223|x|x||x|x|x|x|x|11011111|
+|105||x|x||x|||x|01101001|
+|230|x|x|x|||x|x||11100110|
+
+**3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
+
+|1234567890|[A](10)|[B](11)|[C](12)|[D](13)|[E](14)|[F](15)|||hex|
+|---|---|---|---|---|---|---|---|---|---|
+||-00-|-1E-|-EC-|-87-|-64-|-ES-|--|--|--|--|
+|| {{0100} | {1100}} | {{1101} | {1111}} | {{0110} | {0001}} | {{1110} | {0110}} |
+|||||||||||
+|||||||||| ***something like this...*** |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|heading|subheading|sub-subheading|bi-heading|bi-subheading|
+| `&asymp;` | `&prod;`| `&nsub;` | `&larr;` | `&lsquo;` | `&divide;` | `&ETH;` | `&Agrave;` | `&deg;` | `&nbsp;` |
+| `&ne;` | `&sum;`| `&sub;` | `&uarr;` | `&rsquo;` | `&yuml;` | `&Ntilde;` | `&Aacute;` | `&plusmn;` | `&iexcl;` |
+| `&equiv;` | `&minus;`| `&sube;` | `&rarr;` | `&sbquo;` | `&OElig;` | `&Ograve;` | `&Acirc;` | `&sup2;` | `&cent;` |
+| `&isin;` | `&lowast;`| `&supe;` | `&darr;` | `&ldquo;` | `&Scaron;` | `&Oacute;` | `&Atilde;` | `&sup3;` | `&pound;` |
+| `&radic;`| `&oplus;` | `&harr;` | `&rdquo;` | `&fnof;` | `&Ocirc;` | `&Auml;` | `&acute;` | `&curren;` |.|
+| `&prop;`| `&otimes;` | `&crarr;` | `&bdquo;` | `&circ;` | `&Otilde;` | `&Aring;` | `&micro;` | `&yen;` |.|
+| `&infin;`| `&perp;` | `&lceil;` | `&dagger;` | `&tilde;` | `&Ouml;` | `&AElig;` | `&para;` | `&brvbar;` |.|
+| `&ang;`| `&sdot;` | `&rceil;` | `&bull;` | `&ensp;` | `&times;` | `&Ccedil;` | `&middot;` | `&sect;` |.|
+| `&and;`| `&lang;` | `&lfloor;` | `&hellip;` | `&emsp;` | `&Oslash;` | `&Egrave;` | `&cedil;` | `&uml;` |.|
+| `&or;`| `&rang;` | `&rfloor;` | `&permil;` | `&thinsp;` | `&Ugrave;` | `&Eacute;` | `&sup1;` | `&copy;` |.|
+| `&cap;`| `&lt;` | `&loz;` | `&prime;` | `&zwnj;` | `&Uacute;` | `&Ecirc;` | `&ordm;` | `&ordf;` |.|
+| `&cup;`| `&gt;` | `&spades;` | `&lsaquo;` | `&zwj;` | `&Ucirc;` | `&Euml;` | `&raquo;` | `&laquo;` |.|
+| `&int;`| `&le;` | `&clubs;` | `&rsaquo;` | `&lrm;` | `&Uuml;` | `&Igrave;` | `&frac14;` | `&not;` |.|
+| `&there4;`| `&ge;` | `&hearts;` | `&oline;` | `&rlm;` | `&Yacute;` | `&Iacute;` | `&frac12;` | `&shy;` |.|
+
 ---
 
 ## 🦸Our staff🦸
