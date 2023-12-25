@@ -100,11 +100,32 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## ▶️Our activities▶️
 
+--
 ---
 
-## Projects
+## Our mission📕
+
+---
+
+## 🦸Our staff🦸
+
+  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
+  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+
+---
+
+## 📇Our catalogue📇
+
+---
+
+## ▶️Our activities▶️
+
+---
+
+## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
 
 1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+
 2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
 3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
 4. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
@@ -125,8 +146,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 19. [**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
 20. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
 21. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
-
-
 ## 🎓Certifications🎓
 
 - [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
