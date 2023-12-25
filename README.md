@@ -40,10 +40,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
----
-
 <details>
-```html
 <form>
   <input type="radio" name="gender" value="male">
   <label for="male">Male</label><br>
@@ -68,8 +65,8 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 <option>three</option></br>
 <option>four</option></br>
 </select>
-```
 </details>
+
 ---
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
