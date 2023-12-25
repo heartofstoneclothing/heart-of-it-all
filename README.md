@@ -66,8 +66,8 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 <option>three</option></br>
 <option>four</option></br>
 </select>
-</details>
 ```
+</details>
 
 ---
 
