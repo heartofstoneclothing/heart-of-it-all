@@ -103,7 +103,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
-## HyperText Markup Language
+## 🔤HyperText Markup Language🔤
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
-## HyperText Markup Language Symbol
+## 🔤💲HyperText Markup Language Symbol💲🔤
 
 | | | | | | | | | | |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -178,6 +178,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
   Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
 
 > "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
+
 </details>
 
 ### 2. [**Front End Development Libraries**](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
@@ -208,7 +209,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 </details>
 
-> ### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
 
 <details>
 <summary>Learn more about responsive web design</summary>
@@ -228,44 +229,70 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 ---
 
-## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
+### [Projects](https://sites.google.com/view/heartofstoneclothes/home)
 
-1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
-   - What is a cat photo app?
-2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
-   - What is a cafe menu?
-3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
-   - What is a colored markers?
-4. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
-   - What is a registration form?
-5. [**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
-    - What is a survey form?
-6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
-    - What is a rothko painting?
-7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
-    - What is a photo gallery?
-8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
-    - What is a nutrition label?
-9. [**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
-    - What are Pay-Pal buttons?
-10. [**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)
-    - What is a penguin
-11. [**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)
-    - What is piano?
-12. [**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)
-    - What is a portfolio Webpage?
-13. [**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)
-    - What is a quiz?
-14. [**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)
-    - What is a random quote machine?
-15. [**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)
-    - What are shoes?
-16. [**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
-    - What is a technical documentation page?
-17. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
-    - What is a tribute?
-18. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
-    - What is an appointment booking?
+#### [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+
+<details>
+<summary>🐱‍👤Hey Cat Crew</summary>
+
+- 🐾 Exciting news! I've cooked up the most addorable Cat Photo App during my web design adventures.
+- 🐾 It's a casual space to share and enjoy cat pics, including my own black-coated ninja.
+- 🐾 In lost her in the custody battle😼
+- 🐾 She was the fluffiest lone ranger of darkness,😸 her siblings were grey, white or both.
+- Her mom, a pristine white cat gave birth to a spectrum of monochrome offspring.
+
+I'm not saying the app is a remedy for custody battles, but it's a great distraction.
+Check out this pic of my black beauty—she's a legend in her own right. 😼
+</details>
+
+<details>
+<summary>**Use at own risk!**</summary>
+<p>users be advised! -- graphic images could Spark Envy😻 -- cute factor 10/10 </p>
+
+![My Fluffy Kitty, Bish][my kitten]
+
+Feel free to hop into the app, share your furball pics, and maybe leave a comment about the absurdity of cat custody battles. Let's keep it lighthearted and remember, it's all about celebrating my adorable whiskered companion! 😺
+</details>
+
+---
+
+|[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|
+|------------|------------|--------|
+|What is a cafe menu?|What is a colored marker?|What is a registration form?|
+||||
+||||
+
+---
+
+5.[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
+-What is a survey form?
+6.[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
+-What is a rothko painting?
+7.[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
+-What is a photo gallery?
+8.[**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
+-What is a nutrition label?
+9.[**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
+-What are Pay-Pal buttons?
+10.[**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)
+-What is a penguin
+11.[**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)
+-What is piano?
+12.[**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)
+-What is a portfolio Webpage?
+13.[**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)
+-What is a quiz?
+14.[**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)
+-What is a random quote machine?
+15.[**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)
+-What are shoes?
+16.[**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
+    -What is a technical documentation page?
+17.[**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
+    -What is a tribute?
+18.[**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
+   -What is an appointment booking?
 
 ---
 
@@ -315,11 +342,20 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 ## 🦸Our staff🦸
 
-  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
-  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
+[Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
 
 ---
 
+||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
+||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
+||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<!--
+
+<details>
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -345,6 +381,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 </body>
 </html>
 ```
+</details>
 
 > blockquote
 
@@ -391,3 +428,5 @@ X<sup>2</sup>
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[my kitten]: https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
