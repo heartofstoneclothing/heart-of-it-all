@@ -231,6 +231,8 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 #### [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
+
+
 <details>
 <summary>🐱‍👤Hey Cat Crew</summary>
 
@@ -339,38 +341,38 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 
 ## 🦸Our staff🦸
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="50,10 90,90 10,90" fill="blue" />
-</svg>
+---
 
-[**instagram**](https://instagram.com/heart_of_stone_clothing_online)
+1. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="50,10 90,90 10,90" fill="blue" />
+  </svg>
+2. [**instagram**](https://instagram.com/heart_of_stone_clothing_online)
+3. [**facebook**](https://facebook.com/heartofstoneclothing)
+4. [**Kyle Santowski**](https://www.linkedin.com/kyle-santowski-580448195)
+5. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2" />
+  </svg>
 
-[**facebook**](https://facebook.com/heartofstoneclothing)
-
-[**Kyle Santowski**](https://www.linkedin.com/kyle-santowski-580448195)
-
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad3" gradientTransform="rotate(90)">
+1. <svg xmlns="http://www.w3.org/2000/svg">
+    <defs>
+     <linearGradient id="grad3" gradientTransform="rotate(90)">
       <stop offset="0%" style="stop-color:rgb(255,0,255);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" />
-</svg>
+        <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+        </linearGradient>
+      </defs>
+    <path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" />
+  </svg>
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="10,10 90,10 50,90" fill="pink" />
-</svg|<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5" />
-</svg>
+2. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="10,10 90,10 50,90" fill="pink" />
+  </svg>
+  
+3. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5" />
+  </svg>
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
+4. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  `<defs>
     <pattern id="pattern1" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
       <rect width="10" height="10" fill="red" />
     </pattern>
@@ -378,7 +380,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
   <polygon points="50,10 90,90 10,90" fill="url(#pattern1)"/>
 </svg>
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+5. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="50,10 90,90 10,90" fill="green" stroke="url(#grad)" stroke-width="2" />
   <defs><linearGradient id="grad" gradientTransform="rotate(90)">
     <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
@@ -389,11 +391,12 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad2" gradientTransform="rotate(45)">
-    <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+     <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
     </linearGradient>
-  </defs>
+   </defs>
   <rect width="100%" height="100%" fill="url(#grad2)" />
-  <polygon points="50,10 90,90 10,90" fill="transparent" />
+ <polygon points="50,10 90,90 10,90" fill="transparent" />
 </svg>
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
@@ -408,21 +411,27 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 <svg xmlns="http://www.w3.org/2000/svg">
   <path d="M10 10 L10 90 L90 90 Z" fill="green" />
 </svg>
+
 <svg xmlns="http://www.w3.org/2000/svg">
 <path d="M20 20 L70 20 L45 70 Z" fill="yellow" stroke="black" stroke-width="2" stroke-dasharray="5,5" />
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" >
   <path d="M20 20 L70 20 L45 70 Z" fill="red" />
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="10,10 10,90 90,90" fill="red" />
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="30,10 70,70 10,70" fill="purple"/>
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="20,80 70,20 90,90" fill="orange" />
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="50,10 90,90 10,90" fill="url(#grad)" />
   <defs>
@@ -431,12 +440,15 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
   </linearGradient>
   </defs>
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="10,90 50,10 90,90" fill="cyan" rx="10" ry="10" />
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <polygon points="50,10 90,90 10,90" fill="none" stroke="green" stroke-width="2" />
 </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
     <polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">
       Hello
@@ -446,7 +458,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 </svg>
 
 <details>
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -470,7 +481,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 </div>  
 </body>
 </html>
-```
+
 </details>
 
 > blockquote
@@ -506,7 +517,11 @@ terms
 - [ ] uncompleted task.
 - [ ] another uncompleted task.
 
-That was so funny! :joy: :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
+That was so funny! 
+:joy:
+:1st_place_medal:
+:2nd_place_medal:
+:3rd_place_medal:
 
 I need to highlight these `very important words.`
 
