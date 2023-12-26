@@ -199,30 +199,30 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
   Are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem.
 
-  - **Data structures** are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms.
-  - **A Binary Tree** can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews.
+- **Data structures** are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms.
+- **A Binary Tree** can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews.
 
-  > "Algorithms are the beauty and the strength beneath the surface of all technology." - Cristian Vasile
+> "Algorithms are the beauty and the strength beneath the surface of all technology." - Cristian Vasile
+
 </details>
 
 ### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
 
 <details>
-  <summary>Learn more about responsive web design</summary>
+<summary>Learn more about responsive web design</summary>
 
   Is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
 
-  - **Media Queries:** Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.
-  - **Fluid Grids:** Responsive designs use fluid grids that adjust proportionally to the screen size, ensuring a consistent layout across devices.
-  - **Fluid Images:** Images are designed to scale within their containing elements, maintaining proper proportions on various devices.
-  - **Modern Layout Methods:** Utilizing modern layout methods, such as Flexbox and CSS Grid, for more sophisticated and responsive designs.
+- **Media Queries:** Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.
+- **Fluid Grids:** Responsive designs use fluid grids that adjust proportionally to the screen size, ensuring a consistent layout across devices.
+- **Fluid Images:** Images are designed to scale within their containing elements, maintaining proper proportions on various devices.
+- **Modern Layout Methods:** Utilizing modern layout methods, such as Flexbox and CSS Grid, for more sophisticated and responsive designs.
 
   Responsive web design plays a crucial role in providing a seamless user experience across diverse devices, enhancing usability, and making websites accessible to a wider audience.
   
 > "Good design is obvious. Great design is transparent." - Joe Sparano
 
 </details>
-
 
 ---
 
