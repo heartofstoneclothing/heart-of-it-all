@@ -231,8 +231,6 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 #### [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
-
-
 <details>
 <summary>🐱‍👤Hey Cat Crew</summary>
 
@@ -245,6 +243,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 I'm not saying the app is a remedy for custody battles, but it's a great distraction.
 Check out this pic of my black beauty—she's a legend in her own right. 😼
 </details>
+![image](https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/62e85724-34aa-4591-908b-6a46159562d7)
 
 <details>
 <summary>**Use at own risk!**</summary>
@@ -372,7 +371,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
   </svg>
 
 4. <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  `<defs>
+  <defs>
     <pattern id="pattern1" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
       <rect width="10" height="10" fill="red" />
     </pattern>
