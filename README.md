@@ -2,8 +2,6 @@
 
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 
----
-
 - Chapter 1  
   - description of our past.
     - present and future
@@ -446,41 +444,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
     </svg>
   <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" />
 </svg>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//////////
-
- [] | [] |  []
-| 
 
 <details>
 ```html
