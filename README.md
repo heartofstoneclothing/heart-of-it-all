@@ -240,7 +240,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 - 🐾 It's a casual space to share and enjoy cat pics, including my own black-coated ninja.
 - 🐾 In lost her in the custody battle😼
 - 🐾 She was the fluffiest lone ranger of darkness,😸 her siblings were grey, white or both.
-- Her mom, a pristine white cat gave birth to a spectrum of monochrome offspring.
+- 🐾 Her mom, a pristine white cat gave birth to a spectrum of monochrome offspring.
 
 I'm not saying the app is a remedy for custody battles, but it's a great distraction.
 Check out this pic of my black beauty—she's a legend in her own right. 😼
@@ -335,25 +335,21 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 
 ---
 
-  [**email**](kyle@heartofstoneclothing.com) | [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) |
-  [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
+||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
+||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
+||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
 
----
 
 ## 🦸Our staff🦸
 
-![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
-[Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+| [**instagram**](https://instagram.com/heart_of_stone_clothing_online) | [**facebook**](https://facebook.com/heartofstoneclothing) | [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195) |
+|-|-|-|
+| [**email**](kyle@heartofstoneclothing.com) | ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w) | [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online) |
 
----
+//////////
 
-||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
-||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
-||\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|\|/|
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-<!--
+ [] | [] |  []
+| <!->
 
 <details>
 ```html
@@ -428,5 +424,4 @@ X<sup>2</sup>
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[my kitten]: https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
+[my kitten]:https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
