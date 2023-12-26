@@ -40,7 +40,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
-```html<details>
+<details>
 <form>
   <input type="radio" name="gender" value="male">
   <label for="male">Male</label><br>
@@ -64,7 +64,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 <option>four</option></br>
 </select>
 </details>
-```
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
 
@@ -209,7 +208,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 </details>
 
-### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+> ### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
 
 <details>
 <summary>Learn more about responsive web design</summary>
