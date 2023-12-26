@@ -83,7 +83,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 ---
 
 ## IPv4 vs IPv6
-
 |IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
 **76.223.105.230**
@@ -91,8 +90,6 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 |223|x|x||x|x|x|x|x|11011111|
 |105||x|x||x|||x|01101001|
 |230|x|x|x|||x|x||11100110|
-
-**3,706,452,992** possible IP addresses weren't enough to contain the amount of IP addresses the internet would grow to, so we needed **IPv6**
 
 | Aspect                     | IPv4                                      | IPv6                                      |
 |----------------------------|-------------------------------------------|-------------------------------------------|
@@ -107,29 +104,49 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
-| These | are | for | my | world's | longest | keyboard |  |  |  |
+### HyperText Markup Language
+|  |  |  |  |  |  |
+|---|---|---|---|---|---|
+|[A](https://example.com)| `<a></a>` `<abbr></abbr>` `<address></address>` `<article></article>` `<aside></aside>` `<area></area>` `<audio></audio>` |
+|[B](https://example.com)| `<base></base>` `<body></body>` `<blockquote></blockquote>` `<br>` `<b></b>` `<bdi></bdi>` `<bdo></bdo>` `<button></button>` |
+|[C](https://example.com)| `<cite>` `<code></code>` `<caption></caption>` `<col></col>` `<colgroup></colgroup>` `<canvas></canvas>` |
+|[D](https://example.com)| `<dd></dd>` `<div></div>` `<dl></dl>` `<dt></dt>` `<del></del>` `<dfn></dfn>` `<data></data>` `<datalist></datalist>` `<details></details>` `<dialog></dialog>` |
+|[E](https://example.com)| `<em></em>` `<embed></embed>` |
+|[F](https://example.com)| `<footer></footer>` `<figcaption></figcaption>` `<figure></figure>` `<fieldset></fieldset>` `<form></form>` |
+|[H](https://example.com)| `<head></head>` `<h1></h6>` `<header></header>` `<hgroup></hgroup>` `<hr></hr>` |
+|[I](https://example.com)| `<i></i>` `<ins></ins>` `<input></input>` `<iframe></iframe>` `<img></img>` |
+|[K](https://example.com)| `<kbd></kbd>` |
+|[L](https://example.com)| `<link></link>` `<li></li>` `<label></label>` `<legend></legend>` |
+|[M](https://example.com)| `<meta></meta>` `<main></main>` `<meter></meter>` `<map></map>` `<menu></menu>` |
+|[N](https://example.com)| `<nav></nav>` `<noscript></noscript>` |
+|[O](https://example.com)| `<ol></ol>` `<optgroup></optgroup>` `<option></option>` `<output></output>` `<object></object>` |
+|[P](https://example.com)| `<p></p>` `<pre></pre>` `<progress></progress>` `<param></param>` |
+|[Q](https://example.com)| `<q></q>` |
+|[R](https://example.com)| `<rp></rp>` `<rt></rt>` `<ruby></ruby>` |
+|[S](https://example.com)| `<style></style>` `<section></section>` `<s></s>` `<samp></samp>` `<small></small>` `<span></span>` `<strong></strong>` `<sub></sub>` `<sup></sup>` `<select></select>` `<source></source>` `<summary></summary>` `<script></script>` |
+|[T](https://example.com)| `<title></title>` `<time></time>` `<table></table>` `<tbody></tbody>` `<td></td>` `<tfoot></tfoot>` `<th></th>` `<thead></thead>` `<tr></tr>` `<textarea></textarea>` `<track></track>` |
+|[U](https://example.com)| `<ul></ul>` |
+|[V](https://example.com)| `<var></var>` `<video></video>` |
+|[W](https://example.com)| `<wbr></wbr>` |
+
+
+### HyperText Markup Language Symbols
+| | | | | | | | | | |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| `&asymp;` | `&prod;`| `&nsub;` | `&larr;` | `&lsquo;` | `&divide;` | `&ETH;` | `&Agrave;` | `&deg;` | `&nbsp;` |
-| `&ne;` | `&sum;`| `&sub;` | `&uarr;` | `&rsquo;` | `&yuml;` | `&Ntilde;` | `&Aacute;` | `&plusmn;` | `&iexcl;` |
-| `&equiv;` | `&minus;`| `&sube;` | `&rarr;` | `&sbquo;` | `&OElig;` | `&Ograve;` | `&Acirc;` | `&sup2;` | `&cent;` |
-| `&isin;` | `&lowast;`| `&supe;` | `&darr;` | `&ldquo;` | `&Scaron;` | `&Oacute;` | `&Atilde;` | `&sup3;` | `&pound;` |
-| `&radic;`| `&oplus;` | `&harr;` | `&rdquo;` | `&fnof;` | `&Ocirc;` | `&Auml;` | `&acute;` | `&curren;` |.|
-| `&prop;`| `&otimes;` | `&crarr;` | `&bdquo;` | `&circ;` | `&Otilde;` | `&Aring;` | `&micro;` | `&yen;` |.|
-| `&infin;`| `&perp;` | `&lceil;` | `&dagger;` | `&tilde;` | `&Ouml;` | `&AElig;` | `&para;` | `&brvbar;` |.|
-| `&ang;`| `&sdot;` | `&rceil;` | `&bull;` | `&ensp;` | `&times;` | `&Ccedil;` | `&middot;` | `&sect;` |.|
-| `&and;`| `&lang;` | `&lfloor;` | `&hellip;` | `&emsp;` | `&Oslash;` | `&Egrave;` | `&cedil;` | `&uml;` |.|
-| `&or;`| `&rang;` | `&rfloor;` | `&permil;` | `&thinsp;` | `&Ugrave;` | `&Eacute;` | `&sup1;` | `&copy;` |.|
-| `&cap;`| `&lt;` | `&loz;` | `&prime;` | `&zwnj;` | `&Uacute;` | `&Ecirc;` | `&ordm;` | `&ordf;` |.|
-| `&cup;`| `&gt;` | `&spades;` | `&lsaquo;` | `&zwj;` | `&Ucirc;` | `&Euml;` | `&raquo;` | `&laquo;` |.|
-| `&int;`| `&le;` | `&clubs;` | `&rsaquo;` | `&lrm;` | `&Uuml;` | `&Igrave;` | `&frac14;` | `&not;` |.|
-| `&there4;`| `&ge;` | `&hearts;` | `&oline;` | `&rlm;` | `&Yacute;` | `&Iacute;` | `&frac12;` | `&shy;` |.|
-
----
-
-## 🦸Our staff🦸
-
-  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
-  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+|&asymp; | &prod; | &nsub; | &larr; | &lsquo; | &divide; | &ETH; | &Agrave; | &deg; | &nbsp; |
+|&ne; | &sum; | &sub; | &uarr; | &rsquo; | &yuml; | &Ntilde; | &Aacute; | &plusmn; | &iexcl; |
+|&equiv; | &minus; | &sube; | &rarr; | &sbquo; | &OElig; | &Ograve; | &Acirc; | &sup2; | &cent; |
+|&isin; | &lowast; | &supe; | &darr; | &ldquo; | &Scaron; | &Oacute; | &Atilde; | &sup3; | &pound; |
+|&radic;| &oplus; | &harr; | &rdquo; | &fnof; | &Ocirc; | &Auml; | &acute; | &curren; ||
+|&prop;| &otimes; | &crarr; | &bdquo; | &circ; | &Otilde; | &Aring; | &micro; | &yen; ||
+|&infin;| &perp; | &lceil; | &dagger; | &tilde; | &Ouml; | &AElig; | &para; | &brvbar; ||
+|&ang;| &sdot; | &rceil; | &bull; | &ensp; | &times; | &Ccedil; | &middot; | &sect; ||
+|&and;| &lang; | &lfloor; | &hellip; | &emsp; | &Oslash; | &Egrave; | &cedil; | &uml; ||
+|&or;| &rang; | &rfloor; | &permil; | &thinsp; | &Ugrave; | &Eacute; | &sup1; | &copy; ||
+|&cap;| &lt; | &loz; | &prime; | &zwnj; | &Uacute; | &Ecirc; | &ordm; | &ordf; ||
+|&cup;| &gt; | &spades; | &lsaquo; | &zwj; | &Ucirc; | &Euml; | &raquo; | &laquo; ||
+|&int;| &le; | &clubs; | &rsaquo; | &lrm; | &Uuml; | &Igrave; | &frac14; | &not; ||
+|&there4; | &ge; | &hearts; | &oline; | &rlm; | &Yacute; | &Iacute; | &frac12; | &shy; ||
 
 ---
 
@@ -139,61 +156,114 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ## ▶️Our activities▶️
 
-## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
-
-1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
-2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
-3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
-4. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
-5. [**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
-6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
-7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
-8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
-9. [**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
-10. [**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)
-11. [**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)
-12. [**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)
-13. [**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)
-14. [**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)
-15. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
-16. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
-17. [**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)
-18. [**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
-19. [**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
-20. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
-21. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
+---
 
 ## 🎓Certifications🎓
 
-- [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
+### 1. [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
 
- is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
+<details>
+  <summary>Learn more about data visualization</summary>
 
-- Exploring and analysing data to discover new insights and generate hypotheses.
-- Communicating and presenting data to inform, persuade, or educate an audience.
-- Monitoring and evaluating data to track progress, performance, or outcomes.
+  Is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
 
-Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
+  ### Explore, Analyze, Communicate, and Present Data
+
+  - Exploring and analysing data to discover new insights and generate hypotheses.
+  - Communicating and presenting data to inform, persuade, or educate an audience.
+  - Monitoring and evaluating data to track progress, performance, or outcomes.
+
+  Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
+
+  > "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
 </details>
 
-- [**Front End Development Libraries**](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
+### 2. [**Front End Development Libraries**](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
 
-are pre-written collections of standardized HTML, CSS, and JavaScript code that developers can use to build web applications or websites more efficiently. They provide a set of tools, libraries, and conventions for building user interfaces, handling events, managing application states, and interacting with APIs. Some examples of popular front-end libraries are:
+<details>
+  <summary>Learn more about front end development libraries</summary>
+  
+  Are pre-written collections of standardized HTML, CSS, and JavaScript code that developers can use to build web applications or websites more efficiently. They provide a set of tools, libraries, and conventions for building user interfaces, handling events, managing application states, and interacting with APIs. Some examples of popular front-end libraries are:
 
-- **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
-- **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
-- **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
+  - **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
+  - **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
+  - **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
 
-- [**Javascript Algorithms And Data Structures**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
+  > "The best way to predict the future is to invent it." - Alan Kay
+</details>
 
-are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem.
+### 3. [**Javascript Algorithms And Data Structures**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
 
-- Data structures are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms.
-- For example, a binary tree can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews. You can find many resources online to learn more about JavaScript algorithms and data structures, such as
+<details>
+  <summary>Learn more about JavaScript algorithms and data structures</summary>
 
-- [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+  Are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem.
 
-is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
+  - **Data structures** are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms.
+  - **A Binary Tree** can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews.
+
+  > "Algorithms are the beauty and the strength beneath the surface of all technology." - Cristian Vasile
+</details>
+
+### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+
+<details>
+  <summary>Learn more about responsive web design</summary>
+
+  Is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
+
+  - **Media Queries:** Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.
+  - **Fluid Grids:** Responsive designs use fluid grids that adjust proportionally to the screen size, ensuring a consistent layout across devices.
+  - **Fluid Images:** Images are designed to scale within their containing elements, maintaining proper proportions on various devices.
+  - **Modern Layout Methods:** Utilizing modern layout methods, such as Flexbox and CSS Grid, for more sophisticated and responsive designs.
+
+  Responsive web design plays a crucial role in providing a seamless user experience across diverse devices, enhancing usability, and making websites accessible to a wider audience.
+  
+> "Good design is obvious. Great design is transparent." - Joe Sparano
+
+</details>
+
+
+---
+
+## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
+
+1. [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+   - What is a cat photo app?
+2. [**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)
+   - What is a cafe menu?
+3. [**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)
+   - What is a colored markers?
+4. [**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)
+   - What is a registration form?
+5. [**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
+    - What is a survey form?
+6. [**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
+    - What is a rothko painting?
+7. [**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
+    - What is a photo gallery?
+8. [**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
+    - What is a nutrition label?
+9. [**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
+    - What are Pay-Pal buttons?
+10. [**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)
+    - What is a penguin
+11. [**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)
+    - What is piano?
+12. [**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)
+    - What is a portfolio Webpage?
+13. [**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)
+    - What is a quiz?
+14. [**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)
+    - What is a random quote machine?
+15. [**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)
+    - What are shoes?
+16. [**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
+    - What is a technical documentation page?
+17. [**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
+    - What is a tribute?
+18. [**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
+    - What is an appointment booking?
 
 ---
 
@@ -238,6 +308,15 @@ is a way of creating websites that can adapt to different screen sizes and devic
 
   [**email**](kyle@heartofstoneclothing.com) | [**facebook**](https://facebook.com/heartofstoneclothing) | [**instagram**](https://instagram.com/heart_of_stone_clothing_online) |
   [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
+
+---
+
+## 🦸Our staff🦸
+
+  ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
+  [Kyle Santowski](https://www.linkedin.com/kyle-santowski-580448195)
+
+---
 
 ```html
 <!DOCTYPE html>
@@ -305,6 +384,9 @@ I need to highlight these `very important words.`
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
 
 X<sup>2</sup>
+
+
+
 
 <!---
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
