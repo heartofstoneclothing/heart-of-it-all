@@ -40,7 +40,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
-<details>
+```html<details>
 <form>
   <input type="radio" name="gender" value="male">
   <label for="male">Male</label><br>
@@ -64,8 +64,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 <option>four</option></br>
 </select>
 </details>
-
----
+```
 
 [InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
 
@@ -83,6 +82,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 ---
 
 ## IPv4 vs IPv6
+
 |IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
 **76.223.105.230**
@@ -104,7 +104,8 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
-### HyperText Markup Language
+## HyperText Markup Language
+
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
 |[A](https://example.com)| `<a></a>` `<abbr></abbr>` `<address></address>` `<article></article>` `<aside></aside>` `<area></area>` `<audio></audio>` |
@@ -129,8 +130,10 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 |[V](https://example.com)| `<var></var>` `<video></video>` |
 |[W](https://example.com)| `<wbr></wbr>` |
 
+---
 
-### HyperText Markup Language Symbols
+## HyperText Markup Language Symbol
+
 | | | | | | | | | | |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |&asymp; | &prod; | &nsub; | &larr; | &lsquo; | &divide; | &ETH; | &Agrave; | &deg; | &nbsp; |
@@ -163,41 +166,41 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 ### 1. [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
 
 <details>
-  <summary>Learn more about data visualization</summary>
+<summary>Learn more about data visualization</summary>
 
   Is the process of transforming data into graphical or pictorial forms that can reveal patterns, trends, and insights. Data visualisation can help us understand complex information more easily and communicate it more effectively. Data visualisation can be used for various purposes, such as:
 
-  ### Explore, Analyze, Communicate, and Present Data
+### Explore, Analyze, Communicate, and Present Data
 
-  - Exploring and analysing data to discover new insights and generate hypotheses.
-  - Communicating and presenting data to inform, persuade, or educate an audience.
-  - Monitoring and evaluating data to track progress, performance, or outcomes.
+- Exploring and analysing data to discover new insights and generate hypotheses.
+- Communicating and presenting data to inform, persuade, or educate an audience.
+- Monitoring and evaluating data to track progress, performance, or outcomes.
 
   Data visualisation can take many forms, such as charts, graphs, maps, dashboards, infographics, and interactive displays. The choice of the appropriate form depends on the type, size, and structure of the data, as well as the intended message and audience. Data visualisation requires both technical skills and creative thinking to design and implement effective solutions that can meet the needs and expectations of the users.
 
-  > "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
+> "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
 </details>
 
 ### 2. [**Front End Development Libraries**](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
 
 <details>
-  <summary>Learn more about front end development libraries</summary>
+<summary>Learn more about front end development libraries</summary>
   
   Are pre-written collections of standardized HTML, CSS, and JavaScript code that developers can use to build web applications or websites more efficiently. They provide a set of tools, libraries, and conventions for building user interfaces, handling events, managing application states, and interacting with APIs. Some examples of popular front-end libraries are:
 
-  - **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
-  - **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
-  - **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
+- **React** is a JavaScript library that allows developers to build reusable UI components that can be combined to create complex and interactive applications.
+- **Tailwind CSS** is a utility-first CSS framework that provides a set of pre-built classes that can be used to quickly build responsive web designs.
+- **Angular** is a TypeScript-based framework that offers a complete solution for building single-page applications with data binding, routing, testing, and more.
 
-  > "The best way to predict the future is to invent it." - Alan Kay
+> "The best way to predict the future is to invent it." - Alan Kay
 </details>
 
 ### 3. [**Javascript Algorithms And Data Structures**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
 
 <details>
-  <summary>Learn more about JavaScript algorithms and data structures</summary>
+<summary>Learn more about JavaScript algorithms and data structures</summary>
 
-  Are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem.
+Are the building blocks of programming in JavaScript. Algorithms are a set of instructions that define how to perform a specific task, such as sorting an array, finding the shortest path in a graph, or solving a dynamic programming problem.
 
 - **Data structures** are ways of organizing and storing data in a computer, such as arrays, linked lists, hash tables, trees, and graphs. Data structures and algorithms are closely related, as different data structures may have different advantages and disadvantages for certain algorithms.
 - **A Binary Tree** can be used to implement a fast sorting algorithm, while a hash table can be used to implement a fast lookup algorithm. Learning JavaScript algorithms and data structures can help you write more efficient and elegant code, as well as prepare you for technical interviews.
@@ -384,9 +387,6 @@ I need to highlight these `very important words.`
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
 
 X<sup>2</sup>
-
-
-
 
 <!---
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
