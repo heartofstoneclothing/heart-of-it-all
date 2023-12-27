@@ -382,14 +382,12 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
       gap: 20px;
       text-align: center;
     }
-
     /* Adjust the styling as needed for each SVG */
     svg {
       max-width: 100%;
       height: auto;
       margin: 0 auto;
     }
-
     /* Style for the image inside SVG */
     svg img {
       max-width: 80%;
@@ -427,6 +425,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
     <!-- Add more SVG elements as needed -->
   </div>
 </body>
+```</html>
 
 <details>
 <html lang="en">
@@ -452,7 +451,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 </body>
 </html>
 </details>
-```</html>
+
 
 > blockquote
 
