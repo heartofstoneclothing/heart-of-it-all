@@ -1,10 +1,4 @@
-# Your Python code goes here
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet("Kyle"))
-
-## [Our Company](https://heartofstoneclothing.com)
+# [Our Company](https://heartofstoneclothing.com)
 
 ![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
 
@@ -340,8 +334,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 
 ---
 
-
-
 ## 🦸Our staff🦸
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="blue" /></svg>
@@ -512,7 +504,11 @@ X<sup>2</sup>
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+# Your Python code goes here
+def greet(name):
+    return f"Hello, {name}!"
 
+print(greet("Kyle"))
 
 
 
