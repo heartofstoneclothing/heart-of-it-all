@@ -450,7 +450,8 @@ terms
 - [ ] uncompleted task.
 - [ ] another uncompleted task.
 
-That was so funny! 
+That was so funny!
+
 :joy:
 :1st_place_medal:
 :2nd_place_medal:
