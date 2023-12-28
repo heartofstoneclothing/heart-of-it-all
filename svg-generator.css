@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.svg-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* Add any additional styling based on your preferences */
+}
