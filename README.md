@@ -1,6 +1,6 @@
 # [Our Company](https://heartofstoneclothing.com)
 
-![_0bc63358-a0b4-4aa0-8d6e-7b064791323c](https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2)
+![_0bc63358-a0b4-4aa0-8d6e-7b064791323c][cover]
 
 - Chapter 1  
   - description of our past.
@@ -207,29 +207,75 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 </details>
 
-### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+### 4. [**Responsive Web Design**][Responsive Web Design Certificate]
 
-<details>
-<summary>Learn more about responsive web design</summary>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+/* <!-- Stylesheet for Responsive Web Design Section --> */
+    </style>
+</head>
+<body>
+    <!-- Responsive Web Design Section -->
+    <details>
+        <summary>Learn more!</summary>
+        <p>Responsive Web Design is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones.</p>
+        <p>It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device.</p>
+        <p>Responsive web design also ensures good usability and accessibility for the users.</p>
+        <p>Some of the CSS features that are used for responsive web design are</p>
+        <table>
+            <thead></thead>
+            <tr>
+                <td>Media Queries</td>
+                <td>Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.</td>
+            </tr>
+        </table>
+        <ul>
+            <li><a href="https://example.com">Fluid Images</a></li>
+            <li><a href="https://example.com">Modern Layout Methods</a></li>
+        </ul>
+    </details>
+    <!-- Responsive Web Design Principles Section -->
+    <div class="principles">
+        <h2>Responsive Web Design Principles</h2>
+        <ul>
+            <li><strong>Fluid Grids:</strong> Responsive designs use fluid grids that adjust proportionally to the screen size, ensuring a consistent layout across devices.</li>
+            <li><strong>Fluid Images:</strong> Images are designed to scale within their containing elements, maintaining proper proportions on various devices.</li>
+            <li><strong>Modern Layout Methods:</strong> Utilizing modern layout methods, such as Flexbox and CSS Grid, for more sophisticated and responsive designs.</li>
+        </ul>
+    </div>
+    <!-- SVG Grid Layout for Portfolio -->
+    <div class="svg-container">
+        <div class="svg-item">1</div>
+        <div class="svg-item">2</div>
+        <div class="svg-item">3</div>
+        <div class="svg-item">4</div>
+        <div class="svg-item">5</div>
+        <div class="svg-item">6</div>
+    </div>
+    <!-- Additional Content -->
+    <blockquote>
+        <p>"Good design is obvious. Great design is transparent." - Joe Sparano</p>
+    </blockquote>
+</body>
+</html>
+```
 
-  Is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones. It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device. Responsive web design also ensures good usability and accessibility for the users. Some of the CSS features that are used for responsive web design are media queries, fluid grids, fluid images, and modern layout methods.
+```xml
++==
+|
+|
++==
+```
 
-- **Media Queries:** Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.
-- **Fluid Grids:** Responsive designs use fluid grids that adjust proportionally to the screen size, ensuring a consistent layout across devices.
-- **Fluid Images:** Images are designed to scale within their containing elements, maintaining proper proportions on various devices.
-- **Modern Layout Methods:** Utilizing modern layout methods, such as Flexbox and CSS Grid, for more sophisticated and responsive designs.
-
-  Responsive web design plays a crucial role in providing a seamless user experience across diverse devices, enhancing usability, and making websites accessible to a wider audience.
-  
-> "Good design is obvious. Great design is transparent." - Joe Sparano
-
-</details>
+## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
 
 ---
 
-### [Projects](https://sites.google.com/view/heartofstoneclothes/home)
-
-#### [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+### [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
 <details>
 <summary>🐱‍👤Hey Cat Crew</summary>
@@ -243,7 +289,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 I'm not saying the app is a remedy for custody battles, but it's a great distraction.
 Check out this pic of my black beauty—she's a legend in her own right. 😼
 </details>
-![image](https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/62e85724-34aa-4591-908b-6a46159562d7)
+![image][cat-photo-app]
 
 <details>
 <summary>**Use at own risk!**</summary>
@@ -259,7 +305,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 |[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|
 |------------|------------|--------|
 |What is a cafe menu?|What is a colored marker?|What is a registration form?|
-||||
 ||||
 
 ---
@@ -295,12 +340,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 
 ---
 
-## Our collaborations🤝
-
-[Wix](https://santowskikr.wixsite.com/heartofstoneclothing)
-
----
-
 ## Badges
 
 ### This is how to make a checklist by using badges I've earned as an example
@@ -323,10 +362,8 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 
 ---
 
-- 👀 I’m interested in ...
-  
 - 🌱 I’m currently learning ...
-  [Microsoft Learning Path](https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn)
+  [Microsoft Learning Path][Microsoft Learning Path]
 
 - 💞️ I’m looking to collaborate on ... the other projects I've built, but you've misplaced them. fool!
 
@@ -335,6 +372,8 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 ---
 
 ## 🦸Our staff🦸
+
+---
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="blue" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="green" /><svg>
@@ -354,7 +393,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="green" stroke="url(#grad)" stroke-width="2" /><defs><linearGradient id="grad" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="grad2" gradientTransform="rotate(45)"><stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs><rect width="100%" height="100%" fill="url(#grad2)" /><polygon points="50,10 90,90 10,90" fill="transparent" /></svg>
 
-
 <svg xmlns="http://www.w3.org/2000/svg"><path d="M10 10 L10 90 L90 90 Z" fill="green" /></svg>
 <svg xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 L45 70 Z" fill="yellow" stroke="black" stroke-width="2" stroke-dasharray="5,5" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" ><path d="M20 20 L70 20 L45 70 Z" fill="red" /></svg>
@@ -366,6 +404,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="none" stroke="green" stroke-width="2" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text></svg><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" /></svg>
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -423,8 +462,10 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
     <!-- Add more SVG elements as needed -->
   </div>
 </body>
-```</html>
+</html>
+```
 
+```html
 <details>
 <html lang="en">
 <head>
@@ -450,16 +491,11 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 </html>
 </details>
 
-
-> blockquote
-
 1. Ordered
 2. List
 
 - Unordered
 - List
-
-`code`
 
 `
 {
@@ -470,7 +506,6 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 `
 
 Here is a sentence with a footnote. [^1]
-[^1]: This is the footnote.
 
 {#custom-id}
 
@@ -479,10 +514,6 @@ terms
 : conditions  
 
 ~~STRIKETHROUGH~~
-
-- [x] completed task.
-- [ ] uncompleted task.
-- [ ] another uncompleted task.
 
 That was so funny!
 
@@ -497,39 +528,76 @@ I need to highlight these `very important words.`
 
 X<sup>2</sup>
 
-<!---
+- 👀 I’m interested in ...
+
+## Our collaborations🤝
+
+[Wix](https://santowskikr.wixsite.com/heartofstoneclothing)
+
+---
+
+---
+
+[^1]: This is the footnote. [^2]:
+
+```def greet(name):
+return f"Hello, {name}!"
+
+print(greet("Kyle"));
+```
+
+<!--
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+-->
 
-# Your Python code goes here
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet("Kyle"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---->
 [my kitten]:https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
+[cat-photo-app]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/62e85724-34aa-4591-908b-6a46159562d7
+[Responsive Web Design Certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
+[Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
+[cover]:https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2
 
+/*Stylesheet for Responsive Web Design Section*/
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        details {
+            border: 1px solid #ddd;
+            padding: 4px;
+            margin-bottom: 16px;
+        }
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        /*Stylesheet for Responsive Web Design Principles Section*/
+        .principles {
+            margin-top: 20px;
+        }
+        /*SVG Grid Layout*/
+        .svg-container {
+            display: grid;
+            grid-template-columns: repeat(3, 100px);
+            grid-gap: 10px;
+        }
+        .svg-item {
+            width: 100px;
+            height: 100px;
+            background-color: #ddd;
+            text-align: center;
+            line-height: 100px;
+        }
