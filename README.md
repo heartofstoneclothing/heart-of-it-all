@@ -1,7 +1,7 @@
 # [Our Company](https://heartofstoneclothing.com)
 
-![_0bc63358-a0b4-4aa0-8d6e-7b064791323c][cover]
 
+![as i got older][cover]
 - Chapter 1  
   - description of our past.
     - present and future
@@ -546,6 +546,7 @@ return f"Hello, {name}!"
 print(greet("Kyle"));
 ```
 
+
 <!--
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -555,7 +556,7 @@ You can click the Preview link to take a look at your changes.
 [cat-photo-app]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/62e85724-34aa-4591-908b-6a46159562d7
 [Responsive Web Design Certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
-[cover]:https://github.com/heartofstoneclothing/heartofstoneclothing/assets/124478163/d2da518a-f685-46a4-9d55-de6b76b427d2
+[cover]:(https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d)
 
 /*Stylesheet for Responsive Web Design Section*/
         body {
