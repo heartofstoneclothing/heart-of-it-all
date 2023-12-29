@@ -1,7 +1,7 @@
 # [Our Company](https://heartofstoneclothing.com)
 
 
-![as i got older][cover]
+![as i got older](https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d)
 - Chapter 1  
   - description of our past.
     - present and future
@@ -556,7 +556,7 @@ You can click the Preview link to take a look at your changes.
 [cat-photo-app]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/62e85724-34aa-4591-908b-6a46159562d7
 [Responsive Web Design Certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
-[cover]:(https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d)
+[cover]:
 
 /*Stylesheet for Responsive Web Design Section*/
         body {
