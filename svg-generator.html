@@ -4,12 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random SVG Generator</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="svg-generator.css">
+    <style>
+        body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.svg-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+</style>
 </head>
 <body>
     <div class="svg-container" id="svgContainer">
-        <!-- SVG elements will be dynamically generated here -->
     </div>
-    <script src="script.js"></script>
+    <script src="svg-generator.js">
+    // Function to generate a random color
+        function getRandomColor() {
+            // Implement your logic for generating random colors
+        }
+        
+        // Function to generate a random shape (for example, circle or rectangle)
+        function getRandomShape() {
+            // Implement your logic for generating random shapes
+        }
+        
+        // Function to create and append a random SVG element to the container
+        function createRandomSVG() {
+            const svgContainer = document.getElementById('svgContainer');
+        
+            const svgElement = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+            svgElement.setAttribute('width', '100');
+            svgElement.setAttribute('height', '100');
+            svgElement.setAttribute('style', `fill: ${getRandomColor()}; position: relative;`);
+        
+            const shape = getRandomShape();
+            // Customize shape attributes based on your preferences
+        
+            svgElement.appendChild(shape);
+            svgContainer.appendChild(svgElement);
+        }
+        
+        // Generate a random SVG on page load
+        createRandomSVG();
+        </script>
 </body>
 </html>

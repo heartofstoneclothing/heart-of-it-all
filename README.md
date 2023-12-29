@@ -376,7 +376,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 ---
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="blue" /></svg>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="green" /><svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="green" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2" /></svg>
 
 [**instagram**](https://instagram.com/heart_of_stone_clothing_online)
@@ -387,7 +387,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
 
 <svg xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="grad3" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,255);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs><path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" /></svg>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,10 90,10 50,90" fill="pink" /></svg>`  
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,10 90,10 50,90" fill="pink" /></svg>  
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="pattern1" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="red" /></pattern></defs><polygon points="50,10 90,90 10,90" fill="url(#pattern1)"/></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="green" stroke="url(#grad)" stroke-width="2" /><defs><linearGradient id="grad" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs></svg>
@@ -397,7 +397,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 <svg xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 L45 70 Z" fill="yellow" stroke="black" stroke-width="2" stroke-dasharray="5,5" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" ><path d="M20 20 L70 20 L45 70 Z" fill="red" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,10 10,90 90,90" fill="red" /></svg>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="30,10 70,70 10,70" fill="purple"/><svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="30,10 70,70 10,70" fill="purple"/></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="20,80 70,20 90,90" fill="orange" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="url(#grad)" /><defs><linearGradient id="grad" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="cyan" rx="10" ry="10" /></svg>
@@ -438,7 +438,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
   <div class="svg-container">
     <!-- SVG elements go here -->
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-      <polygon points="50,10 90,90 10,90" fill="blue" />
+      <polygon points="50,10 90,90 10,90" fill="blue"/>
     </svg>
     <!-- Add more SVG elements as needed -->
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
