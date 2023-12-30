@@ -1,40 +1,22 @@
 # [Our Company](https://heartofstoneclothing.com)
 
+- Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstoneclothing.com/_blank)
+  - We would like to share with you the story of how our non-profit charity organization came to be. [^1]
+  - [***our brand***](https://heartofstoneclothing.com/_blank) was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives.
+  - They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
+  - [***Our name***](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. [***Our logo***][logo] is a heart-shaped stone that symbolizes our values and mission.
+  - [***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
+  - [***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
+  - We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com***](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
+  - We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions. You can also follow us on social media and join our community of like-minded people.
+  - Thank you for reading and ***stay tuned*** for *regular* **updates** and ***exciting promotions*** from the heart-of-it-all. Any donations would be greatly appreciated.
+    - Here is a link to my [🤢](https://heartofstoneclothing.com/_blank)
+- description of the outcome.  
+- description of our presence.
+
 ![as i got older][as i got older]
 
-- Chapter 1  
-  - description of our past.
-    - present and future
-- Chapter 2
-  - description of the outcome.  
-    - description of our presence.
-
 ---
-
-## Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstoneclothing.com/_blank)
-
----
-
-We would like to share with you the story of how our non-profit charity organization came to be. [^1]
-
-[our brand](https://heartofstoneclothing.com/_blank) was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives.
-
-They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
-[Our name](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. Our [***logo***](https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR) is a heart-shaped stone that symbolizes our values and mission.
-[***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
-
-[***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
-We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com***](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
-We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions.
-
-You can also follow us on social media and join our community of like-minded people.
-
-Thank you for reading and ***stay tuned*** for *regular* **updates** and ***exciting promotions*** from the heart-of-it-all.
-Any donations would be greatly appreciated, here is a link to my [🤢](https://heartofstoneclothing.com/_blank)
-
----
-
-
 
 <details><summary>Form</summary>
 <form>
@@ -555,3 +537,4 @@ You can click the Preview link to take a look at your changes.
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
 [as i got older]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d
 [InternetShortcut]:https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v
+[logo]: https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR
