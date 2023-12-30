@@ -38,7 +38,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 [wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
-<details>
+<details><summary>Form</summary>
 <form>
   <input type="radio" name="gender" value="male">
   <label for="male">Male</label><br>
@@ -63,7 +63,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 </select>
 </details>
 
-[InternetShortcut](https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v)
+[InternetShortcut][InternetShortcut]
 
 ---
 
@@ -237,7 +237,10 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
     </div>
     <!-- SVG Grid Layout for Portfolio -->
     <div class="svg-container">
-        <div class="svg-item">1</div>
+        <div class="svg-item"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="50" fill="blue"/>
+</svg>
+</div>
         <div class="svg-item">2</div>
         <div class="svg-item">3</div>
         <div class="svg-item">4</div>
@@ -289,7 +292,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-|Project Cafe Menu|||||||||||||||||
+|Project Cafe Menu|Project CSS Colored Markers||||||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)|[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)|[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)|[**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)|[**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)|[**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)|[**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)|[**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)|[**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)|[**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)|[**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)|[**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)|[**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)|[**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)|
 ||||||||||||||||||
@@ -297,10 +300,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-
-<details>
-    <summary>Badges</summary>
-<ul>
+<details><summary>Badges</summary><ul>
         <li>
             <input type="checkbox" id="officeMate" checked>
             <label for="officeMate"><a href="https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997">Office mate</a></label>
@@ -412,7 +412,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text></svg><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" /></svg>
 
 
-```xml
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -420,20 +420,17 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SVG Elements Graph</title>
   <style>
-    /* Add any styling you need for the grid layout */
     .svg-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
       gap: 20px;
       text-align: center;
     }
-    /* Adjust the styling as needed for each SVG */
     svg {
       max-width: 100%;
       height: auto;
       margin: 0 auto;
     }
-    /* Style for the image inside SVG */
     svg img {
       max-width: 80%;
       height: auto;
@@ -444,15 +441,12 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 </head>
 <body>
   <div class="svg-container">
-    <!-- SVG elements go here -->
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
       <polygon points="50,10 90,90 10,90" fill="blue"/>
     </svg>
-    <!-- Add more SVG elements as needed -->
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
       <polygon points="10,10 90,10 50,90" fill="pink" />
     </svg>
-    <!-- Add more SVG elements as needed -->
     <svg xmlns="http://www.w3.org/2000/svg">
       <defs>
         <linearGradient id="grad3" gradientTransform="rotate(90)">
@@ -462,17 +456,17 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
       </defs>
       <path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" />
     </svg>
-    <!-- Add more SVG elements as needed -->
-    <!-- SVG with centered image -->
     <svg xmlns="http://www.w3.org/2000/svg">
       <image href="https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w" x="20%" y="20%" width="60%" height="60%" />
     </svg>
-    <!-- Add more SVG elements as needed -->
   </div>
 </body>
 </html>
 ```
 
+---
+
+<html>
 <details>
 <html lang="en">
 <head>
@@ -512,7 +506,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 }
 `
 
-Here is a sentence with a footnote. [^1]
+Here is a sentence with a footnote. [^2]
 
 {#custom-id}
 
@@ -545,7 +539,8 @@ X<sup>2</sup>
 
 ---
 
-[^1]: This is the footnote. [^2]:
+[^1]: This is the footnote.
+[^2]: This is another footnote
 
 ```def greet(name):
 return f"Hello, {name}!"
@@ -561,48 +556,4 @@ You can click the Preview link to take a look at your changes.
 [my kitten]:https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
 [as i got older]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d
-
-/*Stylesheet for Responsive Web Design Section*/
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        details {
-            border: 1px solid #ddd;
-            padding: 4px;
-            margin-bottom: 16px;
-        }
-        summary {
-            font-weight: bold;
-            cursor: pointer;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 10px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        /*Stylesheet for Responsive Web Design Principles Section*/
-        .principles {
-            margin-top: 20px;
-        }
-        /*SVG Grid Layout*/
-        .svg-container {
-            display: grid;
-            grid-template-columns: repeat(3, 100px);
-            grid-gap: 10px;
-        }
-        .svg-item {
-            width: 100px;
-            height: 100px;
-            background-color: #ddd;
-            text-align: center;
-            line-height: 100px;
-        }
+[InternetShortcut]:https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v
