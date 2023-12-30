@@ -218,7 +218,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
     <!-- SVG Grid Layout for Portfolio -->
     <div class="svg-container">
         <div class="svg-item"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="50" r="50" fill="blue"/>
+    <circle cx="50" cy="50" r="50" fill="blue" />
 </svg>
 </div>
         <div class="svg-item">2</div>
@@ -374,7 +374,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
 [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
 
-```xml
+```html
 <svg xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="grad3" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,255);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs><path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,10 90,10 50,90" fill="pink" /></svg>  
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5" /></svg>
