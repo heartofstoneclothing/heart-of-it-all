@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <!-- Home Page -->
+   <url>
+      <loc>https://heartofstoneclothing.com/</loc>
+      <lastmod>2023-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- Products Page -->
+   <url>
+      <loc>https://heartofstoneclothing.com/products</loc>
+      <lastmod>2023-01-02</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- About Us Page -->
+   <url>
+      <loc>https://heartofstoneclothing.com/about-us</loc>
+      <lastmod>2023-01-03</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Contact Page -->
+   <url>
+      <loc>https://heartofstoneclothing.com/contact</loc>
+      <lastmod>2023-01-04</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- Blog Page -->
+   <url>
+      <loc>https://heartofstoneclothing.com/blog</loc>
+      <lastmod>2023-01-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Add more <url> entries for other pages -->
+
+</url>

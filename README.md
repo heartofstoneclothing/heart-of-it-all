@@ -1,6 +1,6 @@
 # [Our Company](https://heartofstoneclothing.com)
 
-![as i got older](https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d)
+![as i got older][as i got older]
 
 - Chapter 1  
   - description of our past.
@@ -250,6 +250,8 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
     </blockquote>
 </details>
 
+---
+
 ```xml
 +==
 |
@@ -257,11 +259,11 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 +==
 ```
 
-## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
-
 ---
 
-### [<h3>**Cat Photo App**</h3>](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+## <h1>[Projects](https://sites.google.com/view/heartofstoneclothes/home)</h1>
+
+### [<h2>**Cat Photo App**</h2>](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
 <details>
 <summary>🐱‍👤Hey Cat Crew</summary>
@@ -287,56 +289,79 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-|[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)|[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)|[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)|
-|------------|------------|--------|--------|--------|--------|
-|What is a cafe menu?|What is a colored marker?|What is a registration form?|What is a survey form?|What is a rothko painting?|What is a photo gallery?|
+|Project Cafe Menu|||||||||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)|[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)|[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)|[**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)|[**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)|[**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)|[**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)|[**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)|[**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)|[**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)|[**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)|[**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)|[**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)|[**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)|
+||||||||||||||||||
+|What is a cafe menu?|What is a colored marker?|What is a registration form?|What is a survey form?|What is a rothko painting?|What is a photo gallery?|What is a nutrition label?|What are Pay-Pal buttons?|What is a penguin?|What is a piano?|What is a portfolio Webpage?|What is a quiz?|What is a random quote machine?|What are shoes?|What is a technical documentation page?|What is a tribute page?|What is an appointment booking?|
 
 ---
 
-8.[**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
--What is a nutrition label?
-9.[**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
--What are Pay-Pal buttons?
-10.[**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)
--What is a penguin
-11.[**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)
--What is piano?
-12.[**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)
--What is a portfolio Webpage?
-13.[**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)
--What is a quiz?
-14.[**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)
--What is a random quote machine?
-15.[**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)
--What are shoes?
-16.[**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)
-    -What is a technical documentation page?
-17.[**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)
-    -What is a tribute?
-18.[**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)
-   -What is an appointment booking?
 
----
-
-## <details><summary>Badges
-
-### This is how to make a checklist by using badges I've earned as an example</summary>
-
-- [x] [***Office mate***](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
-- [ ] [***DOS boss***](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
-- [ ] [***Audiofile***](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K)
-- [ ] [***Local hero***](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_98052)
-- [ ] [***Founder***](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_441975)
-- [ ] [***7-day set***](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_7)
-- [ ] [***30-day set***](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_30)
-- [ ] [***180-day set***](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_180)
-- [ ] [***365-day set***](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_365)
-- [ ] [***999-day set***](https://rewards.bing.com/badges/details?badgeId=Badge_Streak_999)
-- [x] [***$1 donation towards charity***](https://rewards.bing.com/status/badgedetails?badgeId=Badge_Donation_1K)
-- [x] [***Ace of hearts***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K)
-- [ ] [***Heart of hearts***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K)
-- [ ] [***Heart of gold***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
-- [ ] [***World of thanks***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
+<details>
+    <summary>Badges</summary>
+<ul>
+        <li>
+            <input type="checkbox" id="officeMate" checked>
+            <label for="officeMate"><a href="https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997">Office mate</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="dosBoss">
+            <label for="dosBoss"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088">DOS boss</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="audiofile">
+            <label for="audiofile"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_35K">Audiofile</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="localHero">
+            <label for="localHero"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_98052">Local hero</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="founder">
+            <label for="founder"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_441975">Founder</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="sevenDaySet">
+            <label for="sevenDaySet"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Streak_7">7-day set</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="thirtyDaySet">
+            <label for="thirtyDaySet"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Streak_30">30-day set</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="oneEightyDaySet">
+            <label for="oneEightyDaySet"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Streak_180">180-day set</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="threeSixtyFiveDaySet">
+            <label for="threeSixtyFiveDaySet"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Streak_365">365-day set</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="nineNineNineDaySet">
+            <label for="nineNineNineDaySet"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Streak_999">999-day set</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="oneDollarDonation">
+            <label for="oneDollarDonation"><a href="https://rewards.bing.com/status/badgedetails?badgeId=Badge_Donation_1K">$1 donation towards charity</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="aceOfHearts" checked>
+            <label for="aceOfHearts"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Donation_5K">Ace of hearts</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="heartOfHearts">
+            <label for="heartOfHearts"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K">Heart of hearts</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="heartOfGold">
+            <label for="heartOfGold"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K">Heart of gold</a></label>
+        </li>
+        <li>
+            <input type="checkbox" id="worldOfThanks">
+            <label for="worldOfThanks"><a href="https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K">World of thanks</a></label>
+        </li>
+    </ul>
 </details>
 
 ---
@@ -354,11 +379,11 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-`
+```html
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="blue" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="green" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2" /></svg>
-`
+```
 
 [**instagram**](https://instagram.com/heart_of_stone_clothing_online)
 [**facebook**](https://facebook.com/heartofstoneclothing)
@@ -367,6 +392,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 ![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
 [**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
 
+```xml
 <svg xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="grad3" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,255);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs><path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,10 90,10 50,90" fill="pink" /></svg>  
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5" /></svg>
@@ -386,7 +412,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text></svg><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" /></svg>
 
 
-```html
+```xml
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -447,7 +473,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 </html>
 ```
 
-```html
 <details>
 <html lang="en">
 <head>
@@ -528,16 +553,14 @@ return f"Hello, {name}!"
 print(greet("Kyle"));
 ```
 
-
 <!--
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
 
 [my kitten]:https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
-[cat-photo-app]:
-[Responsive Web Design Certificate]:
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
+[as i got older]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d
 
 /*Stylesheet for Responsive Web Design Section*/
         body {
