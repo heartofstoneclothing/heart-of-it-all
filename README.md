@@ -1,7 +1,7 @@
 # [Our Company](https://heartofstoneclothing.com)
 
-
 ![as i got older](https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d)
+
 - Chapter 1  
   - description of our past.
     - present and future
@@ -207,37 +207,25 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 </details>
 
-### 4. [**Responsive Web Design**][Responsive Web Design Certificate]
+### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <style>
-/* <!-- Stylesheet for Responsive Web Design Section --> */
-    </style>
-</head>
-<body>
-    <!-- Responsive Web Design Section -->
-    <details>
-        <summary>Learn more!</summary>
-        <p>Responsive Web Design is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones.</p>
-        <p>It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device.</p>
-        <p>Responsive web design also ensures good usability and accessibility for the users.</p>
-        <p>Some of the CSS features that are used for responsive web design are</p>
-        <table>
-            <thead></thead>
-            <tr>
-                <td>Media Queries</td>
-                <td>Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.</td>
-            </tr>
+<details>
+  <summary>Learn more about responsive web design!</summary>
+    <p>Responsive Web Design is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones.</p>
+    <p>It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device.</p>
+    <p>Responsive web design also ensures good usability and accessibility for the users.</p>
+    <p>Some of the CSS features that are used for responsive web design are</p>
+      <table>
+        <thead></thead>
+          <tr>
+            <td>Media Queries</td>
+            <td>Media queries allow the adaptation of styles based on the characteristics of the device, such as screen width, height, or device orientation.</td>
+          </tr>
         </table>
         <ul>
             <li><a href="https://example.com">Fluid Images</a></li>
             <li><a href="https://example.com">Modern Layout Methods</a></li>
         </ul>
-    </details>
     <!-- Responsive Web Design Principles Section -->
     <div class="principles">
         <h2>Responsive Web Design Principles</h2>
@@ -260,9 +248,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
     <blockquote>
         <p>"Good design is obvious. Great design is transparent." - Joe Sparano</p>
     </blockquote>
-</body>
-</html>
-```
+</details>
 
 ```xml
 +==
@@ -275,7 +261,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 ---
 
-### [**Cat Photo App**](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+### [<h3>**Cat Photo App**</h3>](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
 
 <details>
 <summary>🐱‍👤Hey Cat Crew</summary>
@@ -289,32 +275,24 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 I'm not saying the app is a remedy for custody battles, but it's a great distraction.
 Check out this pic of my black beauty—she's a legend in her own right. 😼
 </details>
-![image][cat-photo-app]
 
 <details>
-<summary>**Use at own risk!**</summary>
+<summary>Use at own risk!</summary>
 <p>users be advised! -- graphic images could Spark Envy😻 -- cute factor 10/10 </p>
 
 ![My Fluffy Kitty, Bish][my kitten]
 
-Feel free to hop into the app, share your furball pics, and maybe leave a comment about the absurdity of cat custody battles. Let's keep it lighthearted and remember, it's all about celebrating my adorable whiskered companion! 😺
+<p>Feel free to hop into the app, share your furball pics, and maybe leave a comment about the absurdity of cat custody battles. Let's keep it lighthearted and remember, it's all about celebrating my adorable whiskered companion! 😺</p>
 </details>
 
 ---
 
-|[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|
-|------------|------------|--------|
-|What is a cafe menu?|What is a colored marker?|What is a registration form?|
-||||
+|[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)|[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)|[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)|
+|------------|------------|--------|--------|--------|--------|
+|What is a cafe menu?|What is a colored marker?|What is a registration form?|What is a survey form?|What is a rothko painting?|What is a photo gallery?|
 
 ---
 
-5.[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)
--What is a survey form?
-6.[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)
--What is a rothko painting?
-7.[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)
--What is a photo gallery?
 8.[**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)
 -What is a nutrition label?
 9.[**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)
@@ -340,9 +318,9 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 
 ---
 
-## Badges
+## <details><summary>Badges
 
-### This is how to make a checklist by using badges I've earned as an example
+### This is how to make a checklist by using badges I've earned as an example</summary>
 
 - [x] [***Office mate***](https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997)
 - [ ] [***DOS boss***](https://rewards.bing.com/badges/details?badgeId=Badge_LifetimeBalance_8088)
@@ -359,6 +337,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 - [ ] [***Heart of hearts***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_20K)
 - [ ] [***Heart of gold***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_50K)
 - [ ] [***World of thanks***](https://rewards.bing.com/badges/details?badgeId=Badge_Donation_150K)
+</details>
 
 ---
 
@@ -556,8 +535,8 @@ You can click the Preview link to take a look at your changes.
 -->
 
 [my kitten]:https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
-[cat-photo-app]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/62e85724-34aa-4591-908b-6a46159562d7
-[Responsive Web Design Certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
+[cat-photo-app]:
+[Responsive Web Design Certificate]:
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
 
 /*Stylesheet for Responsive Web Design Section*/
