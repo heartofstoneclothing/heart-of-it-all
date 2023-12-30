@@ -406,6 +406,7 @@ Feel free to hop into the app, share your furball pics, and maybe leave a commen
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="none" stroke="green" stroke-width="2" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text></svg><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" /></svg>
 
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
