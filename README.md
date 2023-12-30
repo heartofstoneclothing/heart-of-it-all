@@ -34,9 +34,7 @@ Any donations would be greatly appreciated, here is a link to my [🤢](https://
 
 ---
 
-## How to navigate
 
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta) | [w3](https://heartofstoneclothing.w3spaces.com)
 
 <details><summary>Form</summary>
 <form>
@@ -300,9 +298,11 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-<details><summary>Badges</summary><ul>
-        <li>
-            <input type="checkbox" id="officeMate" checked>
+<details>
+<summary>Badges</summary>
+<ul>
+  <li>
+      <input type="checkbox" id="officeMate" checked>
             <label for="officeMate"><a href="https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997">Office mate</a></label>
         </li>
         <li>
@@ -534,8 +534,6 @@ X<sup>2</sup>
 ## Our collaborations🤝
 
 [Wix](https://santowskikr.wixsite.com/heartofstoneclothing)
-
----
 
 ---
 
