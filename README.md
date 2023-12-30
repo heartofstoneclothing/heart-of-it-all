@@ -367,7 +367,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2" /></svg>
 ```
 
-[**instagram**](https://instagram.com/heart_of_stone_clothing_online)
+[**instagram**][instagram]
 [**facebook**](https://facebook.com/heartofstoneclothing)
 [**Kyle Santowski**](https://www.linkedin.com/kyle-santowski-580448195)
 [**email**](kyle@heartofstoneclothing.com)
@@ -538,3 +538,4 @@ You can click the Preview link to take a look at your changes.
 [as i got older]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d
 [InternetShortcut]:https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v
 [logo]: https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR
+[instagram]: https://instagram.com/heart_of_stone_clothing_online
