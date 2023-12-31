@@ -1,56 +1,21 @@
-# [Our Company](https://heartofstoneclothing.com)
+# heartofstone
 
-- Hello, and welcome to [***heartofstoneclothing.com***](https://heartofstoneclothing.com/_blank)
-  - We would like to share with you the story of how our non-profit charity organization came to be. [^1]
-  - [***our brand***](https://heartofstoneclothing.com/_blank) was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives.
+[***heartofstoneclothing.com***][heartofstone]
+
+- We would like to share with you the story of how our non-profit charity organization came to be. [^1]
+  - [***our brand***][heartofstone] was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives.
   - They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
   - [***Our name***](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. [***Our logo***][logo] is a heart-shaped stone that symbolizes our values and mission.
-  - [***our products***](https://heartofstoneclothing.com/products) are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
+  - [***our products***][products] are sourced from organic, recycled materials enabling us to donate more profits to different organizations that work on issues such as environmental protection, human rights, animal welfare, education, health, and more.
   - [***Our goal***](https://example.com) is to create clothing that is not only stylish and comfortable, but also meaningful and impactful. We want to empower our customers to express themselves and their passions through their outfits, and to inspire them to join us in making the world a better place.
-  - We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com***](https://heartofstoneclothing.com) and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
+  - We hope you enjoyed learning more about our history and vision. If you want to support us and our causes, you can visit our website [***heartofstoneclothing.com***][heartofstone] and browse our collections, contribute towards our non-profit fundraising events, or shop our well resourced products.
   - We also partner with local artisans and communities to create unique and ethical designs that reflect their cultures and traditions. You can also follow us on social media and join our community of like-minded people.
   - Thank you for reading and ***stay tuned*** for *regular* **updates** and ***exciting promotions*** from the heart-of-it-all. Any donations would be greatly appreciated.
-    - Here is a link to my [🤢](https://heartofstoneclothing.com/_blank)
+    - Here is a link to my [🤢][heartofstone]
 - description of the outcome.  
 - description of our presence.
 
 ![as i got older][as i got older]
-
----
-
-<details><summary>Form</summary>
-<form>
-  <input type="radio" name="gender" value="male">
-  <label for="male">Male</label><br>
-  <input type="radio" name="gender" value="female">
-  <label for="female">Female</label><br>
-  <input type="radio" name="gender" value="other">
-  <label for="other">Other</label>
-</form>
-  <div class="radio-container">
-        <input type="radio" id="radio1" name="radiogroup">
-        <label for="radio1">Option 1</label>
-        <input type="radio" id="radio2" name="radiogroup">
-        <label for="radio2">Option 2</label>
-        <input type="radio" id="radio3" name="radiogroup">
-        <label for="radio3">Option 3</label>
-  </div>
-<select>
-<option>one</option></br>
-<option>two</option></br>
-<option>three</option></br>
-<option>four</option></br>
-</select>
-</details>
-
-[InternetShortcut][InternetShortcut]
-
----
-
-## Growing Trees
-
-![extract](https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256)
-![extract](https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256)
 
 ---
 
@@ -111,22 +76,19 @@
 
 ## 🔤💲HyperText Markup Language Symbol💲🔤
 
-| | | | | | | | | | |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|&asymp; | &prod; | &nsub; | &larr; | &lsquo; | &divide; | &ETH; | &Agrave; | &deg; | &nbsp; |
-|&ne; | &sum; | &sub; | &uarr; | &rsquo; | &yuml; | &Ntilde; | &Aacute; | &plusmn; | &iexcl; |
-|&equiv; | &minus; | &sube; | &rarr; | &sbquo; | &OElig; | &Ograve; | &Acirc; | &sup2; | &cent; |
-|&isin; | &lowast; | &supe; | &darr; | &ldquo; | &Scaron; | &Oacute; | &Atilde; | &sup3; | &pound; |
-|&radic;| &oplus; | &harr; | &rdquo; | &fnof; | &Ocirc; | &Auml; | &acute; | &curren; ||
-|&prop;| &otimes; | &crarr; | &bdquo; | &circ; | &Otilde; | &Aring; | &micro; | &yen; ||
-|&infin;| &perp; | &lceil; | &dagger; | &tilde; | &Ouml; | &AElig; | &para; | &brvbar; ||
-|&ang;| &sdot; | &rceil; | &bull; | &ensp; | &times; | &Ccedil; | &middot; | &sect; ||
-|&and;| &lang; | &lfloor; | &hellip; | &emsp; | &Oslash; | &Egrave; | &cedil; | &uml; ||
-|&or;| &rang; | &rfloor; | &permil; | &thinsp; | &Ugrave; | &Eacute; | &sup1; | &copy; ||
-|&cap;| &lt; | &loz; | &prime; | &zwnj; | &Uacute; | &Ecirc; | &ordm; | &ordf; ||
-|&cup;| &gt; | &spades; | &lsaquo; | &zwj; | &Ucirc; | &Euml; | &raquo; | &laquo; ||
-|&int;| &le; | &clubs; | &rsaquo; | &lrm; | &Uuml; | &Igrave; | &frac14; | &not; ||
-|&there4; | &ge; | &hearts; | &oline; | &rlm; | &Yacute; | &Iacute; | &frac12; | &shy; ||
+| | | | | | | | | | ||||
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| &asymp; | &prod; | &nsub; | &larr; | &lsquo; | &divide; | &ETH; | &Agrave; | &deg; | &nbsp; | &shy; | &frac12; | &Iacute; |
+| &ne; | &sum; | &sub; | &uarr; | &rsquo; | &yuml; | &Ntilde; | &Aacute; | &plusmn; | &iexcl; | &oline; | &rlm; | &Yacute; |
+| &equiv; | &minus; | &sube; | &rarr; | &sbquo; | &OElig; | &Ograve; | &Acirc; | &sup2; | &cent; | &there4; | &ge; | &hearts; |
+| &isin; | &lowast; | &supe; | &darr; | &ldquo; | &Scaron; | &Oacute; | &Atilde; | &sup3; | &pound; | &Igrave; | &frac14; | &not; |
+| &radic;| &oplus; | &harr; | &rdquo; | &fnof; | &Ocirc; | &Auml; | &acute; | &curren; | &rsaquo; | &lrm; | &Uuml; |
+| &prop;| &otimes; | &crarr; | &bdquo; | &circ; | &Otilde; | &Aring; | &micro; | &yen; | &int;| &le; | &clubs; |
+| &infin;| &perp; | &lceil; | &dagger; | &tilde; | &Ouml; | &AElig; | &para; | &brvbar; | &Euml; | &raquo; | &laquo; |
+| &ang;| &sdot; | &rceil; | &bull; | &ensp; | &times; | &Ccedil; | &middot; | &sect; | &lsaquo; | &zwj; | &Ucirc; |
+| &and;| &lang; | &lfloor; | &hellip; | &emsp; | &Oslash; | &Egrave; | &cedil; | &uml; | &cup;| &gt; | &spades; |
+| &or;| &rang; | &rfloor; | &permil; | &thinsp; | &Ugrave; | &Eacute; | &sup1; | &copy; ||
+| &cap;| &lt; | &loz; | &prime; | &zwnj; | &Uacute; | &Ecirc; | &ordm; | &ordf; ||
 
 ---
 
@@ -140,7 +102,7 @@
 
 ## 🎓Certifications🎓
 
-### 1. [**Data Visualisation**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization)
+### 1. [**Data Visualisation**][data-visualisation-certificate]
 
 <details>
 <summary>Learn more about data visualization</summary>
@@ -159,7 +121,7 @@
 
 </details>
 
-### 2. [**Front End Development Libraries**](https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries)
+### 2. [**Front End Development Libraries**][front-end-libraries-certificate]
 
 <details>
 <summary>Learn more about front end development libraries</summary>
@@ -173,7 +135,7 @@
 > "The best way to predict the future is to invent it." - Alan Kay
 </details>
 
-### 3. [**Javascript Algorithms And Data Structures**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures)
+### 3. [**Javascript Algorithms And Data Structures**][javascript-algorithms-data-structures-certificate]
 
 <details>
 <summary>Learn more about JavaScript algorithms and data structures</summary>
@@ -187,7 +149,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 </details>
 
-### 4. [**Responsive Web Design**](https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design)
+### 4. [**Responsive Web Design**][responsive-web-design-certificate]
 
 <details>
   <summary>Learn more about responsive web design!</summary>
@@ -235,18 +197,9 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 
 ---
 
-```xml
-+==
-|
-|
-+==
-```
+## [Projects](https://sites.google.com/view/heartofstoneclothes/home)
 
----
-
-## <h1>[Projects](https://sites.google.com/view/heartofstoneclothes/home)</h1>
-
-### [<h2>**Cat Photo App**</h2>](https://sites.google.com/view/heartofstoneclothes/cat-photo-app)
+### Cat-Photo-App
 
 <details>
 <summary>🐱‍👤Hey Cat Crew</summary>
@@ -272,20 +225,23 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-|Project Cafe Menu|Project CSS Colored Markers||||||||||||||||
+|**Cafe Menu**|**CSS Colored Markers**|**Registration Form**|**Survey Form**|**Rothko Painting**|**Photo Gallery**|**Nutrition Label**|**Pay-Pal Buttons**|**Penguin**|**Piano**|**Portfolio-Webpage**|**Quiz**|**Random Quote Machine**|**Shoes**|**Technical Documentation Page**|**Tribute Page**|**Appointment Booking**|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|[**Cafe Menu**](https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu)|[**CSS Colored Markers**](https://sites.google.com/view/heartofstoneclothes/css-colored-markers)|[**Registration Form**](https://sites.google.com/view/heartofstoneclothes/registration-form)|[**Survey Form**](https://sites.google.com/view/heartofstoneclothes/survey-form)|[**Rothko Painting**](https://sites.google.com/view/heartofstoneclothes/rothko-painting)|[**Photo Gallery**](https://sites.google.com/view/heartofstoneclothes/photo-gallery)|[**Nutrition Label**](https://sites.google.com/view/heartofstoneclothes/nutrition-label)|[**Pay-Pal Buttons**](https://sites.google.com/view/heartofstoneclothes/paypal-buttons)|[**Penguin**](https://sites.google.com/view/heartofstoneclothes/penguin)|[**Piano**](https://sites.google.com/view/heartofstoneclothes/piano)|[**Portfolio-Webpage**](https://sites.google.com/view/heartofstoneclothes/portfolio-webpage)|[**Quiz**](https://sites.google.com/view/heartofstoneclothes/quiz)|[**Random Quote Machine**](https://sites.google.com/view/heartofstoneclothes/quiz)|[**Shoes**](https://sites.google.com/view/heartofstoneclothes/shoes)|[**Technical Documentation Page**](https://sites.google.com/view/heartofstoneclothes/technical-documentation-page)|[**Tribute Page**](https://sites.google.com/view/heartofstoneclothes/tribute-page)|[**Appointment Booking**](https://sites.google.com/view/heartofstoneclothes/appointment-booking)|
+| [**Cafe Menu**][menu] | [**CSS Colored Markers**][marker] | [**Registration Form**][registration] | [**Survey Form**][survey] | [**Rothko Painting**][Rothko] | [**Photo Gallery**][photo gallery] | [**Nutrition Label**][nutrition] | [**Pay-Pal Buttons**][pay pal]|[**Penguin**][penguin]|[**Piano**][piano] | [**Portfolio-Webpage**][portfolio] | [**Quiz**][quiz] | [**Random Quote Machine**](https://example.com) | [**Shoes**][shoes] | [**Technical Documentation Page**][technical doc] | [**Tribute Page**][tribute] | [**Appointment Booking**][appointment] |
 ||||||||||||||||||
 |What is a cafe menu?|What is a colored marker?|What is a registration form?|What is a survey form?|What is a rothko painting?|What is a photo gallery?|What is a nutrition label?|What are Pay-Pal buttons?|What is a penguin?|What is a piano?|What is a portfolio Webpage?|What is a quiz?|What is a random quote machine?|What are shoes?|What is a technical documentation page?|What is a tribute page?|What is an appointment booking?|
+|[html](https://example.com)|||||||||||||||||
+|[css](https://example.com)|
 
 ---
 
+```html
 <details>
 <summary>Badges</summary>
 <ul>
   <li>
       <input type="checkbox" id="officeMate" checked>
-            <label for="officeMate"><a href="https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_1997">Office mate</a></label>
+            <label for="officeMate"><a href="https://rewards.bing.com/status/badgedetails?badgeId=Badge_LifetimeBalance_199">Office mate</a></label>
         </li>
         <li>
             <input type="checkbox" id="dosBoss">
@@ -345,43 +301,39 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
         </li>
     </ul>
 </details>
+```
 
 ---
 
-- 🌱 I’m currently learning ...
-  [Microsoft Learning Path][Microsoft Learning Path]
+### 🦸Our staff🦸
 
-- 💞️ I’m looking to collaborate on ... the other projects I've built, but you've misplaced them. fool!
-
-- 📫 How to reach me ...
+![Kyle Santowski][linkedin]
 
 ---
 
-## 🦸Our staff🦸
+| 1. I’m currently learning | 2.[Microsoft Learning Path][Microsoft Learning Path] | 3.[**instagram**][instagram] | 4.[**facebook**][facebook] | 5.[**Kyle Santowski**][linked-in] | 6.[**email**][email] | 7.[**smart.bio**][smart-bio] |
+|--------|--------|--------|--------|--------|--------|--------|
+| 1.{"firstName": "Kyle", "lastName": "Santowski", "age": 30} |2|3|4|5|6|7|
 
 ---
 
-```html
+| def | ' ' | greet | (name) | : | return | f" | " | Hello | , | { | name | } | ! | " | ' ' | print | ( | greet | ( | " | Kyle | " | ) | ) | ; |
+|-----|-----|-------|--------|---|--------|----|---|-------|---|---|------|---|---|---|-----|-------|---|-------|---|---|------|---|---|---|---|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
+
+---
+
+<details>
+<summary>SVGs</summary>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="blue" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="green" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2" /></svg>
-```
-
-[**instagram**][instagram]
-[**facebook**](https://facebook.com/heartofstoneclothing)
-[**Kyle Santowski**](https://www.linkedin.com/kyle-santowski-580448195)
-[**email**](kyle@heartofstoneclothing.com)
-![Kyle Santowski](https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w)
-[**smart.bio**](https://smart.bio/heart_of_stone_clothing_online)
-
-```html
 <svg xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="grad3" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,255);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs><path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,10 90,10 50,90" fill="pink" /></svg>  
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="pattern1" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="red" /></pattern></defs><polygon points="50,10 90,90 10,90" fill="url(#pattern1)"/></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="green" stroke="url(#grad)" stroke-width="2" /><defs><linearGradient id="grad" gradientTransform="rotate(90)"><stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="grad2" gradientTransform="rotate(45)"><stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" /></linearGradient></defs><rect width="100%" height="100%" fill="url(#grad2)" /><polygon points="50,10 90,90 10,90" fill="transparent" /></svg>
-
 <svg xmlns="http://www.w3.org/2000/svg"><path d="M10 10 L10 90 L90 90 Z" fill="green" /></svg>
 <svg xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 L45 70 Z" fill="yellow" stroke="black" stroke-width="2" stroke-dasharray="5,5" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" ><path d="M20 20 L70 20 L45 70 Z" fill="red" /></svg>
@@ -392,10 +344,9 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="10,90 50,10 90,90" fill="cyan" rx="10" ry="10" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="none" stroke="green" stroke-width="2" /></svg>
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text></svg><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" /></svg>
-
+</details>
 
 ```html
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -424,7 +375,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <body>
   <div class="svg-container">
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-      <polygon points="50,10 90,90 10,90" fill="blue"/>
+      <polygon points="50,10 90,90 10,90" fill="blue" />
     </svg>
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
       <polygon points="10,10 90,10 50,90" fill="pink" />
@@ -448,17 +399,41 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-<html>
+## example.com
+
+```html
 <details>
+<summary>Form</summary>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 </head>
 <body>
 <div class="1">
-<div class="a">a</div>
-<div class="b">b</div>  
-<div class="c">c</div>
+<div class="a">
+  <form>
+  <input type="radio" name="gender" value="male">
+  <label for="male">Male</label><br>
+  <input type="radio" name="gender" value="female">
+  <label for="female">Female</label><br>
+  <input type="radio" name="gender" value="other">
+  <label for="other">Other</label>
+</form>
+</div>
+<div class="b"><div class="radio-container">
+        <input type="radio" id="radio1" name="radiogroup">
+        <label for="radio1">Option 1</label>
+        <input type="radio" id="radio2" name="radiogroup">
+        <label for="radio2">Option 2</label>
+        <input type="radio" id="radio3" name="radiogroup">
+        <label for="radio3">Option 3</label>
+  </div></div>  
+<div class="c"><select>
+<option>one</option>
+<option>two</option>
+<option>three</option>
+<option>four</option>
+</select></div>
 </div>
 <div class="2">
 <div class="d">d</div>
@@ -470,25 +445,15 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <div class="h">h</div>
 <div class="i">i</div>
 </div>  
-</body>
-</html>
 </details>
+```
 
-1. Ordered
-2. List
+## Growing Trees
 
-- Unordered
-- List
+![extract][tree-one]
+![extract][tree-two]
 
-`
-{
-"firstName": "John",
-"lastName": "Smith",
-"age": 25
-}
-`
-
-Here is a sentence with a footnote. [^2]
+Here is a sentence with a footnote.[^2]
 
 {#custom-id}
 
@@ -496,37 +461,31 @@ terms
 : terms
 : conditions  
 
-~~STRIKETHROUGH~~
-
-That was so funny!
+~~That was so funny!~~
 
 :joy:
 :1st_place_medal:
 :2nd_place_medal:
 :3rd_place_medal:
 
-I need to highlight these `very important words.`
-
-[wiki](https://dev.azure.com/santowskikr/heartofstone) | [go](http://heartofstone.go.studio) | [pay-pal](https://www.paypal.me/kylosanta)  | [w3](https://heartofstoneclothing.w3spaces.com)
+| [wiki][azure] | [go][studio] | [pay-pal][pay-pal]  | [w3][w3] | [wix][wix] | [ie][IE] |
 
 X<sup>2</sup>
 
-- 👀 I’m interested in ...
+- ## 👀 I’m interested in 👀
 
-## Our collaborations🤝
+- ## 🤝 Our collaborations 🤝
 
-[Wix](https://santowskikr.wixsite.com/heartofstoneclothing)
+- ## 💞️ I’m looking to collaborate on 💞️
+
+  - the other projects I've built, but you've misplaced them. fool![^2]
+
+- 📫 How to reach me 📫
 
 ---
 
 [^1]: This is the footnote.
-[^2]: This is another footnote
-
-```def greet(name):
-return f"Hello, {name}!"
-
-print(greet("Kyle"));
-```
+[^2]: This is another footnote. I need to highlight these `very important words.`
 
 <!--
 heartofstoneclothing/heart-of-it-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -536,6 +495,42 @@ You can click the Preview link to take a look at your changes.
 [my kitten]:https://onedrive.live.com/embed?resid=27DD39F30920563B%212338&authkey=%21AIuLcxYeb5VnLtQ&width=4000&height=1800
 [Microsoft Learning Path]:https://learn.microsoft.com/en-us/users/kylesantowski-8459/transcript/71k38hler4x1gpn
 [as i got older]:https://github.com/heartofstoneclothing/heart-of-it-all/assets/124478163/82305e6e-2681-4b49-8088-fb52fbef759d
-[InternetShortcut]:https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v
-[logo]: https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR
+[IE]:https://www.google.com/accounts/ServiceLogin?service=toolbar&nui=1&hl=en&continue=http%3A%2F%2Ftoolbar.google.co.za%2Fcommand%3Fclose_browser&zx=awe3v
+[logo]:https://1drv.ms/i/s!AlQJte9rafrLjBt8RsqLqL-lVpjR
+[email]: mailto:kyle@heartofstoneclothing
+[linkedin]: https://media.licdn.com/dms/image/D4E03AQGlJhnqO2SzLA/profile-displayphoto-shrink_200_200/0/1694552184388?e=1704931200&v=beta&t=krc1Irx7gvruy2Uptv0kBKigUkdamDOAG76AFWxsZ2w
 [instagram]: https://instagram.com/heart_of_stone_clothing_online
+[facebook]: https://facebook.com/heartofstoneclothing
+[linked-in]: https://www.linkedin.com/kyle-santowski-580448195
+[smart-bio]: https://smart.bio/heart_of_stone_clothing_online
+[azure]: https://dev.azure.com/santowskikr/heartofstone
+[studio]: http://heartofstone.go.studio
+[pay-pal]: https://www.paypal.me/kylosanta
+[w3]: https://heartofstoneclothing.w3spaces.com
+[wix]: https://santowskikr.wixsite.com/heartofstoneclothing
+[tree-one]: https://onedrive.live.com/embed?resid=27DD39F30920563B%211312&authkey=%21ADzzOdpq-t6mXXw&height=256
+[tree-two]: https://onedrive.live.com/embed?resid=27DD39F30920563B%211311&authkey=%21AIXwMV2oKhLG4hw&height=256
+[menu]: https://sites.google.com/view/heartofstoneclothes/caf%C3%A9-menu
+[marker]: https://sites.google.com/view/heartofstoneclothes/css-colored-markers
+[registration]: https://sites.google.com/view/heartofstoneclothes/registration-form
+[survey]: https://sites.google.com/view/heartofstoneclothes/survey-form
+[Rothko]: https://sites.google.com/view/heartofstoneclothes/rothko-painting
+[photo gallery]: https://sites.google.com/view/heartofstoneclothes/photo-gallery
+[nutrition]: https://sites.google.com/view/heartofstoneclothes/nutrition-label
+[pay pal]: https://sites.google.com/view/heartofstoneclothes/paypal-buttons
+[penguin]: https://sites.google.com/view/heartofstoneclothes/penguin
+[piano]: https://sites.google.com/view/heartofstoneclothes/piano
+[portfolio]: https://sites.google.com/view/heartofstoneclothes/portfolio-webpage
+[quiz]: https://sites.google.com/view/heartofstoneclothes/quiz
+[shoes]: https://sites.google.com/view/heartofstoneclothes/shoes
+[technical doc]: https://sites.google.com/view/heartofstoneclothes/technical-documentation-page
+[tribute]: https://sites.google.com/view/heartofstoneclothes/tribute-page
+[appointment]: https://sites.google.com/view/heartofstoneclothes/appointment-booking
+[heartofstone]: https://heartofstoneclothing.com
+[data-visualisation-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/data-visualization#:~:text=https%3A//freecodecamp.org/certification/fcc9d8e50d8%2D024e%2D4f1d%2Db49e%2Dbc2927b1692f/data%2Dvisualization
+[front-end-libraries-certificate]:https://freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/front-end-development-libraries
+[javascript-algorithms-data-structures-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures
+[responsive-web-design-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
+[products]: https://heartofstoneclothing.com/products
+
+[//]: # (This behaves like a comment)
