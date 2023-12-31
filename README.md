@@ -225,13 +225,14 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-|**Cafe Menu**|**CSS Colored Markers**|**Registration Form**|**Survey Form**|**Rothko Painting**|**Photo Gallery**|**Nutrition Label**|**Pay-Pal Buttons**|**Penguin**|**Piano**|**Portfolio-Webpage**|**Quiz**|**Random Quote Machine**|**Shoes**|**Technical Documentation Page**|**Tribute Page**|**Appointment Booking**|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| [**Cafe Menu**][menu] | [**CSS Colored Markers**][marker] | [**Registration Form**][registration] | [**Survey Form**][survey] | [**Rothko Painting**][Rothko] | [**Photo Gallery**][photo gallery] | [**Nutrition Label**][nutrition] | [**Pay-Pal Buttons**][pay pal]|[**Penguin**][penguin]|[**Piano**][piano] | [**Portfolio-Webpage**][portfolio] | [**Quiz**][quiz] | [**Random Quote Machine**](https://example.com) | [**Shoes**][shoes] | [**Technical Documentation Page**][technical doc] | [**Tribute Page**][tribute] | [**Appointment Booking**][appointment] |
-||||||||||||||||||
-|What is a cafe menu?|What is a colored marker?|What is a registration form?|What is a survey form?|What is a rothko painting?|What is a photo gallery?|What is a nutrition label?|What are Pay-Pal buttons?|What is a penguin?|What is a piano?|What is a portfolio Webpage?|What is a quiz?|What is a random quote machine?|What are shoes?|What is a technical documentation page?|What is a tribute page?|What is an appointment booking?|
-|[html](https://example.com)|||||||||||||||||
-|[css](https://example.com)|
+||**Cafe Menu**|**CSS Colored Markers**|**Registration Form**|**Survey Form**|**Rothko Painting**|**Photo Gallery**|**Nutrition Label**|**Pay-Pal Buttons**|**Penguin**|**Piano**|**Portfolio-Webpage**|**Quiz**|**Random Quote Machine**|**Shoes**|**Technical Documentation Page**|**Tribute Page**|**Appointment Booking**|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|| [**Cafe Menu**][menu] | [**CSS Colored Markers**][marker] | [**Registration Form**][registration] | [**Survey Form**][survey] | [**Rothko Painting**][Rothko] | [**Photo Gallery**][photo gallery] | [**Nutrition Label**][nutrition] | [**Pay-Pal Buttons**][pay pal]|[**Penguin**][penguin]|[**Piano**][piano] | [**Portfolio-Webpage**][portfolio] | [**Quiz**][quiz] | [**Random Quote Machine**](https://example.com) | [**Shoes**][shoes] | [**Technical Documentation Page**][technical doc] | [**Tribute Page**][tribute] | [**Appointment Booking**][appointment] |
+|||||||||||||||||||
+||What is a cafe menu?|What is a colored marker?|What is a registration form?|What is a survey form?|What is a rothko painting?|What is a photo gallery?|What is a nutrition label?|What are Pay-Pal buttons?|What is a penguin?|What is a piano?|What is a portfolio Webpage?|What is a quiz?|What is a random quote machine?|What are shoes?|What is a technical documentation page?|What is a tribute page?|What is an appointment booking?|
+||[html](https://example.com)|||||||||||||||||
+||[css](https://example.com)|||||||||||||||||
+||[js](https://example.com)|||||||||||||||||
 
 ---
 
@@ -308,9 +309,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 ### 🦸Our staff🦸
 
 ![Kyle Santowski][linkedin]
-
----
-
 | 1. I’m currently learning | 2.[Microsoft Learning Path][Microsoft Learning Path] | 3.[**instagram**][instagram] | 4.[**facebook**][facebook] | 5.[**Kyle Santowski**][linked-in] | 6.[**email**][email] | 7.[**smart.bio**][smart-bio] |
 |--------|--------|--------|--------|--------|--------|--------|
 | 1.{"firstName": "Kyle", "lastName": "Santowski", "age": 30} |2|3|4|5|6|7|
@@ -322,6 +320,7 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
 
 ---
+
 
 <details>
 <summary>SVGs</summary>
@@ -346,7 +345,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><polygon points="50,10 90,90 10,90" fill="brown" /><text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text></svg><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue" /></svg>
 </details>
 
-```html
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -395,7 +393,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
   </div>
 </body>
 </html>
-```
 
 ---
 
@@ -532,4 +529,3 @@ You can click the Preview link to take a look at your changes.
 [javascript-algorithms-data-structures-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures
 [responsive-web-design-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
 [products]: https://heartofstoneclothing.com/products
-
