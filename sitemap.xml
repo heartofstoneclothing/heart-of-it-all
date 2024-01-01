@@ -41,6 +41,13 @@
       <priority>0.8</priority>
    </url>
 
+   <url>
+      <loc>https://sites.google.com/view/heartofstoneclothes?usp=sharing</loc>
+      <lastmod>2023-01-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
    <!-- Add more <url> entries for other pages -->
 
 </url>

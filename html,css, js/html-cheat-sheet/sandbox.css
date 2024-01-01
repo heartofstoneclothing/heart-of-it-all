@@ -1,0 +1,141 @@
+
+.html, 
+.body {
+  background-color: coral;
+}
+
+.left-l {
+  display: flex;
+  background-color: burlywood;
+  padding-top: 10px;
+  margin-top: 3px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-stretch: extra-expanded;
+  font-size: 72px;
+  border-radius: 25px;
+  font-weight: 900;
+}
+
+.right-l {
+  font-family: monospace;
+  background-color: darkmagenta;
+  margin-left: 7px;
+  margin-bottom: 0px;
+  text-align: center; 
+  font-size: 72px;
+  border-radius: 25px;
+  box-shadow: 10px 30px;
+  width: 95%;
+  height: 150px;
+  font-weight: 900;
+  padding: 25px;
+}
+
+.p-l {
+  color: burlywood;
+}
+
+.right-l {
+  padding: 30px;
+  background-color: aquamarine;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  box-shadow: 10px 30px;
+  color: blue;
+}
+
+.right-r {
+  background-color: Aqua;
+  padding: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-stretch: extra-expanded;
+  font-size: 72px;
+  border-radius: 25px;
+  font-weight: 900;
+}
+
+.p-r {
+  color: aquamarine;
+}
+
+.top-l {
+  background-color: Bisque;
+  padding: 20px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-stretch: extra-expanded;
+  font-size: 72px;
+  border-radius: 25px;
+}
+
+.top-r {
+  background-color: lime;
+  padding: 20px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-stretch: extra-expanded;
+  font-size: 72px;
+  border-radius: 25px;
+}
+
+.p-t {
+  color: bisque;
+}
+
+.bottom-l {
+  background-color: Crimson;
+  padding: 20px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-stretch: extra-expanded;
+  font-size: 72px;
+  border-radius: 25px;
+  font-weight: 900;
+}
+
+.bottom-r {
+  background-color: violet;
+  padding: 20px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-stretch: extra-expanded;
+  font-size: 72px;
+  border-radius: 25px;
+  font-weight: 900;
+}
+
+.p-b {
+  color: yellow;
+}
+
+.textarea {
+  height: 1000px;
+  width: 100rem;
+  background-color: cadetblue;
+  border-radius: 15px;
+  font-size: 64px;
+  opacity: 100%;;
+}
+
+.p {
+  background-color: blueviolet;
+  padding: 15px;
+  border-radius: 20px;
+  opacity: 30%;
+}
+
+.footer {
+  background-color: aliceblue;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 108px;
+  margin-bottom: 10px;
+}
