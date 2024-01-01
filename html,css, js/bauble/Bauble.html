@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .bauble-container {
+      display: grid;
+      grid-template-columns: repeat(15, 20px);
+      gap: 5px;
+    }
+
+    .bauble {
+      width: 20px;
+      height: 20px;
+      background-color: Aliceblue; /* or any color you prefer */
+      border-radius: 50%;
+      transition: transform 0.3s ease, background-color 0.3s ease;
+    }
+  </style>
+  <title>Bauble Array</title>
+</head>
+<body>
+  <div class="bauble-container">
+    <!-- Baubles will be dynamically added here using JavaScript -->
+  </div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const baubleContainer = document.querySelector('.bauble-container');
+
+  // Create a 15x15 grid of baubles
+  for (let i = 0; i < 15; i++) {
+    for (let j = 0; j < 15; j++) {
+      const bauble = document.createElement('div');
+      bauble.classList.add('bauble');
+      baubleContainer.appendChild(bauble);
+
+      bauble.addEventListener('click', function () {
+        const newColor = getRandomColor();
+        bauble.style.backgroundColor = newColor;
+      });
+
+      bauble.addEventListener('mouseover', function () {
+        const hoverColor = getRandomColor();
+        bauble.style.backgroundColor = hoverColor;
+        bauble.style.transform = 'scale(1.2)';
+        snapNearbyBaubles(baubleContainer, bauble);
+      });
+
+      bauble.addEventListener('mouseout', function () {
+        bauble.style.transform = 'scale(1)';
+        resetOtherBaubles(baubleContainer);
+      });
+    }
+  }
+
+  // Helper function to create a random color
+  function getRandomColor() {
+    const letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
+  function snapNearbyBaubles(container, targetBauble) {
+    container.childNodes.forEach((bauble) => {
+      if (bauble !== targetBauble) {
+        const distance = calculateDistance(targetBauble, bauble);
+        if (distance < 50) {
+          const scale = 0.8; // Adjust as needed
+          bauble.style.transform = `scale(${scale})`;
+        }
+      }
+    });
+  }
+
+  function calculateDistance(point1, point2) {
+    const rect1 = point1.getBoundingClientRect();
+    const rect2 = point2.getBoundingClientRect();
+
+    const centerX1 = rect1.x + rect1.width / 2;
+    const centerY1 = rect1.y + rect1.height / 2;
+
+    const centerX2 = rect2.x + rect2.width / 2;
+    const centerY2 = rect2.y + rect2.height / 2;
+
+    const deltaX = centerX2 - centerX1;
+    const deltaY = centerY2 - centerY1;
+
+    return Math.sqrt(deltaX ** 2 + deltaY ** 2);
+  }
+
+  function resetOtherBaubles(container) {
+    container.childNodes.forEach((bauble) => {
+      bauble.style.transform = 'scale(1)';
+    });
+  }
+});
+</script>
+</body>
+</html>

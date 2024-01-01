@@ -152,6 +152,7 @@ Are the building blocks of programming in JavaScript. Algorithms are a set of in
 ### 4. [**Responsive Web Design**][responsive-web-design-certificate]
 
 <details>
+
   <summary>Learn more about responsive web design!</summary>
     <p>Responsive Web Design is a way of creating websites that can adapt to different screen sizes and devices, such as desktops, tablets, and phones.</p>
     <p>It uses HTML and CSS to automatically resize, hide, shrink, or enlarge the web page elements to make them look good on any device.</p>
@@ -236,7 +237,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 
 ---
 
-```html
 <details>
 <summary>Badges</summary>
 <ul>
@@ -302,7 +302,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
         </li>
     </ul>
 </details>
-```
 
 ---
 
@@ -320,7 +319,6 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
 
 ---
-
 
 <details>
 <summary>SVGs</summary>
@@ -444,6 +442,9 @@ Check out this pic of my black beauty—she's a legend in her own right. 😼
 </div>  
 </details>
 ```
+
+- list item text
+  list item text
 
 ## Growing Trees
 

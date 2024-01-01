@@ -1,0 +1,15 @@
+/* Bauble Styles */
+.bauble-container {
+    display: grid;
+    grid-template-columns: repeat(15, 20px);
+    gap: 5px;
+  }
+  
+  .bauble {
+    width: 20px;
+    height: 20px;
+    background-color: red; /* or any color you prefer */
+    border-radius: 50%;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  

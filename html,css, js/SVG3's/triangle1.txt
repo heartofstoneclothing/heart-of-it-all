@@ -1,0 +1,499 @@
+
+
+# Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="red"></path>
+</svg>
+
+# Equilateral Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="50,10 90,90 10,90" fill="blue"></polygon>
+</svg>
+
+# Isosceles Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="10,90 50,10 90,90" fill="green"></polygon>
+</svg>
+
+# Right-Angled Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="10,10 10,90 90,90" fill="red"></polygon>
+</svg>
+
+# Scalene Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="20,80 70,20 90,90" fill="orange"></polygon>
+</svg>
+
+# Custom Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="30,10 70,70 10,70" fill="purple"></polygon>
+</svg>
+
+# Gradient Triangle
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="50,10 90,90 10,90" fill="url(#grad)"></polygon>
+  <defs>
+    <linearGradient id="grad" gradientTransform="rotate(90)">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+</svg>
+
+# Hot Pink Triangle with Scattered Stars
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="2" fill="hotpink"></circle>
+  <circle cx="70" cy="30" r="2" fill="hotpink"></circle>
+  <circle cx="50" cy="70" r="2" fill="hotpink"></circle>
+  <polygon points="20,20 70,20 45,70" fill="transparent"></polygon>
+</svg>
+
+# <strike>Lavender</strike>Love Triangle with Clouds
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="lavender" stroke="white" stroke-width="2"></path>
+  <circle cx="30" cy="30" r="5" fill="white"></circle>
+  <circle cx="70" cy="30" r="5" fill="white"></circle>
+  <circle cx="50" cy="70" r="5" fill="white"></circle>
+</svg>
+
+# Dark Orchid Triangle with Hearts
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkorchid"></path>
+  <text x="50%" y="50%" fill="white" font-size="20" text-anchor="middle" alignment-baseline="middle">❤️</text>
+</svg>
+
+# Sandy Brown Triangle with Footprints
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="sandybrown"></path>
+  <circle cx="30" cy="30" r="3" fill="white"></circle>
+  <circle cx="70" cy="30" r="3" fill="white"></circle>
+  <line x1="50" y1="70" x2="50" y2="90" stroke="white" stroke-width="2"></line>
+</svg>
+
+# Medium Slate Blue Triangle with Moon
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumslateblue"></path>
+  <circle cx="80" cy="20" r="10" fill="white"></circle>
+</svg>
+
+# Olive Triangle with Leaves
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="olive"></path>
+  <circle cx="30" cy="30" r="5" fill="green"></circle>
+  <circle cx="70" cy="30" r="5" fill="green"></circle>
+  <line x1="50" y1="70" x2="50" y2="90" stroke="green" stroke-width="2"></line>
+</svg>
+
+# Slate Gray Triangle with Mountains
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="slategray"></path>
+  <polygon points="30,30 50,10 70,30" fill="white"></polygon>
+  <polygon points="40,40 50,20 60,40" fill="white"></polygon>
+</svg>
+
+# Dark Salmon Triangle with Fish
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darksalmon"></path>
+  <circle cx="30" cy="50" r="5" fill="gold"></circle>
+  <circle cx="70" cy="50" r="5" fill="gold"></circle>
+  <path d="M45 70 Q50 60,55 70" fill="none" stroke="gold" stroke-width="2"></path>
+</svg>
+
+# Dim Gray Triangle with Lightning
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="dimgray"></path>
+  <line x1="30" y1="30" x2="50" y2="10" stroke="white" stroke-width="2"></line>
+  <line x1="50" y1="10" x2="70" y2="30" stroke="white" stroke-width="2"></line>
+</svg>
+
+# Medium Purple Triangle with Shooting Star
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumpurple"></path>
+  <line x1="20" y1="20" x2="60" y2="60" stroke="white" stroke-width="2"></line>
+  <polygon points="60,60 70,55 70,65" fill="white"></polygon>
+</svg>
+
+# Midnight Blue Triangle with Waves
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="midnightblue"></path>
+  <path d="M10 50 Q20 60,30 50 T50 50 T70 50" fill="white"></path>
+</svg>
+
+# Dark Cyan Triangle with Abstract Lines
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkcyan"></path>
+  <line x1="30" y1="40" x2="60" y2="40" stroke="white" stroke-width="2"></line>
+  <line x1="30" y1="50" x2="60" y2="50" stroke="white" stroke-width="2"></line>
+  <line x1="30" y1="60" x2="60" y2="60" stroke="white" stroke-width="2"></line>
+</svg>
+
+# Sienna Triangle with Swirls
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="sienna"></path>
+  <path d="M30 50 Q45 60,60 50 T80 50" fill="white"></path>
+  <path d="M30 50 Q45 40,60 50 T80 50" fill="white"></path>
+</svg>
+
+# Light Coral Triangle with Seashell
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="lightcoral"></path>
+  <path d="M30 45 Q40 30,50 45 T70 45" fill="beige"></path>
+</svg>
+
+# Dark Slate Blue Triangle with Constellation
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkslateblue"></path>
+  <circle cx="30" cy="30" r="2" fill="white"></circle>
+  <circle cx="70" cy="30" r="2" fill="white"></circle>
+  <circle cx="50" cy="70" r="2" fill="white"></circle>
+  <line x1="30" y1="30" x2="70" y2="30" stroke="white" stroke-width="2"></line>
+</svg>
+
+# Medium Sea Green Triangle with Bamboo
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumseagreen"></path>
+  <rect x="45" y="40" width="5" height="30" fill="burlywood"></rect>
+  <rect x="47" y="35" width="5" height="40" fill="burlywood"></rect>
+  <rect x="49" y="30" width="5" height="50" fill="burlywood"></rect>
+</svg>
+
+# Rosy Brown Triangle with Flower
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="rosybrown"></path>
+  <circle cx="50" cy="30" r="10" fill="white"></circle>
+  <circle cx="45" cy="25" r="5" fill="yellow"></circle>
+  <circle cx="55" cy="25" r="5" fill="yellow"></circle>
+  <circle cx="50" cy="35" r="5" fill="yellow"></circle>
+</svg>
+
+# Slate Blue Triangle with Circuit Board
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="slateblue"></path>
+  <rect x="35" y="25" width="10" height="10" fill="white"></rect>
+  <rect x="55" y="25" width="10" height="10" fill="white"></rect>
+  <rect x="45" y="40" width="10" height="10" fill="white"></rect>
+</svg>
+
+# Dark Olive Green Triangle with Pine Tree
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkolivegreen"></path>
+  <rect x="43" y="30" width="4" height="15" fill="saddlebrown"></rect>
+  <polygon points="45,20 40,30 50,30" fill="forestgreen"></polygon>
+  <polygon points="45,15 42,25 48,25" fill="forestgreen"></polygon>
+</svg>
+
+# Medium Orchid Triangle with Orchid Blooms
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumorchid"></path>
+  <circle cx="50" cy="30" r="5" fill="orchid"></circle>
+  <circle cx="45" cy="35" r="5" fill="orchid"></circle>
+  <circle cx="55" cy="35" r="5" fill="orchid"></circle>
+</svg>
+
+# Dark Goldenrod Triangle with Shooting Arrows
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkgoldenrod"></path>
+  <line x1="40" y1="25" x2="40" y2="35" stroke="white" stroke-width="2"></line>
+  <line x1="60" y1="25" x2="60" y2="35" stroke="white" stroke-width="2"></line>
+  <line x1="50" y1="20" x2="50" y2="30" stroke="white" stroke-width="2"></line>
+</svg>
+
+# Medium Aquamarine Triangle with Ocean Wave
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumaquamarine"></path>
+  <path d="M20 50 Q30 40,40 50 T60 50 T80 50" fill="white"></path>
+</svg>
+
+# Medium Slate Blue Triangle with Asteroid Belt
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumslateblue"></path>
+  <circle cx="30" cy="30" r="2" fill="white"></circle>
+  <circle cx="70" cy="30" r="2" fill="white"></circle>
+  <circle cx="50" cy="70" r="2" fill="white"></circle>
+  <circle cx="60" cy="60" r="2" fill="white"></circle>
+</svg>
+
+# Pale Violet Red Triangle with Fluttering Butterfly
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="palevioletred"></path>
+  <path d="M40 40 Q45 35,50 40 T60 40" fill="darkorange"></path>
+  <circle cx="60" cy="35" r="3" fill="darkorange"></circle>
+</svg>
+
+# Steel Blue Triangle with Circuit Path
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="steelblue"></path>
+  <path d="M30 25 Q40 30,50 25 T70 25" fill="white"></path>
+  <path d="M30 35 Q40 40,50 35 T70 35" fill="white"></path>
+</svg>
+
+# Dark Olive Green Triangle with Bamboo Forest
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkolivegreen"></path>
+  <rect x="45" y="40" width="5" height="20" fill="saddlebrown"></rect>
+  <rect x="42" y="35" width="5" height="25" fill="saddlebrown"></rect>
+  <rect x="48" y="35" width="5" height="25" fill="saddlebrown"></rect>
+</svg>
+
+# Salmon Triangle with Cherry Blossoms
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="salmon"></path>
+  <circle cx="50" cy="30" r="5" fill="pink"></circle>
+  <circle cx="45" cy="25" r="5" fill="pink"></circle>
+  <circle cx="55" cy="25" r="5" fill="pink"></circle>
+</svg>
+
+# Dark Sea Green Triangle with Seaweed
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkseagreen"></path>
+  <rect x="47" y="35" width="5" height="15" fill="green"></rect>
+  <rect x="53" y="35" width="5" height="15" fill="green"></rect>
+</svg>
+
+# Medium Purple Triangle with Butterfly Wings
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="mediumpurple"></path>
+  <path d="M30 40 Q45 30,60 40 T80 40" fill="pink"></path>
+  <path d="M30 40 Q45 50,60 40 T80 40" fill="pink"></path>
+</svg>
+
+# Light Coral Triangle with Underwater Castle
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="lightcoral"></path>
+  <rect x="45" y="40" width="10" height="15" fill="lightgray"></rect>
+  <polygon points="45,40 50,30 55,40" fill="lightgray"></polygon>
+  <polygon points="50,30 50,20 45,30" fill="lightgray"></polygon>
+  <polygon points="50,30 50,20 55,30" fill="lightgray"></polygon>
+</svg>
+
+# Dark Khaki Triangle with Desert Pyramid
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="darkkhaki"></path>
+  <polygon points="45,40 50,30 55,40" fill="burlywood"></polygon>
+  <polygon points="50,30 50,20 45,30" fill="burlywood"></polygon>
+  <polygon points="50,30 50,20 55,30" fill="burlywood"></polygon>
+</svg>
+
++--------------------+
+|Triangle With Stroke
+|<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+|  <polygon points="50,10 90,90 10,90" fill="yellow" stroke="black" stroke-width="2"></polygon>
+|</svg>
+Rotated Triangle
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="10,10 90,10 50,90" fill="pink"></polygon>
+</svg>
+Triangle with Rounded Corners
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="10,90 50,10 90,90" fill="cyan" rx="10" ry="10"></polygon>
+</svg>
+Hollow Triangle
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="50,10 90,90 10,90" fill="none" stroke="green" stroke-width="2"></polygon>
+</svg>
+Triangle with Dashed Stroke
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="50,10 90,90 10,90" fill="orange" stroke="purple" stroke-width="2" stroke-dasharray="5,5"></polygon>
+</svg>
+Triangle with Pattern Fill
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern1" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="red"></rect>
+    </pattern>
+  </defs>
+  <polygon points="50,10 90,90 10,90" fill="url(#pattern1)"></polygon>
+</svg>
+Triangle with Gradient Stroke
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="50,10 90,90 10,90" fill="green" stroke="url(#grad)" stroke-width="2"></polygon>
+  <defs>
+    <linearGradient id="grad" gradientTransform="rotate(90)">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+</svg>
+Triangle with Text
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="50,10 90,90 10,90" fill="brown"></polygon>
+  <text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">Hello</text>
+</svg>
+Triangle with Gradient Background
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" gradientTransform="rotate(45)">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad2)"></rect>
+  <polygon points="50,10 90,90 10,90" fill="transparent"></polygon>
+</svg>
+Blue Cubic-Bezier Triangle
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 Q45 90, 20 70 T70 70 Z" fill="blue"></path>
+</svg>
+Green Right-Angled Triangle
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 10 L10 90 L90 90 Z" fill="green"></path>
+</svg>
+Purple Triangle with Gradient
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" gradientTransform="rotate(90)">
+      <stop offset="0%" style="stop-color:rgb(255,0,255);stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+  <path d="M20 20 L70 20 L45 70 Z" fill="url(#grad3)"></path>
+</svg>
+Yellow Triangle with Dotted Stroke
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="yellow" stroke="black" stroke-width="2" stroke-dasharray="5,5"></path>
+</svg>
+Cyan Triangle with Rounded Corners
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 90 L50 10 L90 90 Z" fill="cyan" rx="10" ry="10"></path>
+</svg>
+Orange Isosceles Triangle
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 90 L50 10 L90 90 Z" fill="orange"></path>
+</svg>
+Teal Triangle with Pattern Fill
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern2" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="teal"></rect>
+    </pattern>
+  </defs>
+  <path d="M20 20 L70 20 L45 70 Z" fill="url(#pattern2)"></path>
+</svg>
+Maroon Triangle with Gradient Stroke
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="maroon" stroke="url(#grad4)" stroke-width="2"></path>
+  <defs>
+    <linearGradient id="grad4" gradientTransform="rotate(90)">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:rgb(0,255,0);stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+</svg>
+Pink Triangle with Text
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="pink"></path>
+  <text x="50%" y="50%" fill="white" text-anchor="middle" alignment-baseline="middle">SVG 10</text>
+</svg>
+Gray Hollow Triangle
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="none" stroke="gray" stroke-width="2"></path>
+</svg>
+Gold Triangle with Shadow
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="f1" x="0" y="0" width="150%" height="150%">
+      <feOffset result="offOut" in="SourceAlpha" dx="20" dy="20"></feOffset>
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="10"></feGaussianBlur>
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+    </filter>
+  </defs>
+  <polygon points="50,10 90,90 10,90" fill="gold" filter="url(#f1)"></polygon>
+</svg>
+Indigo Triangle with Rotated Pattern
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern3" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="10" height="10" fill="indigo"></rect>
+    </pattern>
+  </defs>
+  <polygon points="50,10 90,90 10,90" fill="url(#pattern3)"></polygon>
+</svg>
+Sky Blue Triangle with Wavy Stroke
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="skyblue" stroke="url(#wave)" stroke-width="2"></path>
+  <defs>
+    <path id="wave" d="M0 5 Q10 0,20 5 T40 5 Q50 0,60 5 T80 5 Q90 0,100 5" fill="none"></path>
+  </defs>
+</svg>
+Violet Triangle with Random Dots
+<svg xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="3" fill="violet"></circle>
+  <circle cx="70" cy="30" r="3" fill="violet"></circle>
+  <circle cx="50" cy="70" r="3" fill="violet"></circle>
+  <polygon points="20,20 70,20 45,70" fill="transparent"></polygon>
+</svg>
+Coral Triangle with Circular Gradient
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad5" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:coral;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:purple;stop-opacity:1"></stop>
+    </radialGradient>
+  </defs>
+  <polygon points="50,10 90,90 10,90" fill="url(#grad5)"></polygon>
+</svg>
+Dark Green Triangle with Diagonal Lines
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern4" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="10" stroke="darkgreen" stroke-width="2"></line>
+    </pattern>
+  </defs>
+  <polygon points="50,10 90,90 10,90" fill="url(#pattern4)"></polygon>
+</svg>
+Silver Triangle with Zigzag Stroke
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="silver" stroke="url(#zigzag)" stroke-width="2"></path>
+  <defs>
+    <pattern id="zigzag" width="10" height="10" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="10" y2="10" stroke="black" stroke-width="2"></line>
+    </pattern>
+  </defs>
+</svg>
+Turquoise Triangle with Spiral
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20 L70 20 L45 70 Z" fill="turquoise" stroke="url(#spiral)" stroke-width="2"></path>
+  <defs>
+|    <path id="spiral" d="M50 50 A20 20 0 0 1 70 70" fill="none"></path>
+| </defs>
+|</svg>
++--------------------
