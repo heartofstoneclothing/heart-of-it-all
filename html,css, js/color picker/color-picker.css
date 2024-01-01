@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:aquamarine;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #colorList {
+    margin-top: 150px;
+  }
+  
+  .color-box {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    border: 10px double #000;
+    vertical-align: middle;
+  }
+  
