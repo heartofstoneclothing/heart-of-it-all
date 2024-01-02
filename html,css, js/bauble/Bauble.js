@@ -16,12 +16,12 @@ document.addEventListener('DOMContentLoaded', function () {
       bauble.addEventListener('mouseover', function () {
         const hoverColor = getRandomColor();
         bauble.style.backgroundColor = hoverColor;
-        bauble.style.transform = 'scale(1.2)';
+        bauble.style.transform = 'scale(1.7)';
         snapNearbyBaubles(baubleContainer, bauble);
       });
 
       bauble.addEventListener('mouseout', function () {
-        bauble.style.transform = 'scale(1)';
+        bauble.style.transform = 'scale(0.1)';
         resetOtherBaubles(baubleContainer);
       });
     }
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function resetOtherBaubles(container) {
     container.childNodes.forEach((bauble) => {
-      bauble.style.transform = 'scale(1)';
+      bauble.style.transform = 'scale(1.5)';
     });
   }
 });
