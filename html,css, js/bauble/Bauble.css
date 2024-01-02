@@ -1,3 +1,7 @@
+* {
+  background-color: coral;
+}
+
 /* Bauble Styles */
 .bauble-container {
     display: grid;
