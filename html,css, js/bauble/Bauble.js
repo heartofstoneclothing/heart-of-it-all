@@ -1,27 +1,63 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Code for bauble creation, event listeners, and interaction
-    // ...
-  
-    function snapNearbyBaubles(container, targetBauble) {
-      // Code for snapping nearby baubles
-      // ...
+  const baubleContainer = document.querySelector('.bauble-container');
+
+  // Create a 15x15 grid of baubles
+  for (let i = 0; i < 15; i++) {
+    for (let j = 0; j < 15; j++) {
+      const bauble = document.createElement('div');
+      bauble.classList.add('bauble');
+      baubleContainer.appendChild(bauble);
+
+      bauble.addEventListener('click', function () {
+        const newColor = getRandomColor();
+        bauble.style.backgroundColor = newColor;
+      });
+
+      bauble.addEventListener('mouseover', function () {
+        const hoverColor = getRandomColor();
+        bauble.style.backgroundColor = hoverColor;
+        bauble.style.transform = 'scale(1.2)';
+        snapNearbyBaubles(baubleContainer, bauble);
+      });
+
+      bauble.addEventListener('mouseout', function () {
+        bauble.style.transform = 'scale(1)';
+        resetOtherBaubles(baubleContainer);
+      });
     }
-  
-    function calculateDistance(point1, point2) {
-      // Code for calculating distance between two points
-      // ...
-    }
-  
-    function resetOtherBaubles(container) {
-      // Code for resetting other baubles
-      // ...
-    }
-  });
-  
-  // ... (previous code)
-  
-  function calc() {
-    // Code for bauble interaction based on mouse position
-    // ...
   }
-  
+
+  // Helper function to create a random color
+  function getRandomColor() {
+    const letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
+  function snapNearbyBaubles(container, targetBauble) {
+    container.childNodes.forEach((bauble) => {
+      if (bauble !== targetBauble) {
+        const distance = calculateDistance(targetBauble, bauble);
+        if (distance < 50) {
+          const scale = 0.8; // Adjust as needed
+          bauble.style.transform = `scale(${scale})`;
+        }
+      }
+    });
+
+    const deltaX = centerX2 - centerX1;
+    const deltaY = centerY2 - centerY1;
+
+    return Math.sqrt(deltaX ** 2 + deltaY ** 2);
+  }
+
+
+  function resetOtherBaubles(container) {
+    container.childNodes.forEach((bauble) => {
+      bauble.style.transform = 'scale(1)';
+    });
+  }
+});
