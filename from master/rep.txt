@@ -1,6 +1,0 @@
-iSCSI Initiator Report
-=======================
-
-
-List of Discovered Targets, Sessions and devices
-==================================================
