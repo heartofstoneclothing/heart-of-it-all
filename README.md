@@ -1,8 +1,8 @@
-# [heartofstone](https://heartofstoneclothes.com)
+# [heartofstone][Google]
 
-[***heartofstoneclothing.com***][heartofstone]
+## [***heartofstoneclothing.com***][heartofstone]
 
-- I would like to share with you the story of how my non-profit charity organization came to be. [^1]
+  - I would like to share with you the story of how my non-profit charity organization came to be. [^1]
   - [***our brand***][heartofstone] was established in 2008 by a small, dedicated group of friends who wanted to make a significant difference in their lives.
   - They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
   - [***Our name***](https://example.com) comes from the idea that we can be strong and resilient in the face of adversity, but also compassionate and caring towards others. [***Our logo***][logo] is a heart-shaped stone that symbolizes our values and mission.
@@ -23,7 +23,8 @@
 
 ---
 
-## IPv4 vs IPv6
+<details><h1><i>IPv4 vs IPv6</i></h1>
+<summary></summary>
 
 |IPv4|128|64|32|16|8|4|2|1|binary|
 |---|---|---|---|---|---|---|---|---|---|
@@ -43,6 +44,7 @@
 | **Header Simplification**  | More complex header                        | Simplified header                         |
 | **Security Features**      | Optional, additional protocols (e.g., IPSec) | Built-in support for IPsec                |
 | **Multicast and Anycast**  | Separate protocols (IGMP) for multicast   | Integrated support for multicast and anycast |
+</details>
 
 ---
 
@@ -530,3 +532,4 @@ You can click the Preview link to take a look at your changes.
 [javascript-algorithms-data-structures-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/javascript-algorithms-and-data-structures
 [responsive-web-design-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
 [products]: https://heartofstoneclothing.com/products
+[Google]: https://sites.google.com/view/heartofstoneclothes/home
