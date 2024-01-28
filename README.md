@@ -16,9 +16,9 @@
 - description of our presence.
 
 ![as i got older][as i got older]
+![svg][svg]
 
 ---
-
 ## 📕Our mission📕
 
 ---
@@ -533,3 +533,4 @@ You can click the Preview link to take a look at your changes.
 [responsive-web-design-certificate]:https://www.freecodecamp.org/certification/fcc9d8e50d8-024e-4f1d-b49e-bc2927b1692f/responsive-web-design
 [products]: https://heartofstoneclothing.com/products
 [Google]: https://sites.google.com/view/heartofstoneclothes/home
+[svg]: https://www.mermaidchart.com/raw/f4f659bf-7d3b-4acf-ab52-971a0b585ccc?theme=light&version=v0.1&format=svg
