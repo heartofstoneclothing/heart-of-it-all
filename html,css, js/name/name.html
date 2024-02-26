@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta information -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Title -->
+  <title>Canvas Animation with Multiple Planets and Blue Block</title>
+  <!-- CSS Styles -->
+  <style>
+    /* Styling for the canvas */
+    canvas {
+      border: 1px solid #000; /* Black border */
+    }
+  </style>
+</head>
+<body>
+  <!-- Canvas element -->
+  <canvas id="myCanvas" width="800" height="800"></canvas>
+
+  <!-- JavaScript for animation -->
+  <script>
+    // Getting the canvas and context
+    var canvas = document.getElementById('myCanvas');
+    var ctx = canvas.getContext('2d');
+
+    // Initial sprite (blue planet) parameters
+    var spriteX = 50; // X position
+    var spriteY = 50; // Y position
+    var spriteSize = 20; // Size
+    var velocity = 2; // Speed
+    var targetX = canvas.width - 50; // Target X
+    var targetY = spriteY; // Target Y
+    var movingToTarget = true; // Movement flag
+
+    // Initial parameters for orbiting planets
+    var planet1Angle = 0; // Angle for planet 1
+    var planet1AngularSpeed = 0.02; // Angular speed of revolution for planet 1
+    var planet1Distance = 50; // Distance of planet 1 from the center
+    var planet1Scale = 0.5; // Scale for planet 1
+
+    var planet2Angle = 0; // Angle for planet 2
+    var planet2AngularSpeed = -0.03; // Angular speed of revolution for planet 2 (counterclockwise)
+    var planet2Distance = 25; // Distance of planet 2 from planet 1
+    var planet2Scale = 0.7; // Scale for planet 2
+
+    var planet3Angle = 0; // Angle for planet 3
+    var planet3AngularSpeed = 0.04; // Angular speed of revolution for planet 3
+    var planet3Distance = 40; // Distance of planet 3 from the center
+    var planet3Scale = 0.6; // Scale for planet 3
+
+    // Animation loop
+    function animate() {
+      // Creating a trail effect
+      ctx.fillStyle = 'rgba(255, 255, 255, 0.05)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      // Updating position of the moving sprite (blue planet)
+      if (movingToTarget) {
+        if (spriteX < targetX) {
+          spriteX += velocity; // Move sprite towards the target in the X direction
+        } else if (spriteY < canvas.height - 50) {
+          spriteY += velocity; // Move sprite towards the target in the Y direction
+        } else {
+          movingToTarget = false; // Change direction once the target is reached
+        }
+      } else {
+        if (spriteX > 50) {
+          spriteX -= velocity; // Move sprite towards the starting position in the X direction
+        } else if (spriteY > 50) {
+          spriteY -= velocity; // Move sprite towards the starting position in the Y direction
+        } else {
+          movingToTarget = true; // Change direction once back to the starting position
+          targetX = canvas.width - 50; // Set new target X position
+          targetY = 50; // Set new target Y position
+        }
+      }
+
+      // Drawing the moving sprite (blue)
+      ctx.fillStyle = 'blue';
+      ctx.beginPath();
+      ctx.moveTo(spriteX + spriteSize / 2, spriteY);
+      ctx.arcTo(spriteX + spriteSize, spriteY, spriteX + spriteSize, spriteY + spriteSize, spriteSize / 4);
+      ctx.arcTo(spriteX + spriteSize, spriteY + spriteSize, spriteX, spriteY + spriteSize, spriteSize / 4);
+      ctx.arcTo(spriteX, spriteY + spriteSize, spriteX, spriteY, spriteSize / 4);
+      ctx.arcTo(spriteX, spriteY, spriteX + spriteSize, spriteY, spriteSize / 4);
+      ctx.closePath();
+      ctx.fill();
+
+      // Calculating position of the first orbiting planet (red)
+      var planet1X = spriteX + planet1Distance * Math.cos(planet1Angle); // Update X position based on angle and distance
+      var planet1Y = spriteY + planet1Distance * Math.sin(planet1Angle); // Update Y position based on angle and distance
+
+      // Drawing the first orbiting planet (red)
+      var planet1Gradient = ctx.createRadialGradient(planet1X, planet1Y, 0, planet1X, planet1Y, 10);
+      planet1Gradient.addColorStop(0, 'red');
+      planet1Gradient.addColorStop(1, 'orange');
+      ctx.fillStyle = planet1Gradient;
+      ctx.beginPath();
+      ctx.arc(planet1X, planet1Y, 10 * planet1Scale, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Updating planet 1 angle and scale for next frame
+      planet1Angle += planet1AngularSpeed;
+      planet1Scale = 0.5 + 0.2 * Math.sin(planet1Angle); // Scale between 0.3 and 0.7
+
+      // Calculating position of the second orbiting planet (green)
+      var planet2X = planet1X + planet2Distance * Math.cos(planet2Angle); // Update X position based on angle and distance
+      var planet2Y = planet1Y + planet2Distance * Math.sin(planet2Angle); // Update Y position based on angle and distance
+
+      // Drawing the second orbiting planet (green)
+      var planet2Gradient = ctx.createRadialGradient(planet2X, planet2Y, 0, planet2X, planet2Y, 10);
+      planet2Gradient.addColorStop(0, 'green');
+      planet2Gradient.addColorStop(1, 'lime');
+      ctx.fillStyle = planet2Gradient;
+      ctx.beginPath();
+      ctx.arc(planet2X, planet2Y, 10 * planet2Scale, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Updating planet 2 angle and scale for next frame
+      planet2Angle += planet2AngularSpeed;
+      planet2Scale = 0.5 + 0.2 * Math.sin(planet2Angle); // Scale between 0.3 and 0.7
+
+      // Calculating position of the third orbiting planet (yellow)
+      var planet3X = spriteX + planet3Distance * Math.cos(planet3Angle); // Update X position based on angle and distance
+      var planet3Y = spriteY + planet3Distance * Math.sin(planet3Angle); // Update Y position based on angle and distance
+
+      // Drawing the third orbiting planet (yellow)
+      var planet3Gradient = ctx.createRadialGradient(planet3X, planet3Y, 0, planet3X, planet3Y, 10);
+      planet3Gradient.addColorStop(0, 'yellow');
+      planet3Gradient.addColorStop(1, 'gold');
+      ctx.fillStyle = planet3Gradient;
+      ctx.beginPath();
+      ctx.arc(planet3X, planet3Y, 10 * planet3Scale, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Updating planet 3 angle and scale for next frame
+      planet3Angle += planet3AngularSpeed;
+      planet3Scale = 0.5 + 0.2 * Math.sin(planet3Angle); // Scale between 0.3 and 0.7
+
+      // Requesting the next animation frame
+      requestAnimationFrame(animate);
+    }
+
+    // Starting the animation
+    animate();
+  </script>
+</body>
+</html>
