@@ -1,6 +1,28 @@
-# [***heartofstoneclothing.com***][heartofstone]
+***
+>  -
+>>    -
+>>>    -
+---
+  |||
+  |-|-|
+  |||
+>>  -
+---
+> -
+---
+>>  -
+  |||
+  |-|-|
+  |||
+---
+>>>    -      
+>>    -
+>  -
+***
 
-****
+
+###### [***heartofstoneclothing.com***][heartofstone]
+
 <details><summary><h1>I'd like to share my story with you...</h1></summary><table><thead><summary><h4><a href="[The Brand](https://heartofstoneclothing.com/_blank)">The Brand</a></h4></summary></thead>
 <ul>
 <tr>
