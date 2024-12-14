@@ -1,6 +1,11 @@
 # HEARTOFSTONECLOTHING.COM
 
-![project_euler](https://projecteuler.net/profile/heartofstone_euler.png)
+||
+|---|
+|![project_euler](https://projecteuler.net/profile/heartofstone_euler.png)|
+||
+
+[python][#python]
 
 ## a fashionable code sense
 
@@ -33,3 +38,4 @@ Thank you for reading and stay tuned for more updates from Heart of Stone Clothi
 heartofstoneclothing/heartofstoneclothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[#python]: https://github.com/heartofstoneclothing/heart-of-it-all/tree/main/python
