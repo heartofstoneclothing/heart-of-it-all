@@ -1,4 +1,7 @@
 # HEARTOFSTONECLOTHING.COM
+
+![project_euler](https://projecteuler.net/profile/heartofstone_euler.png)
+
 ## a fashionable code sense
 
 - Our company🌐
