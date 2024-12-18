@@ -3,13 +3,28 @@
 ||
 |---|
 |![project_euler](https://projecteuler.net/profile/heartofstone_euler.png)|
+|![advent of code](https://adventofcode.com/)|
 ||
+|[python][#python]|
+|[javascript][#javascript]|
 
-[python][#python]
+---
+
+## Mathematics
+
+**The Cauchy-Schwarz Inequality**
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+> This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+
+> To split <span>$</span>100 in half, we calculate $100/2$
+
+---
 
 ## a fashionable code sense
 
-- Our company🌐
+Our company🌐
 Hello, and welcome to the Heart of Stone Clothing! We would like to share with you the story of how our non-profit clothing company came to be.
 
 Heart of Stone Clothing was founded in 2008 by a group of friends who wanted to make a difference in the world. They were inspired by the idea of using art as a tool for social change, and they decided to create a clothing line that would support various causes and charities.
@@ -34,8 +49,10 @@ Thank you for reading and stay tuned for more updates from Heart of Stone Clothi
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... kyle@heartofstoneclothing.com
 
+
 <!---
 heartofstoneclothing/heartofstoneclothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 [#python]: https://github.com/heartofstoneclothing/heart-of-it-all/tree/main/python
+[#javascript]: https://github.com/heartofstoneclothing/heart-of-it-all/tree/main/javascript
