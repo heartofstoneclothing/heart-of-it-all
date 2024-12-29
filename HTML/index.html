@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask CSS/JS Example</title>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+        h1 {
+            color: darkblue;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="header">Hello Motherfucker!</h1>
+    <button id="changeColor">Change Background Color</button>
+
+    <script>
+        // Array of colors to cycle through
+        const colors = ['lightcoral', 'lightgreen', 'lightblue', 'lightpink', 'lightyellow', 'lightgray', 'lavender', 'salmon'];
+        let currentColorIndex = 0; // Start at the first color in the array
+
+        // JavaScript to handle button click and send changes to Flask
+        document.getElementById('changeColor').addEventListener('click', function() {
+            // Change the background color to the next color in the array
+            document.body.style.backgroundColor = colors[currentColorIndex];
+
+            // Send the change to the backend
+            fetch('/record-change', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    change: `Background color changed to ${colors[currentColorIndex]}`
+                })
+            })
+            .then(response => response.json())
+            .then(data => console.log('Success:', data))
+            .catch(error => console.error('Error:', error));
+
+            // Update the index to the next color, wrapping around to the start if needed
+            currentColorIndex = (currentColorIndex + 1) % colors.length;
+        });
+    </script>
+</body>
+</html>
