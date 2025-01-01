@@ -1,14 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
-  <!-- Background -->
-  <rect width="300" height="80" fill="#1877F2" rx="10"/>
-
-  <!-- Facebook Logo Circle -->
-  <circle cx="50" cy="40" r="25" fill="white"/>
-  <path d="M50 28 v10 h-5 v6 h5 v14 h7 V44 h6.5 l1.5-6 h-8 v-4.5 c0-1.5.5-2.5 2.5-2.5 h6 V25 h-8c-6 0-10 3-10 9z" 
-        fill="#1877F2"/>
-
-  <!-- Text -->
-  <text x="90" y="50" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="white" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40">
+  <rect width="150" height="40" fill="#1877F2" rx="5"/>
+  <text x="50" y="25" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="white" font-weight="bold">
     Facebook
   </text>
+  <path fill="white" d="M21.1,12.9h-3.1v-1.9c0-0.9,0.3-1.6,1.2-1.6h1.8V6.2h-2.5c-2.4,0-3.3,1.5-3.3,3.4v2.4h-2.6v3.2h2.6v8.3h3.3v-8.3h3.4
+    L21.1,12.9z"/>
 </svg>
